@@ -1,0 +1,2316 @@
+znacka,model,cena,rok,stav,najeto,palivo,vykon,prevodovka
+Volkswagen,Touran,190000,2014,Ojeté,262223,Nafta,103,Automatická
+Ford,Mondeo,149000,2013,Ojeté,241000,Nafta,147,Automatická
+Mercedes-Benz,GLC,1699000,2025,Ojeté,9500,Nafta,270,Automatická
+Audi,A6,1438000,2024,Ojeté,8600,Nafta,253,Automatická
+BMW,X7,2348000,2024,Ojeté,29500,Nafta,250,Automatická
+BMW,Řada 7,2349000,2024,Ojeté,26200,Nafta,220,Automatická
+Toyota,Corolla,415000,2020,Ojeté,148000,Hybridní,90,Automatická
+Volkswagen,Golf,220000,2016,Ojeté,127700,Nafta,81,Automatická
+BMW,X6,2148000,2024,Ojeté,19900,Benzín,280,
+Volkswagen,Tayron,1449000,2026,Ojeté,10,Nafta,142,Automatická
+Ford,Ranger,399000,2016,Ojeté,181570,Nafta,147,Automatická
+Land Rover,Range Rover Sport,699000,2016,Ojeté,160000,Nafta,250,
+Škoda,Kodiaq,699000,2021,Ojeté,149000,Nafta,147,Automatická
+BMW,Řada 3,324900,2015,Ojeté,185000,Nafta,135,Automatická
+Škoda,Enyaq iV,799900,2024,Ojeté,87000,Elektro,195,Automatická
+Porsche,Cayenne,3338000,2025,Ojeté,13000,Benzín,349,Automatická
+Audi,A6,489000,2020,Ojeté,192300,Nafta,150,Automatická
+Kia,Sportage,777980,2026,Nové,1,Benzín,110,Automatická
+Škoda,Scala,319900,2023,Ojeté,145000,Benzín,70,Manuální
+Dodge,Ram,1039000,2019,Ojeté,158000,LPG + benzín,295,Automatická
+Renault,Twingo,270000,2022,Ojeté,4250,Elektro,60,Automatická
+BMW,X6,2048000,2025,Ojeté,37000,Nafta,210,Automatická
+Škoda,Kodiaq,928000,2024,Ojeté,49490,Nafta,147,Automatická
+Mercedes-Benz,Třídy G,3598000,2021,Ojeté,70000,Benzín,430,Automatická
+Audi,S6,1438000,2024,Ojeté,8600,Nafta,253,Automatická
+Ford,Ranger,1860012,2025,Nové,0,Benzín,215,Automatická
+Volvo,EX30,1029000,2026,Ojeté,3000,Elektro,315,Automatická
+Volvo,V90,619000,2019,Ojeté,170831,Benzín,184,Automatická
+Mercedes-Benz,Třídy G,2725796,2021,Ojeté,106111,Nafta,210,Automatická
+Audi,S6,1350000,2023,Ojeté,27800,Nafta,253,Automatická
+Ford,Ranger,1725823,2025,Nové,0,Benzín,215,Automatická
+Ford,Mustang,1881760,2025,Nové,10,Benzín,334,Automatická
+Škoda,Kodiaq,939000,2024,Ojeté,55000,Nafta,147,Automatická
+Audi,A6,1348000,2023,Ojeté,27800,Nafta,253,Automatická
+BMW,iX,1648000,2025,Ojeté,9000,Elektro,385,Automatická
+Volkswagen,Touran,35000,2009,Ojeté,280000,CNG + benzín,110,Manuální
+Porsche,911,5150000,2025,Ojeté,5990,Benzín,398,Automatická
+Volkswagen,Passat,165000,2010,Ojeté,162000,Benzín,90,Manuální
+BMW,iX,1738000,2025,Ojeté,4900,Elektro,385,Automatická
+Ford,Ranger,1430994,2026,Nové,0,Nafta,151,Automatická
+Ford,Tourneo Custom,1563683,2026,Nové,0,Nafta,125,Automatická
+Ford,Ranger,1567676,2026,Nové,0,Nafta,176,Automatická
+Ford,Ranger,941380,2026,Nové,0,Nafta,125,Manuální
+Ford,Kuga,664900,2026,Nové,10,Benzín,110,Manuální
+Ford,Ranger,941380,2026,Nové,0,Nafta,125,Manuální
+Ford,Ranger,984383,2026,Nové,0,Nafta,125,Manuální
+Ford,Ranger,1470150,2026,Nové,0,Hybridní,207,Automatická
+Ford,Ranger,1534280,2026,Nové,0,Nafta,176,Automatická
+Ford,Tourneo Custom,1580018,2026,Nové,0,Nafta,125,Automatická
+Ford,Ranger,1430994,2026,Nové,0,Nafta,151,Automatická
+Ford,Tourneo Custom,1237951,2026,Nové,0,Nafta,110,Manuální
+Volvo,S90,1069000,2024,Ojeté,23370,Hybridní,335,Automatická
+Ford,Tourneo Custom,1259368,2026,Nové,0,Nafta,110,Manuální
+Ford,Tourneo Custom,1213993,2026,Nové,0,Nafta,110,Manuální
+Ford,Ranger,1369357,2025,Nové,0,Nafta,151,Automatická
+Ford,Tourneo Custom,1550978,2025,Nové,0,Nafta,125,Automatická
+Ford,Bronco,1299900,2023,Nové,0,Benzín,246,Automatická
+Cupra,Formentor,655000,2024,Ojeté,20444,Benzín,110,Automatická
+Ford,Kuga,1052900,2025,Nové,0,Hybridní,134,Automatická
+Ford,Tourneo Custom,1333420,2025,Nové,0,Nafta,110,Manuální
+Ford,Puma,558400,2026,Nové,0,Hybridní,92,Automatická
+Ford,Ranger,1413570,2026,Nové,0,Nafta,151,Automatická
+Ford,Tourneo Connect,1052700,2026,,1,Nafta,90,Manuální
+Mercedes-Benz,AMG GT,1799000,2020,Ojeté,91997,Benzín,320,Automatická
+Ford,Focus,689900,2026,Nové,0,Nafta,85,Automatická
+Ford,Kuga,1012000,2025,Nové,0,Benzín,134,Automatická
+Ford,Ranger,1502626,2025,Nové,0,Nafta,176,Automatická
+Ford,Kuga,950000,2025,Nové,0,Benzín,132,Automatická
+Ford,Tourneo Custom,1333420,2025,Nové,0,Nafta,110,Manuální
+Ford,Tourneo Custom,1623578,2025,Nové,0,Nafta,125,Automatická
+Ford,Ranger,984383,2025,Nové,0,Nafta,125,Manuální
+Ford,Focus,684900,2026,Nové,0,Nafta,85,Automatická
+Ford,Puma,458400,2026,Nové,0,Hybridní,92,Manuální
+Ford,Kuga,950000,2025,Nové,0,Benzín,132,Automatická
+Ford,Kuga,1004000,2025,Nové,0,Hybridní,134,Automatická
+Ford,Ranger,1878525,2025,Nové,0,Benzín,215,Automatická
+Volvo,XC90,349000,2010,Ojeté,213903,Nafta,136,Automatická
+Ford,Puma,498400,2026,Nové,0,Hybridní,92,Manuální
+Ford,Kuga,725900,2025,Nové,0,Benzín,137,Automatická
+Ford,Focus,639900,2026,Nové,0,Benzín,114,Automatická
+Škoda,Octavia,339999,2019,Ojeté,207708,Nafta,110,Automatická
+Ford,Ranger,1399900,2025,Nové,0,Nafta,151,Automatická
+Ford,Tourneo Custom,1569900,2025,Nové,0,Nafta,125,Automatická
+Ford,Ranger,1878525,2025,Nové,0,Benzín,215,Automatická
+XPENG,G9,1722600,2026,Nové,5,Elektro,258,Automatická
+Ford,Ranger,1774163,2025,Nové,0,Benzín,215,Automatická
+Ford,Puma,512300,2026,Nové,0,Hybridní,92,Manuální
+Ford,Kuga,983000,2025,Nové,0,Benzín,178,Automatická
+Ford,Kuga,856500,2025,Nové,0,Hybridní,132,Automatická
+Ford,Kuga,932100,2025,Nové,0,Benzín,132,Automatická
+Škoda,Octavia,329000,2021,Ojeté,144477,Benzín,81,Manuální
+Ford,Ranger,1132270,2025,Nové,0,Nafta,151,Automatická
+Ford,Focus,699900,2026,Nové,0,Nafta,85,Automatická
+Ford,Ranger,1289900,2025,Nové,0,Nafta,151,Automatická
+Volkswagen,Tiguan,792000,2024,Ojeté,30382,Nafta,110,Automatická
+XPENG,G6,1219800,2026,Nové,5,Elektro,218,Automatická
+XPENG,G6,1237700,2025,Nové,5,Elektro,218,Automatická
+XPENG,G6,1157600,2026,Nové,5,Elektro,185,Automatická
+XPENG,G6,1237700,2026,Nové,5,Elektro,218,Automatická
+XPENG,G6,1337700,2025,Nové,5,Elektro,358,Automatická
+XPENG,G6,1237700,2025,Nové,5,Elektro,218,Automatická
+XPENG,G9,1747500,2026,Nové,5,Elektro,258,Automatická
+XPENG,G6,1157600,2026,Nové,5,Elektro,185,Automatická
+XPENG,G6,1257600,2026,Nové,5,Elektro,218,Automatická
+XPENG,G6,1337700,2025,Nové,5,Elektro,358,Automatická
+XPENG,G9,1962600,2025,Nové,5,Elektro,423,Automatická
+XPENG,G6,1257600,2025,Nové,5,Elektro,218,Automatická
+XPENG,G9,1962600,2025,Nové,5,Elektro,423,Automatická
+XPENG,G6,1319800,2026,Nové,5,Elektro,358,Automatická
+XPENG,G6,1239700,2025,Nové,5,Elektro,218,Automatická
+XPENG,G6,1337700,2026,Nové,5,Elektro,358,Automatická
+XPENG,G6,1307800,2026,Nové,5,Elektro,358,Automatická
+Kia,Sorento,1474980,2026,Nové,1,Nafta,142,Automatická
+XPENG,G9,1929700,2025,Nové,5,Elektro,423,Automatická
+XPENG,G9,1724600,2025,Nové,5,Elektro,258,Automatická
+XPENG,G6,1337700,2026,Nové,5,Elektro,358,Automatická
+XPENG,G6,1227700,2025,Nové,5,Elektro,218,Automatická
+XPENG,G9,1962600,2025,Nové,5,Elektro,423,Automatická
+XPENG,G9,1469900,2026,Nové,5,Elektro,258,Automatická
+XPENG,G9,1964600,2025,Nové,5,Elektro,423,Automatická
+XPENG,G6,1319800,2025,Nové,5,Elektro,358,Automatická
+Kia,Niro EV,470000,2020,Ojeté,75110,Elektro,150,Automatická
+XPENG,G6,1227700,2025,Nové,5,Elektro,218,Automatická
+XPENG,G9,1929700,2025,Nové,5,Elektro,423,Automatická
+XPENG,G9,1622700,2026,Nové,5,Elektro,258,Automatická
+XPENG,G6,1307800,2025,Nové,5,Elektro,358,Automatická
+XPENG,G6,1337700,2025,Nové,5,Elektro,358,Automatická
+XPENG,G9,1952600,2025,Nové,5,Elektro,423,Automatická
+XPENG,G6,1337700,2025,Nové,5,Elektro,358,Automatická
+XPENG,G6,1207800,2025,Nové,5,Elektro,218,Automatická
+Seat,Leon,616000,2023,Ojeté,26142,Benzín,110,Automatická
+XPENG,G6,1337700,2025,Nové,5,Elektro,358,Automatická
+XPENG,G9,1962600,2025,Nové,5,Elektro,423,Automatická
+XPENG,G9,1952600,2025,Nové,5,Elektro,423,Automatická
+XPENG,G6,1089900,2026,Nové,5,Elektro,185,Automatická
+XPENG,G6,1189900,2025,Nové,5,Elektro,218,Automatická
+XPENG,G9,1987500,2025,Nové,5,Elektro,423,Automatická
+XPENG,G6,1107800,2026,Nové,5,Elektro,185,Automatická
+Seat,Tarraco,630000,2019,Ojeté,44164,Nafta,110,Automatická
+BMW,i3,380000,2016,Ojeté,42416,Elektro,125,Automatická
+Peugeot,Partner Tepee,69990,2009,Ojeté,308234,Nafta,55,Manuální
+XPENG,G9,1622700,2025,Nové,5,Elektro,258,Automatická
+Ford,Tourneo Custom,919600,2022,Ojeté,96600,Nafta,136,Automatická
+Mercedes-Benz,CLA,449900,2020,Ojeté,200000,Nafta,110,Automatická
+Ford,Tourneo Custom,484000,2017,Ojeté,214622,Nafta,125,Manuální
+XPENG,G9,1599800,2025,Nové,5,Elektro,258,Automatická
+Mercedes-Benz,GLA,779000,2023,Ojeté,36019,Nafta,110,Automatická
+Audi,Q7,715000,2017,Ojeté,142000,Nafta,,Automatická
+Ford,Focus,85000,2009,Ojeté,258279,Nafta,80,Manuální
+Ford,Mondeo,494890,2021,Ojeté,120620,Nafta,140,Automatická
+Ford,Kuga,699990,2023,Ojeté,65905,Nafta,140,Automatická
+Ford,Focus,119000,2010,Ojeté,117174,Benzín,74,Manuální
+Ford,Focus,599000,2024,Ojeté,10747,Benzín,114,Automatická
+XPENG,G9,1622700,2025,Nové,5,Elektro,258,Automatická
+Lincoln,,899990,2022,Ojeté,26968,Benzín,186,Automatická
+Ford,Focus,579000,2024,Ojeté,24112,Nafta,85,Automatická
+Ford,Tourneo Custom,819000,2020,Ojeté,150497,Nafta,136,Manuální
+Hyundai,i30,450000,2022,Ojeté,60000,Benzín,117,Manuální
+Volkswagen,Polo,340000,2019,Ojeté,132101,Benzín,85,Automatická
+Land Rover,Range Rover Velar,1949000,2024,,21500,Nafta,221,Automatická
+Audi,Q5,700000,2020,Ojeté,40094,Hybridní,220,Automatická
+Volkswagen,ID.4,699000,2023,Ojeté,30500,Elektro,150,Automatická
+Jaguar,XF,199000,2012,Ojeté,210800,Nafta,147,Automatická
+Hyundai,i30,220000,2017,Ojeté,122706,Nafta,81,Manuální
+Porsche,Cayenne,950000,2015,Ojeté,222375,Nafta,,
+Volkswagen,ID.5,678000,2022,Ojeté,96909,Elektro,150,Automatická
+Audi,A6 allroad,249000,2012,Ojeté,322083,Nafta,180,Automatická
+Škoda,Superb,449000,2021,Ojeté,141796,Hybridní,160,Automatická
+Mercedes-Benz,Třídy X,1250000,2018,Ojeté,123000,Nafta,190,Automatická
+Porsche,Macan,1480000,2017,Ojeté,56350,Benzín,324,Automatická
+Toyota,Land Cruiser,730000,2005,Ojeté,348677,Nafta,,Automatická
+BMW,Řada 1,199000,2014,Ojeté,162000,Nafta,85,Manuální
+Mini,Cooper S,669000,2021,Ojeté,41819,Benzín,131,Automatická
+Volkswagen,Golf,619000,2019,Ojeté,138054,Benzín,213,Automatická
+Škoda,Octavia,98000,2013,Ojeté,274216,Nafta,77,Manuální
+Škoda,Kodiaq,667000,2021,Ojeté,127828,Nafta,110,Automatická
+Škoda,Octavia,110000,2012,Ojeté,292227,Nafta,77,Manuální
+Škoda,Octavia,200000,2017,Ojeté,144573,Nafta,85,Manuální
+Volkswagen,Passat,488000,2021,Ojeté,137226,Hybridní,160,Automatická
+Toyota,Yaris,265000,2016,Ojeté,69500,Benzín,73,Manuální
+Škoda,Karoq,615000,2024,Ojeté,39478,Benzín,110,Manuální
+Dodge,Ram,1129000,2020,Ojeté,119000,Benzín,295,Automatická
+Land Rover,Defender,2199000,2025,,23700,Nafta,221,Automatická
+Volvo,XC60,1289000,2026,Nové,0,Benzín,184,Automatická
+Volvo,S60,935000,2024,Ojeté,24324,Hybridní,335,Automatická
+Mercedes-Benz,Třídy V,979900,2017,Ojeté,187000,Nafta,140,Automatická
+Mercedes-Benz,Třídy V,1499900,2022,Ojeté,87000,Nafta,174,Automatická
+Volvo,XC90,789900,2018,Ojeté,143000,Nafta,173,Automatická
+Škoda,Karoq,430000,2019,Ojeté,147141,Benzín,110,Automatická
+Audi,RS6,2449000,2020,Ojeté,22000,Benzín,441,Automatická
+Volkswagen,T-Roc,383000,2021,Ojeté,37729,Benzín,85,Manuální
+BMW,Řada 5,669900,2021,Ojeté,250000,Benzín,245,Automatická
+Mercedes-Benz,GLS,949000,2016,Ojeté,140510,Nafta,190,Automatická
+Audi,RS3,769900,2020,Ojeté,170000,Benzín,294,Automatická
+Škoda,Fabia,65000,2011,Ojeté,288700,Nafta,77,Manuální
+Škoda,Superb,619900,2022,Ojeté,126000,Benzín,140,Automatická
+Hyundai,i30,490000,2019,Ojeté,103654,Benzín,202,Manuální
+Audi,Q7,1690000,2025,Ojeté,27900,Nafta,170,Automatická
+Škoda,Superb,649900,2021,Ojeté,91000,Benzín,140,Automatická
+BMW,X5,869900,2019,Ojeté,226000,Nafta,195,Automatická
+Volkswagen,Polo,129900,2010,Ojeté,97000,Nafta,66,Manuální
+BMW,X7,2249900,2023,Ojeté,49000,Nafta,250,Automatická
+Renault,Clio,190000,2019,Ojeté,83003,Benzín,66,Manuální
+Škoda,Octavia,229999,2016,Ojeté,221500,Benzín,110,Manuální
+Ford,Ranger,700000,2021,Ojeté,131492,Nafta,156,Automatická
+Alfa Romeo,Giulia,822800,2022,Ojeté,81000,Benzín,208,Automatická
+Ford,Ranger,649000,2021,Ojeté,168053,Nafta,156,Automatická
+Ford,C-MAX,130000,2014,Ojeté,195062,Nafta,85,Manuální
+Dodge,Ram,1459000,2024,Ojeté,39000,Benzín,295,Automatická
+Ford,C-MAX,65000,2009,Ojeté,180770,Benzín,92,Manuální
+Ford,Ranger,515000,2016,Ojeté,187959,Nafta,147,Automatická
+Renault,Clio,330000,2024,Ojeté,32671,Benzín,67,Manuální
+Land Rover,Defender,2549000,2026,Nové,0,Nafta,257,Automatická
+Volkswagen,Golf,259999,2016,Ojeté,214000,CNG + benzín,81,Automatická
+Ford,Ranger,750000,2019,Ojeté,141735,Nafta,156,Automatická
+Renault,Clio,135000,2017,Ojeté,155076,Benzín,87,Manuální
+Suzuki,Swift,150000,2010,Ojeté,174593,Benzín,92,Manuální
+Suzuki,Swift,205000,2016,Ojeté,123776,Benzín,100,Manuální
+Nissan,Micra,73000,2007,Ojeté,111800,Benzín,65,Manuální
+Peugeot,3008,100000,2013,Ojeté,177910,Nafta,120,Automatická
+Ford,Focus,299000,2021,Ojeté,46473,Benzín,92,Manuální
+Ford,Fiesta,219000,2018,Ojeté,105557,Benzín,103,Manuální
+Ford,C-MAX,119000,2012,Ojeté,149438,Nafta,70,Manuální
+Ford,C-MAX,160000,2015,Ojeté,161165,Nafta,103,Manuální
+Hyundai,ix35,189000,2013,Ojeté,147656,Nafta,100,Manuální
+Volkswagen,Polo,40000,2005,Ojeté,200550,Benzín,40,Manuální
+Volkswagen,Polo,359000,2018,Ojeté,86804,Benzín,70,Manuální
+Mercedes-Benz,Třídy S,5249000,2023,Ojeté,28985,Benzín,450,Automatická
+Ford,Fiesta,139000,2012,Ojeté,87733,Benzín,74,Manuální
+Volkswagen,Polo,320000,2019,Ojeté,122706,Benzín,85,Automatická
+Hyundai,ix35,250000,2011,Ojeté,79597,Benzín,120,Automatická
+Ford,Fiesta,259000,2018,Ojeté,59551,Benzín,74,Manuální
+Audi,A3,370000,2017,Ojeté,163721,Nafta,110,Manuální
+Audi,A3,105000,2006,Ojeté,220047,Nafta,125,Manuální
+Audi,A3,200000,2012,Ojeté,140418,Benzín,90,Manuální
+Ford,Fiesta,85000,2011,Ojeté,121914,Benzín,44,Manuální
+Volkswagen,Polo,340000,2018,Ojeté,137834,Benzín,147,Manuální
+Ford,Fiesta,199000,2018,Ojeté,61885,Benzín,63,Manuální
+Hyundai,ix35,280000,2015,Ojeté,91453,Benzín,122,Automatická
+Audi,A3,235000,2014,Ojeté,129363,Benzín,92,Manuální
+Audi,A3,299000,2016,Ojeté,106330,Nafta,81,Manuální
+Volkswagen,Polo,220000,2015,Ojeté,98950,Benzín,66,Manuální
+Hyundai,ix35,241300,2013,Ojeté,116865,Benzín,122,Automatická
+Škoda,Yeti,165000,2014,Ojeté,186546,Nafta,81,Manuální
+Škoda,Octavia,358800,2021,Ojeté,129980,CNG + benzín,96,Automatická
+BAIC,X75,748990,2026,Nové,10,Benzín,130,Automatická
+Opel,Insignia,175000,2015,Ojeté,190157,Nafta,125,Automatická
+Opel,Insignia,328800,2021,Ojeté,154460,Nafta,128,Manuální
+Volvo,V90,1545000,2025,Ojeté,18981,Hybridní,257,Automatická
+Škoda,Yeti,310000,2014,Ojeté,96692,Nafta,103,Manuální
+Opel,Insignia,210000,2014,Ojeté,110683,Nafta,120,Manuální
+Volkswagen,Touran,450000,2019,Ojeté,139150,Benzín,110,Automatická
+Hyundai,ix35,215000,2012,Ojeté,146677,Nafta,135,Automatická
+Dodge,Ram,1299000,2023,Ojeté,75000,Benzín,295,Automatická
+Peugeot,308,257800,2021,Ojeté,118700,Nafta,96,Manuální
+Opel,Insignia,250000,2017,Ojeté,188881,Nafta,125,Manuální
+Škoda,Yeti,190000,2013,Ojeté,159356,Nafta,103,Manuální
+Opel,Insignia,245000,2017,Ojeté,201035,Nafta,125,Automatická
+Škoda,Yeti,175000,2010,Ojeté,178240,Nafta,81,Manuální
+Opel,Insignia,310000,2018,Ojeté,145788,Nafta,125,Automatická
+Škoda,Yeti,260000,2016,Ojeté,173958,Nafta,110,Manuální
+Citroën,SpaceTourer,638800,2022,Ojeté,129965,Nafta,130,Automatická
+Volkswagen,Touran,125000,2011,Ojeté,203560,Nafta,66,Manuální
+Opel,Insignia,288800,2019,Ojeté,126600,Nafta,125,Automatická
+Audi,A4,325000,2016,Ojeté,182816,Nafta,110,Manuální
+Renault,Mégane,99000,2012,Ojeté,171609,Nafta,81,Manuální
+Volkswagen,Touran,177000,2011,Ojeté,168022,Nafta,77,Manuální
+Škoda,Fabia,226900,2022,Ojeté,158400,Benzín,70,Manuální
+Nissan,Qashqai,250000,2016,Ojeté,63965,Benzín,85,Manuální
+Renault,Mégane,139000,2014,Ojeté,89801,Benzín,85,Manuální
+Nissan,Qashqai,175000,2013,Ojeté,153595,Nafta,96,Manuální
+Renault,Mégane,68000,2009,Ojeté,173386,Benzín,82,Manuální
+Renault,Mégane,60000,2010,Ojeté,262354,Nafta,96,Manuální
+Nissan,Qashqai,255000,2016,Ojeté,97730,Benzín,85,Manuální
+Volkswagen,Touran,300000,2017,Ojeté,275903,Nafta,140,Automatická
+Volvo,S60,979000,2024,Ojeté,17037,Hybridní,257,Automatická
+Nissan,Qashqai,180000,2012,Ojeté,146110,Benzín,86,Manuální
+Hyundai,Tucson,578800,2024,Ojeté,17996,Benzín,110,Automatická
+Audi,A4,275000,2014,Ojeté,175436,Nafta,130,Manuální
+Audi,A4,269000,2013,Ojeté,208939,Nafta,180,Automatická
+Nissan,Qashqai,450000,2021,Ojeté,51961,Benzín,116,Automatická
+Volvo,XC60,1529000,2026,Nové,0,Benzín,184,Automatická
+Renault,Mégane,200000,2018,Ojeté,117189,Benzín,84,Manuální
+Peugeot,5008,148800,2013,Ojeté,147600,Nafta,110,Manuální
+Volkswagen,Touran,310000,2016,Ojeté,159352,Nafta,81,Manuální
+Audi,A4,115000,2009,Ojeté,274873,Nafta,105,Manuální
+Škoda,Octavia,398800,2022,Ojeté,102800,Nafta,85,Manuální
+Kia,Cee´d,335000,2019,Ojeté,63468,Nafta,100,Automatická
+BMW,Řada 3,349000,2015,Ojeté,169352,Benzín,180,Automatická
+Opel,Astra,145000,2013,Ojeté,116457,Benzín,74,Manuální
+BMW,Řada 3,445000,2003,Ojeté,74255,Benzín,170,Automatická
+BMW,Řada 3,345000,2013,Ojeté,145596,Nafta,190,Automatická
+Škoda,Rapid,270000,2017,Ojeté,91382,Benzín,81,Manuální
+Škoda,Fabia,229800,2023,Ojeté,143800,Benzín,70,Manuální
+Škoda,Octavia,468800,2021,Ojeté,99200,Nafta,110,Automatická
+Opel,Astra,220000,2017,Ojeté,136232,Benzín,92,Manuální
+Škoda,Rapid,139000,2013,Ojeté,223217,Nafta,77,Manuální
+Kia,Cee´d,599000,2025,Nové,0,Benzín,103,Automatická
+BMW,Řada 3,140000,2007,Ojeté,271253,Nafta,130,Automatická
+Škoda,Rapid,240000,2017,Ojeté,106215,Benzín,81,Manuální
+Škoda,Fabia,244800,2021,Ojeté,119980,Benzín,70,Manuální
+Audi,A4,440000,2016,Ojeté,101464,Nafta,160,Automatická
+Opel,Astra,150000,2013,Ojeté,135492,Benzín,103,Manuální
+Opel,Astra,100000,2012,Ojeté,272420,Nafta,121,Manuální
+BMW,Řada 3,210000,2015,Ojeté,176279,Nafta,105,Manuální
+Mercedes-Benz,Třídy C,1769000,2019,Ojeté,66932,Benzín,375,Automatická
+BAIC,X35,458890,2026,Nové,28,Benzín,100,Automatická
+Opel,Astra,150000,2018,Ojeté,205739,Nafta,100,Manuální
+Škoda,Rapid,240000,2016,Ojeté,66793,Benzín,81,Manuální
+Kia,Cee´d,435000,2022,Ojeté,118072,Benzín,118,Automatická
+Mercedes-Benz,GLE,1377800,2021,Ojeté,136700,Nafta,243,Automatická
+Hyundai,i30,338800,2023,Ojeté,55900,Benzín,81,Manuální
+Volkswagen,Golf,200000,2014,Ojeté,242308,Nafta,110,Manuální
+Škoda,Rapid,190000,2013,Ojeté,56475,Benzín,63,Manuální
+Ford,S-MAX,269000,2017,Ojeté,156903,Nafta,154,Automatická
+Kia,Cee´d,145000,2017,Ojeté,206571,Nafta,100,Manuální
+Fiat,500,80000,2010,Ojeté,101670,Benzín,51,Manuální
+Dacia,Duster,260000,2018,Ojeté,59388,Benzín,84,Manuální
+Mercedes-Benz,GLE,1899000,2021,Ojeté,84131,Benzín,320,Automatická
+Škoda,Octavia,358800,2021,Ojeté,127400,Nafta,85,Manuální
+Peugeot,207,60000,2009,Ojeté,139887,Nafta,50,Manuální
+Škoda,Fabia,130000,2014,Ojeté,118416,Benzín,63,Manuální
+Kia,Cee´d,245000,2018,Ojeté,63764,Benzín,73,Manuální
+Peugeot,3008,318800,2019,Ojeté,173000,Nafta,96,Automatická
+Kia,Cee´d,370000,2023,Ojeté,90116,Benzín,117,Automatická
+Škoda,Fabia,80000,2011,Ojeté,173042,Nafta,55,Manuální
+Škoda,Fabia,80000,2010,Ojeté,225256,Benzín,77,Manuální
+Volvo,V60,979000,2024,Ojeté,40898,Benzín,194,Automatická
+Škoda,Superb,470000,2015,Ojeté,89048,Nafta,140,Automatická
+Hyundai,Tucson,270000,2016,Ojeté,173135,Nafta,85,Manuální
+Škoda,Fabia,330000,2022,Ojeté,39350,Benzín,59,Manuální
+Škoda,Superb,280000,2017,Ojeté,220653,Nafta,88,Automatická
+Cupra,Formentor,837000,2024,Ojeté,52305,Benzín,180,Automatická
+Volkswagen,Golf,180000,2012,Ojeté,78037,Benzín,77,Manuální
+Škoda,Octavia,100000,2010,Ojeté,242076,Nafta,77,Manuální
+Škoda,Superb,620000,2022,Ojeté,132182,Nafta,147,Automatická
+Ford,Kuga,150000,2008,Ojeté,187538,Nafta,100,Manuální
+Ford,S-MAX,229000,2016,Ojeté,239400,Nafta,110,Automatická
+Ford,S-MAX,299000,2016,Ojeté,152261,Nafta,132,Automatická
+Ford,Kuga,480000,2022,Ojeté,69164,Nafta,110,Manuální
+Hyundai,Tucson,470000,2021,Ojeté,33146,Nafta,85,Manuální
+Kia,Cee´d,599000,2025,Nové,0,Benzín,103,Automatická
+Dacia,Duster,255000,2022,Ojeté,48125,LPG + benzín,67,Manuální
+Škoda,Fabia,330000,2022,Ojeté,18960,Benzín,59,Manuální
+Škoda,Superb,450000,2019,Ojeté,135375,Nafta,140,Automatická
+Škoda,Fabia,130000,2014,Ojeté,131398,Benzín,63,Manuální
+Hyundai,Tucson,588800,2024,Ojeté,19996,Nafta,85,Manuální
+Ford,S-MAX,380000,2021,Ojeté,162181,Nafta,110,Automatická
+Ford,S-MAX,70000,2006,Ojeté,265443,Nafta,103,Manuální
+Kia,Sportage,350000,2017,Ojeté,83178,Benzín,97,Manuální
+Kia,Sportage,270000,2016,Ojeté,85476,Nafta,85,Manuální
+Ford,Kuga,199000,2017,Ojeté,283349,Nafta,110,Manuální
+Ford,Kuga,350000,2019,Ojeté,165770,Nafta,110,Automatická
+Hyundai,i30,248800,2022,Ojeté,136990,Nafta,85,Manuální
+Kia,Sportage,280000,2014,Ojeté,126967,Nafta,135,Automatická
+Abarth,600e,925000,2025,,10900,Elektro,207,Automatická
+Hyundai,i30,278800,2023,Ojeté,114990,Nafta,85,Manuální
+Ford,S-MAX,150000,2013,Ojeté,230010,Nafta,147,Automatická
+Kia,Sportage,695000,2026,Nové,1,Benzín,110,Manuální
+Volkswagen,Tiguan,130000,2008,Ojeté,176683,Benzín,125,Automatická
+Volkswagen,Tiguan,270000,2013,Ojeté,147596,Benzín,132,Automatická
+Ford,Kuga,409000,2019,Ojeté,104808,Nafta,110,Automatická
+Volkswagen,Tiguan,280000,2015,Ojeté,201026,Nafta,103,Automatická
+Volkswagen,Tiguan,179000,2010,Ojeté,194003,Benzín,125,Manuální
+Mercedes-Benz,Třídy S,3099000,2024,Ojeté,32295,Benzín,370,Automatická
+Ford,Kuga,279000,2015,Ojeté,143945,Nafta,110,Manuální
+Ford,Kuga,263000,2016,Ojeté,97479,Benzín,110,Manuální
+Hyundai,i30,210000,2019,Ojeté,174530,Nafta,85,Manuální
+Kia,Sportage,269000,2016,Ojeté,185625,Nafta,100,Manuální
+Kia,Sportage,399000,2016,Ojeté,65724,Benzín,130,Automatická
+Ford,Focus,229000,2019,Ojeté,180773,Benzín,110,Manuální
+Hyundai,Tucson,359000,2015,Ojeté,137404,Nafta,100,Automatická
+Mercedes-Benz,GLE,1299000,2020,Ojeté,104757,Hybridní,235,Automatická
+Hyundai,Tucson,330000,2016,Ojeté,169449,Nafta,100,Automatická
+Ford,Focus,145000,2011,Ojeté,144708,Nafta,85,Manuální
+Škoda,Fabia,279000,2019,Ojeté,54703,Benzín,81,Manuální
+Hyundai,Tucson,590000,2023,Ojeté,4300,Benzín,110,Manuální
+Ford,Focus,350000,2020,Ojeté,135294,Nafta,110,Automatická
+Hyundai,i30,280000,2019,Ojeté,124134,Benzín,103,Automatická
+Volvo,S60,979000,2024,Ojeté,13021,Hybridní,335,Automatická
+Škoda,Fabia,205000,2016,Ojeté,102184,Benzín,66,Manuální
+Ford,Focus,250000,2019,Ojeté,145305,Nafta,88,Manuální
+Hyundai,Tucson,425000,2018,Ojeté,102978,Nafta,136,Manuální
+Hyundai,Tucson,260000,2016,Ojeté,183678,Nafta,85,Manuální
+Hyundai,i30,385000,2020,Ojeté,83217,Benzín,117,Automatická
+Hyundai,i30,348000,2020,Ojeté,51835,Benzín,81,Manuální
+Ford,Focus,130000,2011,Ojeté,254562,Nafta,120,Automatická
+Škoda,Fabia,280000,2017,Ojeté,68442,Benzín,70,Manuální
+Volkswagen,Tiguan,170000,2010,Ojeté,226880,Nafta,125,Manuální
+Hyundai,i30,275000,2020,Ojeté,129102,Nafta,85,Automatická
+Škoda,Superb,210000,2013,Ojeté,238288,Nafta,103,Manuální
+Seat,Ateca,724000,2023,Ojeté,51097,Benzín,110,Automatická
+Volkswagen,Passat,299000,2015,Ojeté,176788,Nafta,110,Automatická
+Škoda,Octavia,280000,2019,Ojeté,137794,Nafta,85,Manuální
+Volkswagen,Golf,300000,2012,Ojeté,91856,Benzín,103,Automatická
+Škoda,Fabia,219000,2017,Ojeté,95268,Nafta,66,Manuální
+Škoda,Superb,389000,2020,Ojeté,239570,Nafta,140,Automatická
+Volkswagen,Passat,350000,2017,Ojeté,109366,Benzín,110,Manuální
+Volkswagen,Golf,389000,2021,Ojeté,95233,Nafta,85,Manuální
+Volkswagen,Golf,385000,2022,Ojeté,156653,Nafta,110,Manuální
+Škoda,Superb,430000,2017,Ojeté,156644,Benzín,206,Automatická
+Volvo,XC90,999000,2022,Ojeté,66300,Nafta,183,Automatická
+Volkswagen,Golf,149990,2010,Ojeté,141393,Benzín,59,Manuální
+Škoda,Superb,375000,2015,Ojeté,106618,Nafta,140,Manuální
+Škoda,Fabia,200000,2020,Ojeté,170153,Benzín,70,Manuální
+Volkswagen,Passat,300000,2016,Ojeté,162860,Nafta,140,Automatická
+Volkswagen,Passat,275000,2015,Ojeté,172253,Nafta,110,Manuální
+Volkswagen,Golf,290000,2016,Ojeté,129525,Benzín,110,Manuální
+Volkswagen,Passat,200000,2013,Ojeté,212226,Nafta,130,Automatická
+Škoda,Superb,115000,2012,Ojeté,217500,Nafta,77,Manuální
+Volkswagen,Golf,369000,2021,Ojeté,86205,Benzín,81,Manuální
+Škoda,Octavia,200000,2013,Ojeté,186199,Nafta,77,Manuální
+Ford,Mondeo,225000,2017,Ojeté,214954,Nafta,110,Manuální
+Škoda,Octavia,259000,2019,Ojeté,184776,Nafta,85,Manuální
+Ford,Mondeo,330000,2019,Ojeté,110429,Benzín,121,Manuální
+Volkswagen,Sharan,209000,2011,Ojeté,186353,Benzín,110,Manuální
+Volvo,S60,899000,2024,Ojeté,37060,Benzín,194,Automatická
+Ford,Mondeo,280000,2019,Ojeté,180667,Nafta,110,Manuální
+Ford,Mondeo,210000,2016,Ojeté,211257,Nafta,88,Manuální
+Škoda,Octavia,350000,2021,Ojeté,181866,Nafta,85,Manuální
+Ford,Mondeo,70000,2010,Ojeté,258865,Nafta,85,Manuální
+Citroën,Berlingo,289900,2019,Ojeté,133923,Nafta,96,Manuální
+Škoda,Octavia,220000,2013,Ojeté,164947,Nafta,110,Manuální
+Volkswagen,Polo,399900,2019,Ojeté,77878,Benzín,147,Manuální
+Opel,Corsa,299000,2023,Ojeté,33000,Benzín,74,Manuální
+Audi,Q3,360000,2015,Ojeté,85572,Nafta,110,Automatická
+Lada,Niva,269999,2016,Ojeté,35600,Benzín,61,Manuální
+Toyota,Auris,255000,2016,Ojeté,130000,Benzín,73,Manuální
+Hyundai,Santa Fe,775000,2020,Ojeté,79000,Benzín,169,Automatická
+Mercedes-Benz,Třídy E,159000,2009,Ojeté,240000,Nafta,,Manuální
+Volkswagen,Tiguan,195000,2014,Ojeté,294158,Nafta,103,Manuální
+Volvo,XC90,129900,2007,Ojeté,309866,Nafta,136,Automatická
+Audi,Q7,1240000,2021,Ojeté,72465,Nafta,210,Automatická
+Volkswagen,Touran,111000,2011,Ojeté,341075,Nafta,77,Manuální
+Škoda,Superb,199000,2014,Ojeté,348000,Nafta,125,Automatická
+Škoda,Superb,359000,2020,Ojeté,212380,Nafta,110,Automatická
+Volkswagen,Golf Plus,139000,2012,Ojeté,182187,Benzín,63,Manuální
+Kia,Cee´d,249000,2022,Ojeté,209000,Nafta,100,Manuální
+Ford,Transit Custom,1075838,2026,Nové,26,Nafta,110,Manuální
+Dodge,Ram,1319000,2021,Ojeté,68000,Benzín,295,Automatická
+Škoda,Octavia,64000,2006,Ojeté,198191,Benzín,75,Manuální
+Volkswagen,Golf,234000,2019,Ojeté,197468,CNG + benzín,96,Automatická
+Volkswagen,Up!,139000,2015,Ojeté,137950,Benzín,44,Manuální
+Volkswagen,Golf,279000,2016,Ojeté,194649,Nafta,110,Automatická
+Škoda,Octavia,155000,2014,Ojeté,160336,Benzín,63,Manuální
+Toyota,Avensis,64000,2007,Ojeté,304700,Nafta,110,Manuální
+BMW,M2,1633500,2024,Ojeté,24000,Benzín,,Automatická
+Ford,Focus,24590,2002,Ojeté,204000,Benzín,74,Manuální
+Mercedes-Benz,GLA,399000,2015,Ojeté,80500,Nafta,100,Automatická
+Škoda,Yeti,269000,2015,Ojeté,175412,Benzín,118,Manuální
+Nissan,LEAF,339000,2020,Ojeté,52201,Elektro,110,Automatická
+Seat,Leon,195000,2014,Ojeté,168858,Benzín,90,Manuální
+BMW,X3,99000,2005,Ojeté,193515,Nafta,150,Automatická
+Ford,S-MAX,148000,2014,Ojeté,293044,Nafta,103,Manuální
+Volkswagen,Transporter,260000,2007,Ojeté,239955,Nafta,75,Manuální
+Volkswagen,Golf,482000,2022,Ojeté,22784,Benzín,96,Manuální
+Škoda,Kamiq,428000,2022,Ojeté,22149,Benzín,81,Manuální
+Volkswagen,Golf,424000,2022,Ojeté,49444,Benzín,110,Manuální
+Škoda,Fabia,389000,2023,Ojeté,36283,Benzín,70,Manuální
+Škoda,Scala,485000,2023,Ojeté,10670,Benzín,81,Manuální
+Škoda,Superb,503000,2021,Ojeté,53737,Nafta,110,Automatická
+Škoda,Karoq,631000,2023,Ojeté,19492,Benzín,110,Manuální
+Škoda,Karoq,611000,2023,Ojeté,33192,Benzín,110,Manuální
+Škoda,Scala,216000,2021,Ojeté,133314,Benzín,70,Manuální
+Škoda,Octavia,374000,2022,Ojeté,154878,Nafta,85,Manuální
+Škoda,Octavia,377000,2021,Ojeté,123404,Benzín,110,Manuální
+Nissan,LEAF,349000,2021,Ojeté,20830,Elektro,110,Automatická
+Audi,A4 Avant,842000,2023,Ojeté,38745,Benzín,150,Automatická
+Škoda,Fabia,373000,2023,Ojeté,43359,Benzín,70,Manuální
+Citroën,C3 Picasso,79000,2010,Ojeté,180516,Nafta,80,Manuální
+Seat,Ibiza,65000,2007,Ojeté,212357,Nafta,59,Manuální
+Cupra,Formentor,688000,2024,Ojeté,37124,Benzín,140,Automatická
+Cupra,Formentor,591000,2023,Ojeté,49716,Benzín,110,Automatická
+Volkswagen,ID.4,904000,2024,Ojeté,50732,Elektro,70,Automatická
+Volkswagen,Multivan,1076900,2019,Ojeté,52800,Nafta,110,Automatická
+Volvo,XC60,1255000,2025,Ojeté,26821,Benzín,194,Automatická
+Volkswagen,Touran,353000,2021,Ojeté,244081,Benzín,110,Automatická
+Renault,Koleos,769000,2021,Ojeté,71000,Nafta,140,Automatická
+Volkswagen,ID.4,912000,2022,Ojeté,17453,Elektro,150,Automatická
+Škoda,Superb,469000,2020,Ojeté,150000,Nafta,110,Automatická
+Volkswagen,Arteon,669000,2023,Ojeté,54551,Nafta,110,Automatická
+Škoda,Kodiaq,935000,2022,Ojeté,33993,Nafta,147,Automatická
+Audi,A3,506000,2023,Ojeté,55788,Benzín,110,Automatická
+Dodge,Ram,1429000,2022,Ojeté,42000,LPG + benzín,306,Automatická
+Škoda,Kamiq,534000,2023,Ojeté,34014,Benzín,81,Manuální
+Škoda,Kodiaq,714000,2023,Ojeté,71442,Nafta,110,Automatická
+Audi,Q3,927000,2023,Ojeté,37137,Nafta,110,Automatická
+Volkswagen,Touran,395000,2016,Ojeté,115000,Benzín,110,Automatická
+Mercedes-Benz,Třídy E,899000,2018,Ojeté,68058,Benzín,295,Automatická
+Škoda,Octavia,289900,2021,Ojeté,257845,Nafta,85,Automatická
+Škoda,Octavia,600000,2021,Ojeté,52338,Hybridní,180,Automatická
+MG,ZS,490000,2025,,17533,Benzín,85,Manuální
+Kia,Cee´d,190000,2016,Ojeté,97910,Benzín,73,Manuální
+Škoda,Karoq,450000,2019,Ojeté,115452,Nafta,110,Manuální
+Hyundai,i30,440000,2025,,13955,Benzín,74,Manuální
+Subaru,Outback,1029000,2025,Nové,12,Benzín,124,Automatická
+MG,ZS,330000,2023,Ojeté,61506,Benzín,78,Manuální
+MG,ZS,380000,2024,Ojeté,7234,Benzín,78,Manuální
+Škoda,Octavia,299000,2019,Ojeté,211000,Nafta,110,Automatická
+Subaru,Outback,1089000,2025,Nové,12,Benzín,124,Automatická
+Subaru,Outback,999000,2025,Nové,12,Benzín,124,Automatická
+Subaru,Outback,999000,2025,Nové,12,Benzín,124,Automatická
+Škoda,Kodiaq,685000,2021,Ojeté,97930,Nafta,110,Automatická
+Volkswagen,Tiguan,380000,2017,Ojeté,210166,Nafta,140,Automatická
+Dodge,Ram,1269000,2022,Ojeté,8500,Benzín,295,Automatická
+MG,ZS,480000,2025,,10584,Benzín,85,Manuální
+Hyundai,i20,190000,2017,Ojeté,57596,Benzín,55,Manuální
+Renault,Trafic,569555,2020,Ojeté,123290,Nafta,107,Manuální
+Volkswagen,Tiguan,280000,2017,Ojeté,287497,Benzín,110,Manuální
+Hyundai,i20,350000,2024,Ojeté,12266,Benzín,58,Manuální
+Škoda,Octavia,210000,2015,Ojeté,151519,Nafta,81,Manuální
+Hyundai,i30,310000,2022,Ojeté,73864,Benzín,88,Manuální
+Škoda,Kodiaq,600000,2019,Ojeté,160269,Nafta,140,Automatická
+Volkswagen,Passat,349000,2017,Ojeté,165000,Nafta,140,Automatická
+Ford,Fiesta,39900,2005,Ojeté,149692,Benzín,59,Manuální
+Kia,Cee´d,50000,2010,Ojeté,173238,Benzín,66,Manuální
+Ford,Kuga,924900,2026,Nové,10,Hybridní,134,Automatická
+Volkswagen,Passat,449000,2020,Ojeté,125362,Nafta,110,Automatická
+Porsche,Cayenne,899555,2015,Ojeté,105400,Benzín,309,Automatická
+Škoda,Karoq,430000,2020,Ojeté,63538,Benzín,85,Manuální
+Subaru,Outback,1275000,2025,Nové,28,Benzín,124,Automatická
+Land Rover,Discovery Sport,729555,2021,Ojeté,69426,Nafta,132,Automatická
+Cupra,Formentor,569555,2022,Ojeté,128629,Nafta,110,Automatická
+Škoda,Octavia,700000,2024,Ojeté,30083,Benzín,110,Automatická
+Toyota,Auris,248000,2014,Ojeté,218000,Hybridní,73,Automatická
+Jeep,Grand Cherokee,330000,2009,Ojeté,135200,Nafta,160,Automatická
+Škoda,Karoq,399000,2018,Ojeté,168618,Nafta,110,Manuální
+Škoda,Roomster,99000,2009,Ojeté,110700,Benzín,51,Manuální
+Renault,Captur,230000,2016,Ojeté,76000,Benzín,87,Manuální
+Škoda,Roomster,99000,2009,Ojeté,130000,Benzín,51,Manuální
+Škoda,Karoq,569000,2022,Ojeté,140734,Benzín,110,Automatická
+Peugeot,208,349555,2022,Ojeté,67465,Elektro,100,Automatická
+Audi,S3,666000,2017,Ojeté,148000,Benzín,228,Automatická
+Subaru,XV,449000,2019,Ojeté,60000,Benzín,115,Automatická
+Dodge,Charger,1100000,2021,Ojeté,55000,Benzín,357,
+Škoda,Kodiaq,599000,2022,Ojeté,146000,Nafta,110,Automatická
+Dodge,Ram,799000,2018,Ojeté,155000,Benzín,295,Automatická
+Peugeot,307,44000,2004,Ojeté,200000,Benzín,80,Manuální
+BMW,i3,499555,2021,Ojeté,78360,Elektro,125,Automatická
+Škoda,Octavia,569000,2023,Ojeté,113161,Nafta,110,Automatická
+Škoda,Roomster,139000,2009,Ojeté,125000,Benzín,77,Manuální
+Volvo,XC40,699000,2020,Ojeté,83000,Nafta,110,Automatická
+Škoda,Fabia,189000,2020,Ojeté,170479,Benzín,70,Manuální
+Škoda,Octavia,154000,2009,Ojeté,95200,Benzín,90,Manuální
+Škoda,Scala,315000,2020,Ojeté,166000,Nafta,85,Automatická
+BMW,Řada 3,279000,2009,Ojeté,190803,Benzín,200,Manuální
+Peugeot,207,59999,2008,Ojeté,117000,Benzín,70,Manuální
+Volkswagen,Golf,355000,2017,Ojeté,135000,Benzín,110,Automatická
+Volkswagen,Touran,185000,2011,Ojeté,157160,Benzín,103,
+BMW,Řada 3,549000,2020,Ojeté,154083,Nafta,140,Automatická
+Škoda,Octavia,189000,2012,Ojeté,369307,Nafta,103,Manuální
+Volkswagen,Tiguan,219000,2012,Ojeté,227765,Nafta,81,Manuální
+Volkswagen,Golf,239000,2014,Ojeté,220736,Nafta,110,Manuální
+Dacia,Sandero,38000,2008,Ojeté,188000,Benzín,55,Manuální
+Land Rover,Range Rover Velar,2299000,2025,Nové,0,Nafta,221,Automatická
+Opel,Meriva,199000,2016,Ojeté,110084,Benzín,103,Manuální
+Volvo,S60,959000,2024,Ojeté,30728,Hybridní,257,Automatická
+BMW,X6,544500,2011,Ojeté,271019,Nafta,225,Automatická
+Ford,Fusion,49000,2003,Ojeté,137300,Benzín,74,Manuální
+Chevrolet,Corvette,2099000,2022,Ojeté,69000,Benzín,369,Automatická
+Škoda,Octavia,244000,2018,Ojeté,239570,Nafta,85,Automatická
+Volkswagen,Transporter,199000,2010,Ojeté,520143,Nafta,103,Manuální
+Škoda,Octavia,509000,2022,Ojeté,122940,Nafta,110,Automatická
+BMW,Řada 5,320000,2015,Ojeté,254200,Nafta,230,Automatická
+Audi,A3,229000,2013,Ojeté,55816,Benzín,90,Manuální
+Škoda,Octavia,799000,2021,Ojeté,54000,Nafta,147,Automatická
+Peugeot,5008,150000,2011,Ojeté,205019,Nafta,82,Manuální
+Land Rover,Range Rover Velar,1699000,2023,Ojeté,27688,Hybridní,297,Automatická
+Mini,One,49000,2003,Ojeté,221412,Nafta,55,Manuální
+Volkswagen,Passat,85000,2006,Ojeté,230415,Benzín,75,Manuální
+Škoda,Fabia,125000,2014,Ojeté,149841,Benzín,63,Manuální
+Ford,Kuga,921844,2026,Nové,15,Benzín,134,Automatická
+Škoda,Octavia,310000,2018,Ojeté,172700,Nafta,85,Automatická
+Renault,Clio,59000,2006,Ojeté,103604,Benzín,55,
+Cupra,Formentor,709000,2024,Ojeté,29000,Benzín,140,Automatická
+Škoda,Octavia,340000,2019,Ojeté,125500,Benzín,110,Automatická
+Ford,Focus,50000,2010,Ojeté,114486,Benzín,74,Manuální
+Mazda,CX-5,519000,2020,Ojeté,94000,Benzín,121,Manuální
+Mazda,CX-5,449000,2017,Ojeté,121000,Benzín,121,Manuální
+Škoda,Superb,150000,2010,Ojeté,234600,Nafta,125,Manuální
+Mazda,6,365000,2015,Ojeté,143000,Benzín,121,Manuální
+Volvo,V70,222999,2015,Ojeté,216811,Nafta,133,Manuální
+Dacia,Logan,130000,2016,Ojeté,35034,Benzín,54,Manuální
+Škoda,Fabia,235000,2016,Ojeté,113000,Benzín,66,Manuální
+BMW,Z4,945000,2021,Ojeté,6000,Benzín,190,Automatická
+Škoda,Octavia,210000,2017,Ojeté,256000,Nafta,85,Manuální
+Mazda,6,375000,2017,Ojeté,129500,Benzín,121,Manuální
+Ford,Fiesta,30000,2006,Ojeté,189941,Benzín,51,Manuální
+Škoda,Fabia,116000,2012,Ojeté,93994,Benzín,63,Manuální
+Volkswagen,Golf,190000,2013,Ojeté,215543,Nafta,81,Automatická
+Seat,Ibiza,50000,2008,Ojeté,180926,Benzín,63,Manuální
+Škoda,Superb,650000,2021,Ojeté,63803,Hybridní,160,Automatická
+Mazda,6,80000,2008,Ojeté,233546,Benzín,108,Automatická
+Škoda,Superb,310000,2017,Ojeté,281643,Nafta,140,Automatická
+Opel,Agila,70000,2009,Ojeté,33293,Benzín,48,Manuální
+Škoda,Scala,460000,2021,Ojeté,59556,Benzín,110,Automatická
+Škoda,Fabia,90000,2010,Ojeté,173676,Nafta,55,Manuální
+Dacia,Duster,290000,2021,Ojeté,68795,Benzín,74,Manuální
+Nissan,Qashqai,80000,2009,Ojeté,235806,Benzín,84,Manuální
+BMW,Řada 5,380000,2016,Ojeté,138428,Nafta,160,Automatická
+Dacia,Duster,150000,2015,Ojeté,137181,Benzín,92,Manuální
+Škoda,Superb,200000,2012,Ojeté,205084,Nafta,103,Automatická
+Škoda,Fabia,280000,2018,Ojeté,94539,Benzín,81,Manuální
+Dodge,Ram,1099000,2020,Ojeté,169000,Benzín,295,Automatická
+Škoda,Superb,370000,2016,Ojeté,183941,Nafta,140,Automatická
+Hyundai,Tucson,570000,2023,Ojeté,18000,Benzín,110,Automatická
+Hyundai,Tucson,400000,2019,Ojeté,166124,Nafta,136,Manuální
+Ford,Kuga,220000,2014,Ojeté,183527,Nafta,110,Manuální
+Volkswagen,Golf,364000,2021,Ojeté,89299,Benzín,81,Manuální
+Škoda,Fabia,320000,2023,Ojeté,37026,Benzín,59,Manuální
+Škoda,Fabia,85000,2010,Ojeté,236208,Benzín,77,Manuální
+Škoda,Octavia,25000,1999,Ojeté,130000,Benzín,110,Manuální
+Škoda,Scala,381000,2022,Ojeté,98678,Benzín,81,Manuální
+Nissan,Note,109000,2008,Ojeté,72341,Benzín,65,Manuální
+Škoda,Fabia,370000,2023,Ojeté,15811,Benzín,70,Manuální
+Dodge,Ram,1259000,2020,Ojeté,185000,LPG + benzín,301,Automatická
+Ford,Kuga,670000,2022,Ojeté,15056,Hybridní,165,Automatická
+Škoda,Karoq,550000,2024,Ojeté,78521,Benzín,110,Manuální
+Volkswagen,Golf,120000,2011,Ojeté,138629,Benzín,63,Manuální
+Kia,Sportage,650000,2023,Ojeté,5400,Benzín,110,Automatická
+Škoda,Octavia,479000,2022,Ojeté,82476,Nafta,110,Automatická
+Škoda,Fabia,440000,2023,Ojeté,23500,Benzín,81,Manuální
+Volkswagen,Golf,564000,2021,Ojeté,101197,Nafta,147,Automatická
+Škoda,Karoq,707000,2023,Ojeté,28675,Benzín,110,Automatická
+Škoda,Rapid,249000,2018,Ojeté,118000,Benzín,92,Automatická
+Škoda,Fabia,274000,2021,Ojeté,88082,Benzín,70,Manuální
+Škoda,Scala,452000,2023,Ojeté,25336,Benzín,81,Manuální
+Ford,Ranger,1680000,2026,Nové,12,Nafta,176,Automatická
+Škoda,Scala,440000,2024,Ojeté,28562,Benzín,85,Manuální
+Škoda,Kodiaq,611000,2021,Ojeté,98185,Nafta,110,Automatická
+Volkswagen,Golf,249900,2013,Ojeté,137294,Benzín,103,Manuální
+Dodge,Challenger,729000,2021,Ojeté,17966,Benzín,227,Automatická
+Ford,Focus,129900,2011,Ojeté,145122,Nafta,85,Manuální
+Škoda,Octavia,149000,2014,Ojeté,252190,Nafta,66,Manuální
+Mercedes-Benz,Třídy E,469900,2016,Ojeté,242000,Benzín,245,Automatická
+Hyundai,i30,130000,2013,Ojeté,162448,Nafta,81,Manuální
+Volkswagen,Passat,399000,2015,Ojeté,161839,Nafta,176,
+Volvo,XC90,519000,2017,Ojeté,239949,Nafta,173,Automatická
+Škoda,Karoq,600000,2024,Ojeté,38508,Benzín,110,Manuální
+Škoda,Octavia,330000,2020,Ojeté,133892,Nafta,85,Manuální
+Volvo,XC90,799000,2019,Ojeté,139983,Benzín,228,Automatická
+Škoda,Superb,560000,2019,Ojeté,146800,Hybridní,160,Automatická
+Cupra,Formentor,605000,2023,Ojeté,44923,Benzín,110,Automatická
+Škoda,Octavia,427000,2021,Ojeté,68621,CNG + benzín,96,Automatická
+Volkswagen,Caddy,278000,2020,Ojeté,240985,Nafta,75,Manuální
+Škoda,Karoq,320000,2020,Ojeté,191861,Nafta,85,Manuální
+Mercedes-Benz,Třídy E,485000,2020,Ojeté,226200,Nafta,144,Automatická
+Volkswagen,Sharan,610000,2019,Ojeté,114250,Nafta,130,Automatická
+Volkswagen,Passat,399990,2020,Ojeté,179990,Nafta,147,Automatická
+Opel,Insignia,448000,2021,Ojeté,119838,Benzín,169,Automatická
+Peugeot,208,139000,2016,Ojeté,86356,Benzín,60,Manuální
+Škoda,Yeti,160000,2014,Ojeté,269755,Nafta,81,Manuální
+Land Rover,Discovery Sport,1099000,2023,Ojeté,20737,Nafta,150,Automatická
+Volvo,,1079000,2026,Nové,0,Elektro,175,Automatická
+Hyundai,Tucson,270000,2016,Ojeté,166073,Nafta,85,Manuální
+Peugeot,5008,330000,2018,Ojeté,152752,Nafta,88,Manuální
+Hyundai,Tucson,460000,2022,Ojeté,45776,Nafta,85,Manuální
+Škoda,Kodiaq,798000,2022,Ojeté,81786,Nafta,110,Automatická
+Škoda,Octavia,339900,2021,Ojeté,202976,Nafta,85,Manuální
+Volkswagen,Multivan,1249000,2024,Ojeté,32048,Hybridní,160,Automatická
+Volkswagen,Touran,50000,2008,Ojeté,217862,Nafta,77,Automatická
+Hyundai,Kona,320000,2018,Ojeté,98156,Benzín,88,Manuální
+Škoda,Karoq,570000,2022,Ojeté,74680,Benzín,110,Automatická
+Mercedes-Benz,ML,420000,2013,Ojeté,167500,Nafta,150,Automatická
+Peugeot,5008,320000,2018,Ojeté,214111,Nafta,110,Manuální
+Land Rover,Discovery,700000,2018,Ojeté,42629,Nafta,190,Automatická
+Hyundai,i30,223000,2017,Ojeté,62832,Benzín,88,Manuální
+Fiat,Tipo,250000,2016,Ojeté,217725,Nafta,88,Manuální
+MG,HS,675000,2025,,1530,Hybridní,190,Automatická
+Volkswagen,Golf Plus,180000,2013,Ojeté,112459,Benzín,77,Automatická
+Renault,Captur,245000,2018,Ojeté,41118,Benzín,66,Manuální
+Škoda,Octavia,50000,2009,Ojeté,313432,Benzín,118,Manuální
+Hyundai,i30,720000,2023,Ojeté,13500,Benzín,206,Manuální
+Volkswagen,Passat CC,150000,2009,Ojeté,226557,Nafta,103,Manuální
+Volvo,XC90,500000,2015,Ojeté,180731,Nafta,165,Automatická
+Volvo,XC60,1249000,2024,Ojeté,20059,Hybridní,228,Automatická
+Land Rover,Defender,1599000,2022,Ojeté,35016,Nafta,183,Automatická
+Škoda,Octavia,515000,2022,Ojeté,51626,Benzín,110,Automatická
+Volkswagen,Golf,50000,2005,Ojeté,270269,Benzín,85,Manuální
+BMW,Řada 1,70000,2005,Ojeté,209692,Benzín,110,Manuální
+Opel,Astra,80000,2009,Ojeté,171075,Nafta,81,Manuální
+Mazda,6,420000,2019,Ojeté,116000,Benzín,121,Automatická
+Mercedes-Benz,SLK,400000,2012,Ojeté,129273,Benzín,135,Automatická
+Škoda,Superb,170000,2014,Ojeté,337885,Nafta,103,Automatická
+BMW,Řada 1,29000,2006,Ojeté,299000,Benzín,85,Manuální
+Ford,Tourneo Custom,1180000,2024,Ojeté,18397,Nafta,125,Automatická
+Volvo,V90,410000,2018,Ojeté,174702,Benzín,140,Automatická
+Škoda,120,90000,1986,Ojeté,62479,Benzín,36,Manuální
+Škoda,Superb,170000,2012,Ojeté,273950,Nafta,125,Manuální
+Škoda,Rapid,100000,2013,Ojeté,249850,Benzín,63,Manuální
+Škoda,Octavia,16000,2008,Ojeté,294000,Nafta,103,Automatická
+Volkswagen,Golf Sportsvan,279000,2014,Ojeté,51994,Benzín,81,Manuální
+Volkswagen,Passat,715000,2021,Ojeté,73557,Benzín,206,Automatická
+Volkswagen,Tiguan,679000,2021,Ojeté,147875,Nafta,110,Automatická
+Mercedes-Benz,GLA,749000,2023,Ojeté,32856,Benzín,100,Automatická
+Škoda,Superb,639000,2020,Ojeté,124569,Nafta,140,Automatická
+Škoda,Superb,525000,2021,Ojeté,252334,Nafta,110,Manuální
+Škoda,Karoq,649000,2021,Ojeté,118887,Nafta,110,Automatická
+Volvo,S90,1025000,2024,Ojeté,25129,Hybridní,335,Automatická
+Škoda,Rapid,209000,2014,Ojeté,98308,Benzín,63,Manuální
+Škoda,Superb,719000,2020,Ojeté,114365,Nafta,110,Automatická
+Mercedes-Benz,GLK,210000,2009,Ojeté,210000,Nafta,175,Automatická
+Audi,S6 Avant,1175000,2019,Ojeté,70436,Nafta,257,Automatická
+Volkswagen,Caddy,199000,2009,Ojeté,236903,Nafta,77,Automatická
+Mercedes-Benz,Třídy V,2069100,2023,Ojeté,55100,Nafta,174,Automatická
+Audi,S7,1399000,2019,Ojeté,114728,Nafta,257,Automatická
+Audi,S6,1175000,2019,Ojeté,70436,Nafta,257,Automatická
+Mercedes-Benz,GLE,1999000,2023,Ojeté,37953,Nafta,243,Automatická
+Škoda,Superb,425000,2016,Ojeté,192517,Nafta,140,Automatická
+Škoda,Superb,555000,2017,Ojeté,148639,Nafta,140,Automatická
+BMW,X6,1549000,2021,Ojeté,117818,Nafta,210,Automatická
+Audi,S7,1489000,2021,Ojeté,95302,Nafta,253,Automatická
+Škoda,Superb,719000,2019,Ojeté,95356,Benzín,200,Automatická
+Kia,Rio,299000,2022,Ojeté,40000,Benzín,62,Manuální
+Škoda,Octavia,645000,2020,Ojeté,142880,Benzín,180,Automatická
+Opel,Zafira,184000,2014,Ojeté,108000,Benzín,,Manuální
+Mercedes-Benz,Třídy C,239000,2012,Ojeté,192513,Benzín,115,Automatická
+Škoda,Superb,449000,2021,Ojeté,189999,Nafta,90,Automatická
+Volkswagen,Touran,540000,2018,Ojeté,99360,Nafta,110,Automatická
+Škoda,Kodiaq,845000,2022,Ojeté,115322,Nafta,147,Automatická
+Škoda,Octavia,545000,2021,Ojeté,163078,Nafta,147,Automatická
+Škoda,Octavia,199000,2009,Ojeté,202992,Nafta,77,Manuální
+Škoda,Superb,575000,2020,Ojeté,146958,Nafta,147,Automatická
+Mercedes-Benz,Třídy S,2345000,2023,Ojeté,70540,Nafta,243,Automatická
+Kia,Cee´d,179000,2018,Ojeté,218000,Nafta,100,Manuální
+BMW,X1,569000,2019,Ojeté,82496,Nafta,140,Automatická
+Volkswagen,Sharan,279000,2017,Ojeté,362000,Nafta,110,Automatická
+Ford,Fiesta,49000,2010,Ojeté,219000,Nafta,70,Manuální
+Mercedes-Benz,Třídy E,248500,2010,Ojeté,277000,Nafta,170,Automatická
+Subaru,XV,400000,2018,Ojeté,67000,Benzín,84,Automatická
+Mercedes-Benz,GLE,2649000,2025,Ojeté,2496,Nafta,270,Automatická
+Škoda,Superb,575000,2022,Ojeté,176451,Benzín,140,Automatická
+Škoda,Fabia,253000,2021,Ojeté,101284,Benzín,70,Manuální
+Ford,Mondeo,265000,2015,Ojeté,157742,Nafta,132,Automatická
+Hyundai,Tucson,515000,2022,Ojeté,122909,Hybridní,169,Automatická
+Volkswagen,Touran,129000,2010,Ojeté,307000,Nafta,77,Manuální
+Mazda,CX-5,490000,2019,Ojeté,101006,Benzín,143,Automatická
+Chevrolet,Captiva,70000,2007,Ojeté,209704,Nafta,110,Automatická
+Škoda,Fabia,245000,2021,Ojeté,66880,Benzín,70,Manuální
+Nissan,Qashqai,180000,2017,Ojeté,198657,Benzín,85,Manuální
+Škoda,Scala,348000,2022,Ojeté,120740,Benzín,81,Manuální
+Land Rover,Defender,4799000,2025,Nové,0,Benzín,467,Automatická
+Ford,Ranger,229000,2015,Ojeté,272955,Nafta,110,Manuální
+Volkswagen,Golf,450000,2022,Ojeté,54019,Benzín,96,Manuální
+Volkswagen,Golf,532000,2023,Ojeté,41764,Benzín,96,Manuální
+Škoda,Karoq,430000,2017,Ojeté,160800,Benzín,110,Automatická
+Škoda,Octavia,80000,2010,Ojeté,165439,Benzín,77,Manuální
+Mercedes-Benz,AMG GT,2249000,2022,Ojeté,60351,Benzín,320,Automatická
+Volkswagen,Passat,210000,2015,Ojeté,167000,Nafta,110,Manuální
+Škoda,Kodiaq,570000,2021,Ojeté,214462,Nafta,147,Automatická
+Hyundai,i30,280000,2021,Ojeté,110848,Benzín,88,Manuální
+Peugeot,3008,140000,2015,Ojeté,176040,Nafta,88,Manuální
+Škoda,Karoq,270000,2019,Ojeté,225690,Benzín,85,Manuální
+Peugeot,5008,80000,2011,Ojeté,206001,Nafta,82,Manuální
+Volkswagen,Golf,240000,2013,Ojeté,136460,Benzín,90,Automatická
+MG,ZS,423000,2025,,3688,Benzín,78,Manuální
+Škoda,Octavia,450000,2022,Ojeté,78714,Benzín,110,Manuální
+Škoda,Octavia,30000,2008,Ojeté,323614,Nafta,77,Manuální
+Škoda,Scala,351000,2021,Ojeté,48296,Benzín,81,Manuální
+Škoda,Superb,80000,2009,Ojeté,235292,Nafta,125,Manuální
+Škoda,Octavia,411000,2021,Ojeté,92663,Benzín,110,Manuální
+Cupra,Formentor,629000,2024,Ojeté,64949,Benzín,140,Automatická
+Dacia,Duster,339000,2022,Ojeté,50000,Benzín,,Manuální
+Citroën,C4 Picasso,160000,2015,Ojeté,170530,Nafta,85,Manuální
+Mercedes-Benz,Třídy A,1399000,2024,Ojeté,20104,Benzín,310,Automatická
+Škoda,Fabia,85000,2009,Ojeté,169716,Benzín,77,Manuální
+Škoda,Octavia,626000,2021,Ojeté,25974,Nafta,110,Automatická
+BMW,Řada 5,1100000,2023,Ojeté,44690,Nafta,145,Automatická
+Volkswagen,Golf,330000,2019,Ojeté,64129,Benzín,85,Manuální
+Cupra,Formentor,686000,2024,Ojeté,22364,Benzín,140,Automatická
+Ford,Fiesta,25000,2003,Ojeté,240560,Benzín,59,Manuální
+Volvo,XC90,1249000,2022,Ojeté,80471,Nafta,173,Automatická
+Ford,Kuga,420000,2018,Ojeté,65838,Benzín,129,Automatická
+MG,ZS,480000,2025,,12934,Benzín,85,Manuální
+Kia,Cee´d,75000,2012,Ojeté,321438,Nafta,94,Manuální
+Škoda,Karoq,620000,2024,Ojeté,38582,Benzín,110,Manuální
+Volkswagen,Tiguan,180000,2009,Ojeté,199794,Nafta,103,Manuální
+Kia,Cee´d,320000,2018,Ojeté,123736,Nafta,100,Automatická
+Dacia,Duster,360000,2022,Ojeté,37274,Benzín,67,Manuální
+Škoda,Octavia,160000,2018,Ojeté,351557,Nafta,85,Manuální
+Škoda,Fabia,175000,2018,Ojeté,81276,Benzín,44,Manuální
+Škoda,Kodiaq,770000,2021,Ojeté,136082,Benzín,180,Automatická
+Škoda,Fabia,220000,2019,Ojeté,60669,Benzín,55,Manuální
+Hyundai,i30,270000,2020,Ojeté,91430,Benzín,81,Manuální
+MG,ZS,400000,2023,Ojeté,32308,Benzín,82,Automatická
+Kia,Sportage,837980,2026,Nové,1,Benzín,110,Automatická
+Dacia,Duster,310000,2023,Ojeté,105310,Nafta,85,Manuální
+Ford,Fiesta,90000,2013,Ojeté,42922,Benzín,44,Manuální
+Škoda,Fabia,330000,2017,Ojeté,42990,Benzín,81,Automatická
+Hyundai,i20,260000,2020,Ojeté,22498,Benzín,62,Manuální
+Kia,Cee´d,75000,2011,Ojeté,151458,Benzín,66,Manuální
+Opel,Insignia,110000,2009,Ojeté,189455,Nafta,118,Automatická
+Hyundai,Tucson,380000,2020,Ojeté,89922,Benzín,130,Manuální
+Hyundai,i20,360000,2024,Ojeté,13284,Benzín,58,Manuální
+Škoda,Fabia,49000,2001,Ojeté,132283,Benzín,44,Manuální
+Škoda,Fabia,85000,2012,Ojeté,197077,Benzín,63,Manuální
+Ford,Transit Connect,325000,2021,Ojeté,64558,Nafta,73,Manuální
+Hyundai,Tucson,430000,2020,Ojeté,52961,Nafta,100,Manuální
+Hyundai,i30,140000,2013,Ojeté,119620,Benzín,99,Manuální
+Škoda,Octavia,330000,2018,Ojeté,128821,Benzín,132,Manuální
+Škoda,Fabia,249000,2018,Ojeté,66441,Benzín,55,Manuální
+BMW,Řada 3,439000,2020,Ojeté,196000,Nafta,110,Automatická
+Renault,Mégane,400000,2021,Ojeté,76334,Hybridní,116,Automatická
+Peugeot,208,160000,2018,Ojeté,73416,Benzín,60,Manuální
+Opel,Astra,100000,2015,Ojeté,213652,Nafta,81,Manuální
+Škoda,Superb,240000,2014,Ojeté,228552,Nafta,103,Manuální
+Škoda,Octavia,80000,2010,Ojeté,174821,Nafta,74,Manuální
+Škoda,Fabia,170000,2021,Ojeté,197509,Benzín,70,Manuální
+Mercedes-Benz,Třídy S,3439000,2025,Ojeté,9954,Nafta,270,Automatická
+Volkswagen,Golf,370000,2020,Ojeté,94096,Benzín,110,Manuální
+DS,4,120000,2011,Ojeté,196638,Nafta,120,Manuální
+Hyundai,Tucson,240000,2015,Ojeté,227563,Nafta,85,Manuální
+Škoda,Fabia,230000,2019,Ojeté,152747,Benzín,81,Automatická
+Audi,Q7,500000,2016,Ojeté,263458,Nafta,200,Automatická
+Škoda,Kodiaq,410000,2017,Ojeté,208890,Nafta,110,Automatická
+Peugeot,3008,320000,2018,Ojeté,135636,Benzín,96,Automatická
+Kia,Rio,189000,2016,Ojeté,52591,Benzín,62,Manuální
+Audi,A6 allroad,2099000,2025,Nové,2971,Nafta,253,Automatická
+Škoda,Octavia,135000,2015,Ojeté,297000,Nafta,66,Manuální
+Škoda,Roomster,80000,2011,Ojeté,138387,Benzín,63,Manuální
+Mercedes-Benz,ML,115000,2004,Ojeté,258000,Nafta,120,Automatická
+Honda,CR-V,340000,2015,Ojeté,105974,Benzín,114,Manuální
+Opel,Crossland,319000,2021,Ojeté,55192,Benzín,81,Manuální
+Ford,Kuga,897800,2026,Nové,14,Hybridní,132,Automatická
+Volkswagen,Touran,189900,2014,Ojeté,227654,Nafta,103,Automatická
+Subaru,Legacy,99999,2005,Ojeté,174423,Benzín,180,Automatická
+Volkswagen,Touran,99000,2008,Ojeté,302000,Nafta,103,Automatická
+Seat,Arona,299999,2018,Ojeté,125632,Nafta,85,Manuální
+Škoda,Kodiaq,660000,2021,Ojeté,116426,Nafta,147,Automatická
+Hyundai,ix35,180000,2015,Ojeté,149353,Nafta,85,Manuální
+Renault,Mégane,45000,2005,Ojeté,200000,Nafta,88,Manuální
+Volkswagen,Caddy,210000,2018,Ojeté,258105,CNG + benzín,81,Manuální
+Škoda,Roomster,99000,2012,Ojeté,228234,Benzín,63,Manuální
+Škoda,Superb,360000,2018,Ojeté,212442,Nafta,140,Automatická
+Škoda,Superb,540000,2019,Ojeté,144944,Nafta,140,Automatická
+Škoda,Superb,619000,2022,Ojeté,104054,Nafta,110,Manuální
+Škoda,Superb,515000,2020,Ojeté,112827,Nafta,147,Automatická
+Audi,A4,429990,2017,Ojeté,153416,Nafta,110,Automatická
+Škoda,Octavia,230000,2017,Ojeté,121523,Nafta,85,Manuální
+Volkswagen,Golf,68999,2003,Ojeté,245845,Benzín,,Manuální
+Jeep,Compass,420000,2020,Ojeté,84652,Benzín,125,Automatická
+Mercedes-Benz,GLC,750000,2018,Ojeté,84200,Benzín,155,Automatická
+Peugeot,208,435000,2024,Ojeté,12045,Benzín,74,Automatická
+Ford,Ranger,1550010,2024,Ojeté,18051,Benzín,215,Automatická
+Nissan,Qashqai,140000,2013,Ojeté,224510,LPG + benzín,86,Manuální
+Škoda,Kodiaq,480000,2018,Ojeté,241072,Nafta,140,Automatická
+Mercedes-Benz,Třídy S,1449000,2021,Ojeté,106218,Nafta,210,Automatická
+BMW,X4,949000,2019,Ojeté,128000,Benzín,375,Automatická
+Hyundai,Kona,639900,2022,Ojeté,49950,Benzín,206,Automatická
+Volkswagen,Passat Variant,79800,2014,Ojeté,356598,CNG + benzín,110,Manuální
+Škoda,Octavia,230000,2018,Ojeté,210484,Nafta,85,Manuální
+Ford,Focus,270000,2018,Ojeté,43846,Benzín,92,Manuální
+Škoda,Octavia,429999,2020,Ojeté,96590,Benzín,110,Manuální
+Citroën,Grand C4 Picasso,99999,2012,Ojeté,206630,Nafta,109,Manuální
+Škoda,Fabia,229000,2021,Ojeté,124067,Benzín,81,Manuální
+Škoda,Octavia,750000,2022,Ojeté,52488,Nafta,147,Automatická
+Škoda,Fabia,242000,2021,Ojeté,88082,Benzín,70,Manuální
+Dodge,Magnum,149000,2006,Ojeté,130639,Benzín,142,Automatická
+Škoda,Fabia,160000,2016,Ojeté,157663,Nafta,66,Manuální
+Škoda,Octavia,461000,2022,Ojeté,95884,Benzín,110,Manuální
+Škoda,Superb,973000,2025,Ojeté,14300,Hybridní,150,Automatická
+Audi,A4,70000,2008,Ojeté,279274,Nafta,88,Manuální
+Volkswagen,Golf,60000,2010,Ojeté,315113,Benzín,90,Manuální
+Peugeot,Expert,50000,2008,Ojeté,303951,Nafta,88,Manuální
+Škoda,Octavia,489000,2022,Ojeté,77105,Benzín,110,Manuální
+Škoda,Octavia,481000,2023,Ojeté,48463,Nafta,85,Manuální
+Škoda,Octavia,310000,2021,Ojeté,167514,Benzín,81,Manuální
+Volvo,XC40,499000,2018,Ojeté,194153,Nafta,140,Automatická
+BMW,X3,750000,2018,Ojeté,95000,Nafta,,
+Volkswagen,Touran,444900,2021,Ojeté,140000,Benzín,110,Automatická
+Audi,A5,359000,2016,Ojeté,99442,Nafta,110,Manuální
+Hyundai,i30,330000,2022,Ojeté,80515,Benzín,117,Manuální
+Škoda,Karoq,580000,2024,Ojeté,50284,Benzín,110,Manuální
+Škoda,Karoq,519000,2019,Ojeté,125700,Nafta,110,Automatická
+Hyundai,i30,500000,2024,Ojeté,9566,Benzín,74,Automatická
+Škoda,Fabia,115000,2018,Ojeté,223666,Nafta,,Manuální
+Peugeot,Rifter,439999,2019,Ojeté,27014,Nafta,96,Manuální
+Cupra,Formentor,671000,2024,Ojeté,26037,Benzín,110,Automatická
+Škoda,Karoq,580000,2021,Ojeté,84355,Nafta,110,Automatická
+Kia,Rio,249999,2022,Ojeté,66720,Benzín,62,Manuální
+Peugeot,Rifter,420000,2019,Ojeté,50066,Nafta,96,Manuální
+Škoda,Octavia,220000,2014,Ojeté,258928,Nafta,135,Automatická
+Mercedes-Benz,SL,1394986,2017,Ojeté,35000,Benzín,270,Automatická
+Mazda,MX-5,569000,2017,Ojeté,59900,Benzín,118,Manuální
+Ford,Focus,90000,2010,Ojeté,178800,Benzín,85,Manuální
+Mercedes-Benz,CLA,509999,2016,Ojeté,137132,Nafta,100,Manuální
+Škoda,Octavia,289999,2020,Ojeté,222900,Benzín,110,Manuální
+Hyundai,Ioniq,349990,2020,Ojeté,50000,Elektro,100,Automatická
+Mercedes-Benz,SL,2470012,2023,Ojeté,12350,Benzín,280,Automatická
+Škoda,Octavia,245000,2017,Ojeté,234525,Nafta,110,Automatická
+Hyundai,Tucson,630000,2023,Ojeté,39048,Benzín,132,Automatická
+Kia,Stonic,299000,2023,Ojeté,36327,Benzín,61,Manuální
+Volkswagen,Passat,525000,2023,Ojeté,127700,Nafta,110,Automatická
+Hyundai,Tucson,350000,2015,Ojeté,100448,Nafta,100,Automatická
+Ford,Kuga,508000,2021,Ojeté,61000,Benzín,111,Manuální
+Audi,Q7,110000,2006,Ojeté,446000,Nafta,176,Automatická
+Škoda,Superb,484000,2021,Ojeté,141900,Nafta,110,Automatická
+Ford,Puma,355000,2023,Ojeté,78000,Benzín,92,Manuální
+Volvo,XC40,600000,2021,Ojeté,99623,Benzín,120,Automatická
+Škoda,Octavia,25000,1999,Ojeté,247000,Nafta,81,Manuální
+Ford,Puma,358000,2023,Ojeté,74000,Benzín,92,Manuální
+Škoda,Kodiaq,555000,2020,Ojeté,141000,Nafta,110,Automatická
+Škoda,Superb,285000,2016,Ojeté,246000,Nafta,110,Manuální
+Hyundai,Tucson,440000,2021,Ojeté,90042,Nafta,85,Manuální
+Hyundai,Tucson,470000,2021,Ojeté,71662,Benzín,110,Manuální
+Mercedes-Benz,GLB,849000,2021,Ojeté,57568,Nafta,110,Automatická
+Mercedes-Benz,SL,1269485,2016,Ojeté,106149,Benzín,270,Automatická
+Mercedes-Benz,GLC,815000,2019,Ojeté,83376,Benzín,145,Automatická
+Škoda,Fabia,280000,2022,Ojeté,65378,Benzín,70,Manuální
+Škoda,Kamiq,420000,2019,Ojeté,67376,Benzín,85,Automatická
+Kia,Cee´d,80000,2011,Ojeté,98337,Benzín,66,Manuální
+Škoda,Octavia,100000,2012,Ojeté,242026,Nafta,77,Automatická
+Hyundai,Tucson,445000,2019,Ojeté,88560,Benzín,130,Automatická
+Ford,Kuga,380000,2022,Ojeté,136825,Nafta,88,Automatická
+Dacia,Duster,360000,2022,Ojeté,38512,LPG + benzín,67,Manuální
+Hyundai,Tucson,700000,2025,,14680,Benzín,118,Manuální
+Škoda,Fabia,100000,2007,Ojeté,127987,Benzín,77,Manuální
+Škoda,Fabia,150000,2015,Ojeté,92950,Benzín,44,Manuální
+Škoda,Scala,310000,2021,Ojeté,92246,Benzín,81,Automatická
+Nissan,Qashqai,75000,2008,Ojeté,239762,Nafta,110,Manuální
+Škoda,Scala,520000,2025,,19717,Benzín,85,Manuální
+Ford,Kuga,220000,2015,Ojeté,210531,Nafta,110,Manuální
+Volkswagen,Sharan,100000,2009,Ojeté,280666,Nafta,85,Automatická
+Volkswagen,Golf,165000,2016,Ojeté,256674,Nafta,81,Manuální
+Suzuki,Swift,80000,2011,Ojeté,128699,Benzín,68,Manuální
+Mercedes-Benz,EQS,2249000,2024,Ojeté,31129,Elektro,330,Automatická
+Dacia,Duster,240000,2021,Ojeté,186781,Benzín,74,Manuální
+Škoda,Fabia,255000,2018,Ojeté,81011,Benzín,81,Manuální
+Hyundai,Tucson,680000,2024,Ojeté,14630,Benzín,118,Automatická
+Volkswagen,Golf,85000,2009,Ojeté,257660,Benzín,75,Manuální
+Škoda,Fabia,75000,2008,Ojeté,119014,Benzín,51,Manuální
+Toyota,Yaris,300000,2017,Ojeté,54813,Hybridní,74,Automatická
+Mercedes-Benz,Třídy E,325000,2013,Ojeté,199500,Benzín,155,Automatická
+Audi,Q7,1497000,2022,Ojeté,108000,Nafta,210,Automatická
+BMW,Řada 7,300000,2011,Ojeté,198701,Nafta,180,Automatická
+Škoda,Fabia,380000,2023,Ojeté,48462,Benzín,81,Manuální
+Volkswagen,Golf Plus,90000,2009,Ojeté,212429,Benzín,90,Manuální
+Peugeot,407,50000,2009,Ojeté,226786,Nafta,100,Automatická
+Škoda,Octavia,80000,2011,Ojeté,342722,Nafta,77,Manuální
+Ford,Tourneo Custom,1400000,2026,Nové,10,Elektro,160,Automatická
+Volkswagen,Golf,490000,2023,Ojeté,27070,Benzín,81,Automatická
+BMW,X5,439000,2018,Ojeté,286000,Nafta,190,Automatická
+Volkswagen,Polo,280000,2015,Ojeté,26308,Benzín,66,Automatická
+Škoda,Octavia,170000,2014,Ojeté,164182,Benzín,77,Manuální
+Mercedes-Benz,Třídy V,2399000,2024,Ojeté,28588,Nafta,174,Automatická
+Dodge,Challenger,679000,2021,Ojeté,96500,Benzín,226,Automatická
+Škoda,Fabia,60000,2010,Ojeté,119961,Benzín,44,Manuální
+Volkswagen,Golf,120000,2009,Ojeté,207106,Benzín,90,Manuální
+Audi,Q7,739000,2017,Ojeté,193000,Nafta,200,Automatická
+Škoda,Kodiaq,669800,2022,Ojeté,171447,Nafta,147,Automatická
+Škoda,Octavia,798000,2025,Ojeté,19641,Benzín,110,Automatická
+Seat,Leon,199000,2014,Ojeté,182300,Nafta,110,Manuální
+BMW,Řada 3,90000,2007,Ojeté,311567,Nafta,120,Manuální
+Hyundai,i30,370000,2022,Ojeté,50305,Benzín,81,Manuální
+Audi,A4,465000,2019,Ojeté,82324,Benzín,110,Manuální
+Škoda,Octavia,200000,2015,Ojeté,267454,Nafta,135,Manuální
+Mercedes-Benz,GLS,1577481,2020,Ojeté,132185,Nafta,243,Automatická
+Volkswagen,Passat,498000,2020,Ojeté,90300,Nafta,110,Automatická
+Škoda,Karoq,728000,2023,Ojeté,29900,Benzín,110,Automatická
+Audi,A6,795900,2021,Ojeté,90000,Nafta,180,Automatická
+BMW,X3,89999,2004,Ojeté,351028,Nafta,110,Manuální
+Mercedes-Benz,GLA,497000,2019,Ojeté,83000,Benzín,155,Automatická
+Volkswagen,Passat,588000,2022,Ojeté,95850,Benzín,110,Automatická
+Mercedes-Benz,GLS,1623262,2020,Ojeté,58000,Benzín,270,Automatická
+Subaru,Outback,165900,2012,Ojeté,173000,Nafta,110,Manuální
+Škoda,Kamiq,548000,2025,Ojeté,14103,Benzín,85,Manuální
+Audi,e-tron,590000,2020,Ojeté,85738,Elektro,230,Automatická
+Mercedes-Benz,GLS,2949000,2025,Ojeté,14917,Benzín,380,Automatická
+Škoda,Octavia,60000,2007,Ojeté,290337,Benzín,85,Manuální
+Škoda,Kodiaq,868000,2023,Ojeté,99990,Nafta,147,Automatická
+Škoda,Octavia,598000,2024,Ojeté,19577,Benzín,110,Manuální
+Suzuki,SX4,98000,2009,Ojeté,167024,Benzín,79,Manuální
+Škoda,Karoq,498000,2018,Ojeté,124520,Nafta,110,Automatická
+Škoda,Karoq,498000,2019,Ojeté,108344,Nafta,110,Manuální
+Dodge,Ram,799000,2021,Ojeté,180000,Benzín,295,Automatická
+Škoda,Octavia,498000,2021,Ojeté,90643,Nafta,110,Manuální
+Škoda,Fabia,398000,2025,Ojeté,9911,Benzín,70,Manuální
+Škoda,Octavia,738000,2025,Ojeté,14990,Benzín,110,Manuální
+Škoda,Kodiaq,838000,2023,Ojeté,119596,Benzín,140,Automatická
+Volkswagen,Touran,498000,2022,Ojeté,163052,Nafta,110,Automatická
+Audi,A6,398000,2007,Ojeté,14030,Nafta,171,Automatická
+Cupra,Formentor,748000,2021,Ojeté,88200,Benzín,228,Automatická
+Škoda,Octavia,498000,2022,Ojeté,124990,Nafta,110,Manuální
+Škoda,Octavia,598000,2025,Ojeté,25082,Nafta,85,Manuální
+Škoda,Superb,548000,2023,Ojeté,169108,Nafta,110,Automatická
+Škoda,Scala,548000,2025,Ojeté,16155,Benzín,85,Automatická
+Seat,Leon,478000,2021,Ojeté,108600,Benzín,110,Automatická
+Škoda,Karoq,648000,2023,Ojeté,68500,Nafta,110,Manuální
+Škoda,Karoq,528000,2019,Ojeté,131755,Nafta,110,Automatická
+Škoda,Kodiaq,868000,2022,Ojeté,80406,Nafta,147,Automatická
+Škoda,Kamiq,498000,2024,Ojeté,13486,Benzín,85,Manuální
+Volkswagen,Golf,398000,2021,Ojeté,67800,Benzín,81,Manuální
+Škoda,Octavia,518000,2021,Ojeté,182329,Nafta,147,Automatická
+Seat,Leon,518000,2023,Ojeté,69241,Benzín,110,Manuální
+Seat,Ateca,438000,2019,Ojeté,139666,Benzín,110,Manuální
+Škoda,Karoq,588000,2020,Ojeté,52990,Benzín,110,Automatická
+Volkswagen,Golf,598000,2021,Ojeté,82510,Benzín,180,Manuální
+Škoda,Scala,388000,2021,Ojeté,130811,Benzín,110,Manuální
+Škoda,Fabia,428000,2024,Ojeté,17447,Benzín,85,Manuální
+Škoda,Octavia,628000,2024,Ojeté,26530,Benzín,110,Manuální
+Škoda,Octavia,648000,2022,Ojeté,85670,Nafta,147,Automatická
+Mercedes-Benz,EQB,750000,2022,Ojeté,54600,Elektro,215,Automatická
+Škoda,Kodiaq,1178000,2024,Ojeté,24282,Nafta,142,Automatická
+Seat,Ateca,388000,2018,Ojeté,170800,Benzín,110,Automatická
+Škoda,Kodiaq,798000,2021,Ojeté,116720,Nafta,147,Automatická
+Seat,Ateca,488000,2018,Ojeté,63805,Benzín,110,Manuální
+Mercedes-Benz,Třídy A,1399000,2022,Ojeté,36925,Benzín,310,Automatická
+Škoda,Superb,568000,2023,Ojeté,146773,Nafta,110,Automatická
+Škoda,Kodiaq,1098000,2023,Ojeté,31200,Benzín,180,Automatická
+Škoda,Octavia,678000,2024,Ojeté,19880,Benzín,110,Manuální
+Škoda,Octavia,368000,2021,Ojeté,122022,Nafta,85,Automatická
+Škoda,Kodiaq,1178000,2024,Ojeté,27825,Nafta,142,Automatická
+Volvo,S90,1199000,2024,Ojeté,30482,Hybridní,335,Automatická
+Kia,PV5,1198980,2026,Nové,1,Elektro,120,Automatická
+Dodge,Ram,1999000,2022,Ojeté,19000,Benzín,295,Automatická
+Ford,Tourneo Courier,548900,2026,Nové,12,Benzín,92,Manuální
+Land Rover,Range Rover Sport,2549000,2025,,14900,Hybridní,338,Automatická
+Volvo,XC40,829000,2023,Ojeté,31928,Benzín,120,Automatická
+Volvo,XC40,649000,2020,Ojeté,85151,Nafta,110,Automatická
+Ford,Ranger,1420000,2026,Nové,10,Nafta,151,Automatická
+Volvo,V60,569000,2020,Ojeté,97985,Nafta,110,Automatická
+Mercedes-Benz,Třídy V,1549000,2022,Ojeté,97823,Nafta,174,Automatická
+Ford,Capri,1186900,2026,Nové,10,Elektro,250,Automatická
+Dodge,Ram,1099000,2019,Ojeté,171000,Benzín,295,Automatická
+Škoda,Karoq,638000,2023,Ojeté,12157,Benzín,110,Manuální
+Seat,Arona,408000,2023,Ojeté,47739,Benzín,81,Manuální
+Škoda,Karoq,628000,2022,Ojeté,27380,Benzín,110,Manuální
+Volkswagen,Passat,648000,2022,Ojeté,73184,Nafta,110,Automatická
+Volkswagen,Arteon Shooting Brake,548000,2021,Ojeté,136500,Nafta,110,Manuální
+Jeep,Wrangler,968000,2019,Ojeté,73479,Nafta,147,Automatická
+Škoda,Fabia,378000,2021,Ojeté,60229,Benzín,81,Automatická
+Volkswagen,T-Cross,348000,2020,Ojeté,53218,Benzín,70,Manuální
+Škoda,Octavia,598000,2024,Ojeté,19479,Nafta,85,Manuální
+Škoda,Karoq,548000,2020,Ojeté,73820,Benzín,110,Automatická
+Škoda,Kodiaq,1198000,2024,Ojeté,16089,Nafta,142,Automatická
+Seat,Ateca,528000,2019,Ojeté,118272,Benzín,140,Automatická
+Land Rover,Defender,2699000,2026,Nové,0,Nafta,257,Automatická
+Ford,Puma,611800,2026,Nové,10,Benzín,92,Automatická
+Audi,A6,724790,2020,Ojeté,177000,Hybridní,270,Automatická
+Škoda,Octavia,586000,2021,Ojeté,50256,Benzín,150,Automatická
+Renault,Clio,159990,2018,Ojeté,90460,Benzín,66,Manuální
+Škoda,Fabia,378000,2023,Ojeté,58845,Benzín,70,Automatická
+Mercedes-Benz,GLS,1350415,2019,Ojeté,131000,Nafta,190,Automatická
+Volkswagen,Touran,388000,2018,Ojeté,108866,Benzín,110,Automatická
+Škoda,Octavia,368000,2022,Ojeté,158450,Nafta,85,Manuální
+Peugeot,2008,389000,2020,Ojeté,89800,Elektro,100,
+Volkswagen,Passat,325000,2015,Ojeté,208139,Nafta,140,Automatická
+Škoda,Kodiaq,728000,2022,Ojeté,110173,Nafta,147,Automatická
+Škoda,Fabia,233000,2021,Ojeté,55034,Benzín,70,Manuální
+Peugeot,Traveller,599000,2019,Ojeté,169000,Nafta,130,Automatická
+Mercedes-Benz,CLS,1066119,2018,Ojeté,111000,Nafta,250,Automatická
+Škoda,Kamiq,528000,2024,Ojeté,19420,Benzín,85,Automatická
+Škoda,Kodiaq,848000,2023,Ojeté,24180,Benzín,110,Automatická
+Škoda,Scala,378000,2021,Ojeté,72416,Benzín,110,Manuální
+Škoda,Octavia,411000,2020,Ojeté,79777,Benzín,110,Manuální
+Škoda,Yeti,275000,2014,Ojeté,206000,Nafta,103,Automatická
+Volkswagen,Tiguan,428000,2018,Ojeté,97371,Nafta,85,Manuální
+Ford,Kuga,228000,2011,Ojeté,87000,Nafta,120,Manuální
+Volkswagen,Golf,60000,2005,Ojeté,227011,Benzín,85,Manuální
+Toyota,C-HR,550000,2021,Ojeté,59493,Hybridní,135,Automatická
+Kia,ProCeed,595000,2021,Ojeté,57500,Benzín,150,Automatická
+Cupra,Formentor,1179000,2025,Nové,920,Benzín,245,Automatická
+Mercedes-Benz,CLS,1019095,2020,Ojeté,142000,Nafta,143,Automatická
+Renault,Thalia,80000,2012,Ojeté,19830,Benzín,55,Manuální
+Mitsubishi,ASX,260000,2018,Ojeté,92145,Benzín,86,Manuální
+Peugeot,2008,329000,2021,Ojeté,106989,Benzín,74,Manuální
+Škoda,Karoq,470000,2017,Ojeté,66121,Nafta,110,Manuální
+Hyundai,i30,160000,2015,Ojeté,134045,Nafta,81,Manuální
+Honda,CR-V,190000,2011,Ojeté,185434,Nafta,110,Automatická
+Mercedes-Benz,Třídy A,1329000,2023,Ojeté,29261,Benzín,310,Automatická
+Toyota,Proace City,320000,2022,Ojeté,5809,Benzín,81,Manuální
+BMW,X3,550000,2017,Ojeté,177648,Nafta,195,Automatická
+Mercedes-Benz,Třídy E,619000,2017,Ojeté,126500,Nafta,190,Automatická
+Citroën,C4,130000,2013,Ojeté,134804,Nafta,68,Manuální
+Hyundai,i20,160000,2013,Ojeté,25500,Benzín,63,Manuální
+Hyundai,Tucson,380000,2019,Ojeté,50426,Nafta,85,Manuální
+Škoda,Yeti,334900,2015,Ojeté,78000,Nafta,81,Manuální
+BMW,Řada 4,869000,2022,Ojeté,78184,Nafta,140,Automatická
+Kia,Cee´d,150000,2013,Ojeté,128846,Benzín,99,Manuální
+Hyundai,i20,150000,2017,Ojeté,158946,Benzín,55,Manuální
+Škoda,Octavia,160000,2017,Ojeté,202874,Nafta,81,Manuální
+MG,ZS,350000,2022,Ojeté,40610,Benzín,78,Manuální
+Ford,Tourneo Connect,872410,2026,Nové,10,Benzín,85,Automatická
+Škoda,Octavia,70000,2011,Ojeté,373177,Nafta,77,Manuální
+Kia,Cee´d,230000,2017,Ojeté,91229,Nafta,100,Manuální
+MG,ZS,372000,2024,Ojeté,16652,Benzín,78,Manuální
+Škoda,Karoq,480000,2020,Ojeté,118345,Benzín,110,Automatická
+Volkswagen,Tiguan,450000,2019,Ojeté,180362,Benzín,110,Automatická
+Škoda,Kodiaq,500000,2019,Ojeté,181756,Nafta,140,Automatická
+Hyundai,Coupé,19000,1999,Ojeté,128825,Benzín,102,Manuální
+Škoda,Octavia,489000,2022,Ojeté,168900,Nafta,110,Automatická
+MG,ZS,490000,2025,,14222,Benzín,85,Manuální
+Volvo,V90,440000,2018,Ojeté,187700,Nafta,140,Automatická
+Kia,Cee´d,160000,2018,Ojeté,152600,Nafta,100,Manuální
+Hyundai,i30,300000,2020,Ojeté,59374,Nafta,100,Manuální
+Volkswagen,Tiguan,260000,2012,Ojeté,190241,Nafta,103,Manuální
+Škoda,Kodiaq,920000,2024,Ojeté,35021,Nafta,110,Automatická
+Mercedes-Benz,CLS,907808,2018,Ojeté,130238,Nafta,190,Automatická
+Hyundai,i30,120000,2014,Ojeté,240100,Nafta,81,Manuální
+Volkswagen,Passat,289000,2019,Ojeté,255000,Nafta,110,Manuální
+Škoda,Kodiaq,565000,2017,Ojeté,142800,Nafta,140,Automatická
+Peugeot,307,25000,2003,Ojeté,313890,Benzín,80,Manuální
+Volkswagen,Passat Variant,125000,2012,Ojeté,333231,Nafta,103,Manuální
+Volkswagen,Lupo,19500,2000,Ojeté,219176,Benzín,37,Manuální
+Hyundai,Tucson,699000,2026,Ojeté,1,Benzín,110,Manuální
+Dacia,Logan,170000,2020,Ojeté,45700,Benzín,54,Manuální
+Hyundai,ix35,269000,2012,Ojeté,114600,Nafta,,Automatická
+Škoda,Octavia,120000,2011,Ojeté,230665,Nafta,77,Manuální
+Kia,EV6,1419000,2025,Nové,1,Elektro,239,Automatická
+Fiat,Panda,299000,2024,Ojeté,43500,Hybridní,52,Manuální
+Renault,Mégane,80000,2011,Ojeté,167163,Nafta,81,Manuální
+Volkswagen,Arteon Shooting Brake,750000,2023,Ojeté,70963,Nafta,110,Automatická
+Audi,A3,260000,2014,Ojeté,111184,Benzín,81,Automatická
+Kia,Cee´d,160000,2017,Ojeté,117413,Benzín,73,Manuální
+Audi,A3,320000,2017,Ojeté,166955,Nafta,85,Manuální
+Hyundai,i30,120000,2012,Ojeté,112361,Benzín,80,Manuální
+Honda,CR-V,1135000,2024,Ojeté,13700,Benzín,,Automatická
+Hyundai,Tucson,699000,2026,Ojeté,5,Benzín,110,Manuální
+Hyundai,ix35,160000,2011,Ojeté,123494,Benzín,120,Manuální
+Volkswagen,Touran,130000,2009,Ojeté,207341,Benzín,103,Automatická
+Nissan,Qashqai,280000,2014,Ojeté,39902,Benzín,85,Manuální
+Škoda,Yeti,250000,2013,Ojeté,99501,Benzín,90,Manuální
+Škoda,Yeti,220000,2016,Ojeté,197475,Nafta,81,Manuální
+Mercedes-Benz,CLA,665000,2022,Ojeté,80450,Hybridní,160,Automatická
+Volkswagen,Touran,238000,2014,Ojeté,156167,Nafta,103,Manuální
+Audi,A3,279000,2014,Ojeté,181145,Nafta,135,Manuální
+Audi,A3,270000,2014,Ojeté,158440,Benzín,92,Manuální
+Nissan,Qashqai,320000,2018,Ojeté,164866,Nafta,96,Automatická
+Hyundai,ix35,209000,2012,Ojeté,79190,Nafta,85,Manuální
+Hyundai,ix35,319000,2015,Ojeté,67079,Nafta,135,Automatická
+Škoda,Yeti,240000,2015,Ojeté,123591,Benzín,77,Manuální
+Škoda,Yeti,199000,2012,Ojeté,180394,Nafta,103,Manuální
+Volkswagen,Touran,150000,2013,Ojeté,231478,Nafta,77,Manuální
+Audi,A3,230000,2014,Ojeté,174634,Nafta,110,Manuální
+Hyundai,ix35,215000,2012,Ojeté,116976,Nafta,100,Manuální
+Volkswagen,Touran,120000,2007,Ojeté,98814,Benzín,103,Automatická
+Hyundai,ix35,199000,2012,Ojeté,147131,Nafta,100,Manuální
+Ford,Fiesta,249000,2018,Ojeté,77759,Benzín,74,Manuální
+Škoda,Yeti,240000,2014,Ojeté,156770,Nafta,81,Manuální
+Kia,Cee´d,339000,2021,Ojeté,90071,Benzín,118,Manuální
+BMW,Řada 3,210000,2010,Ojeté,218212,Benzín,200,Automatická
+BMW,Řada 3,200000,2014,Ojeté,240391,Nafta,160,Manuální
+Škoda,Rapid,210000,2018,Ojeté,74325,Benzín,70,Manuální
+Škoda,Rapid,150000,2015,Ojeté,156027,Nafta,77,Manuální
+Kia,Cee´d,210000,2017,Ojeté,70832,Benzín,99,Manuální
+Škoda,Rapid,145000,2013,Ojeté,196180,Nafta,77,Manuální
+BMW,i3,480000,2021,Ojeté,33299,Elektro,125,Automatická
+BMW,Řada 3,250000,2013,Ojeté,186277,Nafta,120,Automatická
+Škoda,Rapid,270000,2018,Ojeté,114547,Benzín,70,Automatická
+Nissan,Qashqai,259000,2015,Ojeté,55597,Benzín,85,Manuální
+BMW,Řada 3,110000,2011,Ojeté,258135,Nafta,135,Manuální
+BMW,Řada 3,339000,2016,Ojeté,174625,Nafta,110,Automatická
+Škoda,Rapid,200000,2014,Ojeté,71435,Benzín,77,Manuální
+Nissan,Qashqai,290000,2016,Ojeté,139027,Nafta,96,Manuální
+Ford,Explorer,890107,2026,Nové,15,Elektro,125,Automatická
+Nissan,Qashqai,335000,2015,Ojeté,36302,Benzín,120,Manuální
+Volkswagen,Touran,155000,2011,Ojeté,196456,Nafta,77,Manuální
+Hyundai,i30,305000,2020,Ojeté,71806,Benzín,80,Manuální
+Kia,Sportage,260000,2015,Ojeté,115755,Benzín,99,Manuální
+Hyundai,i30,170000,2012,Ojeté,96275,Benzín,88,Manuální
+Ford,Kuga,225000,2014,Ojeté,172070,Nafta,103,Automatická
+Kia,Sportage,240000,2014,Ojeté,159458,Nafta,100,Manuální
+Hyundai,i30,300000,2017,Ojeté,107090,Benzín,103,Automatická
+Kia,Cee´d,329000,2022,Ojeté,126495,Benzín,118,Manuální
+Kia,Cee´d,375000,2021,Ojeté,72539,Benzín,118,Automatická
+Ford,Kuga,445000,2020,Ojeté,85318,Benzín,110,Manuální
+Hyundai,Tucson,390000,2017,Ojeté,80417,Benzín,130,Manuální
+Kia,Sportage,189000,2013,Ojeté,126808,Nafta,85,Manuální
+Mercedes-Benz,AMG GT,2399000,2019,Ojeté,27376,Benzín,350,Automatická
+Hyundai,i30,240000,2020,Ojeté,125910,Benzín,85,Manuální
+Ford,Kuga,204000,2015,Ojeté,160634,Benzín,110,Manuální
+Kia,Sportage,282000,2014,Ojeté,102235,Nafta,135,Manuální
+Kia,Sportage,290000,2016,Ojeté,149180,Nafta,100,Manuální
+Ford,Kuga,479000,2021,Ojeté,38000,Benzín,110,Manuální
+Ford,Kuga,165000,2011,Ojeté,167845,Nafta,120,Automatická
+Kia,Cee´d,260000,2020,Ojeté,54066,Benzín,73,Manuální
+Hyundai,i30,200000,2017,Ojeté,187216,Nafta,81,Manuální
+Hyundai,Tucson,385000,2020,Ojeté,103380,Nafta,100,Manuální
+Hyundai,Tucson,450000,2020,Ojeté,110001,Nafta,136,Manuální
+Hyundai,Tucson,509000,2021,Ojeté,75700,Benzín,110,Automatická
+Renault,Mégane,270000,2019,Ojeté,99912,Benzín,103,Manuální
+Opel,Astra,119000,2016,Ojeté,152488,Nafta,81,Manuální
+Hyundai,Tucson,325000,2018,Ojeté,118770,Benzín,97,Manuální
+Opel,Astra,180000,2018,Ojeté,124828,Nafta,81,Manuální
+Renault,Mégane,89000,2012,Ojeté,100108,Benzín,74,Manuální
+Audi,A4,430000,2017,Ojeté,131347,Benzín,140,Automatická
+Opel,Astra,80000,2005,Ojeté,168508,Benzín,77,Manuální
+Audi,A4,240000,2013,Ojeté,149120,Nafta,100,Manuální
+Volvo,XC90,629000,2016,Ojeté,192873,Nafta,177,Automatická
+Mercedes-Benz,AMG GT,2599000,2020,Ojeté,32188,Benzín,410,Automatická
+Audi,A4,360000,2017,Ojeté,171062,Nafta,110,Manuální
+Renault,Mégane,289000,2016,Ojeté,131936,Benzín,151,Automatická
+Audi,A4,450000,2020,Ojeté,155069,Nafta,120,Automatická
+Opel,Astra,184000,2016,Ojeté,117368,Benzín,92,Manuální
+Renault,Mégane,360000,2019,Ojeté,91662,Benzín,117,Automatická
+Renault,Mégane,129000,2014,Ojeté,149998,Benzín,85,Manuální
+Opel,Astra,420000,2023,Ojeté,14771,Benzín,81,Manuální
+Audi,A4,370000,2017,Ojeté,163437,Benzín,140,Automatická
+Škoda,Fabia,330000,2021,Ojeté,66775,Benzín,70,Automatická
+Hyundai,Tucson,430000,2019,Ojeté,110296,Benzín,130,Manuální
+Dodge,Ram,1699000,2020,Ojeté,7600,Nafta,276,Automatická
+Land Rover,Range Rover Evoque,1149000,2024,Ojeté,13784,Nafta,150,Automatická
+Škoda,Fabia,80000,2011,Ojeté,140769,Benzín,51,Manuální
+Dacia,Duster,380000,2020,Ojeté,72888,Nafta,85,Manuální
+Volkswagen,Golf,140000,2015,Ojeté,274635,Nafta,81,Manuální
+Hyundai,Tucson,300000,2017,Ojeté,101804,Nafta,85,Manuální
+Volkswagen,Golf,210000,2016,Ojeté,125544,Nafta,81,Manuální
+Ford,S-MAX,260000,2017,Ojeté,225335,Nafta,132,Automatická
+Škoda,Fabia,260000,2021,Ojeté,123703,Benzín,59,Manuální
+Peugeot,3008,40000,2009,Ojeté,272559,Benzín,88,Manuální
+Fiat,Bravo,40000,2007,Ojeté,231194,Benzín,66,Manuální
+Dacia,Duster,290000,2021,Ojeté,50678,Benzín,74,Manuální
+Škoda,Fabia,50000,2005,Ojeté,161691,Benzín,55,Manuální
+BMW,Řada 3,100000,2009,Ojeté,268437,Benzín,105,Manuální
+Kia,Cee´d,60000,2009,Ojeté,195630,Benzín,80,Manuální
+Ford,Kuga,360000,2018,Ojeté,91456,Benzín,110,Manuální
+Citroën,C3,40000,2009,Ojeté,207401,Benzín,44,Manuální
+Škoda,Fabia,230000,2014,Ojeté,104571,Benzín,66,Manuální
+Ford,S-MAX,299000,2018,Ojeté,196953,Nafta,140,Automatická
+Škoda,Fabia,230000,2020,Ojeté,146639,Benzín,81,Manuální
+Volkswagen,Golf,195000,2014,Ojeté,139283,Benzín,90,Manuální
+Ford,Mondeo,249000,2016,Ojeté,114143,Benzín,118,Manuální
+Škoda,Fabia,240000,2018,Ojeté,57298,Benzín,81,Manuální
+Ford,S-MAX,340000,2017,Ojeté,107620,Nafta,110,Automatická
+Ford,S-MAX,175000,2011,Ojeté,188838,Nafta,103,Manuální
+Volkswagen,Golf,299000,2015,Ojeté,86880,Benzín,92,Manuální
+Volkswagen,Golf,95000,2011,Ojeté,211790,Nafta,77,Manuální
+Ford,Mondeo,84000,2008,Ojeté,129960,Nafta,74,Manuální
+Škoda,Fabia,230000,2016,Ojeté,50859,Benzín,66,Manuální
+Volkswagen,Golf,355000,2019,Ojeté,60660,Benzín,96,Manuální
+Kia,XCee´d,670000,2025,,8,Hybridní,104,Automatická
+Ford,S-MAX,90000,2009,Ojeté,250295,Nafta,129,Manuální
+Škoda,Octavia,103000,2012,Ojeté,341500,Nafta,81,Manuální
+Ford,Mondeo,200000,2016,Ojeté,243302,Nafta,110,Automatická
+Ford,Mondeo,285000,2018,Ojeté,142028,Nafta,132,Automatická
+Volkswagen,Golf,199000,2014,Ojeté,191480,Nafta,81,Manuální
+Škoda,Fabia,225000,2021,Ojeté,149378,Benzín,70,Manuální
+Volkswagen,Passat,240000,2016,Ojeté,279724,Nafta,140,Automatická
+Volkswagen,Passat,290000,2015,Ojeté,161959,Benzín,110,Manuální
+Opel,Insignia,300000,2017,Ojeté,164480,Nafta,125,Automatická
+Volkswagen,Polo,60000,2007,Ojeté,165243,Benzín,47,Manuální
+Volkswagen,Polo,250000,2021,Ojeté,69705,CNG + benzín,66,Manuální
+Opel,Insignia,250000,2017,Ojeté,176956,Nafta,125,Manuální
+Volkswagen,Polo,240000,2018,Ojeté,136276,Benzín,70,Manuální
+Volkswagen,Passat,230000,2012,Ojeté,169436,Nafta,103,Automatická
+Volkswagen,Passat,240000,2015,Ojeté,249610,Nafta,110,Manuální
+Opel,Insignia,380000,2018,Ojeté,59269,Benzín,191,Automatická
+Volkswagen,Polo,220000,2015,Ojeté,62678,Benzín,66,Manuální
+Volkswagen,Passat,350000,2015,Ojeté,136843,Nafta,140,Manuální
+Mitsubishi,Outlander,179000,2015,Ojeté,286000,Nafta,110,Automatická
+Opel,Insignia,420000,2018,Ojeté,139126,Benzín,191,Automatická
+Volvo,V90,1079000,2024,Ojeté,20726,Hybridní,257,Automatická
+Volkswagen,Polo,380000,2019,Ojeté,103827,Benzín,147,Automatická
+Ford,Mondeo,365000,2019,Ojeté,150212,Nafta,140,Automatická
+Ford,Focus,325000,2020,Ojeté,81980,Benzín,92,Manuální
+Opel,Insignia,120000,2010,Ojeté,173701,Benzín,132,Manuální
+Ford,Focus,290000,2019,Ojeté,195650,Nafta,110,Manuální
+Škoda,Octavia,190000,2014,Ojeté,234560,Nafta,110,Manuální
+Volkswagen,Tiguan,250000,2011,Ojeté,187678,Nafta,125,Manuální
+Škoda,Octavia,289000,2020,Ojeté,202241,Nafta,85,Manuální
+Volkswagen,Tiguan,434000,2017,Ojeté,150645,Nafta,110,Manuální
+Škoda,Octavia,305000,2013,Ojeté,86570,Benzín,103,Automatická
+Volkswagen,Tiguan,400000,2018,Ojeté,239785,Nafta,110,Automatická
+Škoda,Octavia,200000,2016,Ojeté,215296,Nafta,135,Automatická
+Ford,Tourneo Custom,1514731,2026,Nové,31,Hybridní,171,Automatická
+Volkswagen,Tiguan,300000,2012,Ojeté,143006,Nafta,103,Automatická
+Ford,Focus,150000,2019,Ojeté,201457,Benzín,74,Manuální
+Ford,Focus,290000,2021,Ojeté,70408,Benzín,92,Manuální
+Volkswagen,Tiguan,339000,2013,Ojeté,50761,Benzín,118,Automatická
+Ford,Focus,310000,2019,Ojeté,76782,Benzín,92,Automatická
+Škoda,Superb,650000,2020,Ojeté,67007,Nafta,110,Automatická
+Volkswagen,Touran,225000,2013,Ojeté,174696,Nafta,77,Manuální
+Volkswagen,Sharan,150000,2012,Ojeté,325600,Nafta,103,Manuální
+Volkswagen,Golf,150000,2011,Ojeté,139623,Nafta,77,Manuální
+Škoda,Fabia,200000,2020,Ojeté,157000,Benzín,70,Manuální
+Škoda,Superb,280000,2017,Ojeté,315772,Nafta,140,Automatická
+Škoda,Superb,160000,2010,Ojeté,234472,Benzín,191,Automatická
+Ford,Tourneo Custom,869000,2021,Ojeté,42000,Nafta,96,Manuální
+Volvo,XC60,345000,2014,Ojeté,107721,Nafta,120,Automatická
+Suzuki,Samurai,165000,1988,Ojeté,139500,Benzín,47,
+Škoda,Octavia,430000,2021,Ojeté,137299,Nafta,110,Manuální
+Škoda,Superb,280000,2017,Ojeté,211824,Nafta,88,Manuální
+Škoda,Roomster,100000,2012,Ojeté,154030,Benzín,51,Manuální
+Škoda,Fabia,427000,2022,Ojeté,14310,Benzín,70,Automatická
+Audi,A3,145000,2006,Ojeté,81926,Nafta,103,Manuální
+Ford,Focus,60000,2008,Ojeté,254900,Benzín,74,Manuální
+Škoda,Octavia,239000,2016,Ojeté,244301,Benzín,132,Automatická
+Škoda,Superb,349000,2018,Ojeté,162127,Nafta,110,Manuální
+Škoda,Octavia,670000,2023,Ojeté,34829,Benzín,110,Automatická
+Volkswagen,Passat,389000,2021,Ojeté,187000,Nafta,110,Automatická
+Škoda,Fabia,100000,2008,Ojeté,155053,Benzín,51,Manuální
+Škoda,Octavia,165000,2008,Ojeté,93244,Benzín,75,Manuální
+Volvo,V90,619000,2018,Ojeté,147211,Nafta,147,Automatická
+Volkswagen,Touran,175000,2011,Ojeté,234908,Nafta,77,Manuální
+Suzuki,SX4,85000,2010,Ojeté,181400,Benzín,82,Manuální
+Volkswagen,Golf Sportsvan,285000,2015,Ojeté,118575,Benzín,92,Automatická
+Lancia,Phedra,87000,2008,Ojeté,223709,Nafta,100,Manuální
+Chrysler,Pacifica,685000,2022,Ojeté,135128,Benzín,214,Automatická
+Volkswagen,Tiguan,315000,2012,Ojeté,99847,Nafta,103,Automatická
+Subaru,Forester,300000,2016,Ojeté,250202,Benzín,177,Automatická
+Volkswagen,Golf Variant,150000,2011,Ojeté,139623,Nafta,77,Manuální
+Seat,Ateca,385000,2017,Ojeté,155482,Benzín,110,Manuální
+Škoda,Octavia,225000,2017,Ojeté,222675,Nafta,81,Automatická
+Škoda,Octavia,265000,2021,Ojeté,312807,Nafta,85,Automatická
+Mercedes-Benz,Třídy B,315000,2017,Ojeté,129374,Nafta,80,Automatická
+Ford,Ranger,888000,2021,Ojeté,56488,Nafta,157,Automatická
+Škoda,Fabia,135000,2012,Ojeté,186105,Benzín,63,Manuální
+Audi,Q5,335000,2013,Ojeté,189231,Nafta,180,Automatická
+Ford,Ranger,1080000,2024,Ojeté,17658,Nafta,151,Automatická
+Volvo,V60,599000,2021,Ojeté,111704,Nafta,145,Automatická
+Kia,Sorento,629000,2020,Ojeté,168987,Nafta,148,Automatická
+Mercedes-Benz,Třídy C,1279000,2023,Ojeté,23380,Nafta,162,Automatická
+Škoda,Karoq,630000,2023,Ojeté,78351,Nafta,110,Automatická
+Škoda,Octavia,110000,2012,Ojeté,180429,Benzín,77,Manuální
+Kia,Cee´d,47000,2010,Ojeté,315416,Benzín,91,Manuální
+Mercedes-Benz,Třídy E,319000,2015,Ojeté,243869,Nafta,190,Automatická
+Volkswagen,Sharan,675000,2022,Ojeté,72800,Benzín,110,Automatická
+Audi,A4 Avant,435000,2017,Ojeté,132000,Nafta,160,Automatická
+Škoda,Fabia,170000,2017,Ojeté,158000,Benzín,81,Manuální
+Hyundai,i30,230000,2018,Ojeté,95983,Benzín,88,Manuální
+Volkswagen,Tiguan,529000,2022,Ojeté,95500,Benzín,110,Manuální
+Peugeot,207,55000,2009,Ojeté,147700,Benzín,70,Manuální
+BMW,i4,1290000,2024,Ojeté,38200,Elektro,400,Automatická
+Fiat,500,299000,2016,Ojeté,79000,Benzín,103,Manuální
+Audi,A6 Avant,999000,2024,Ojeté,19800,Benzín,195,Automatická
+Škoda,Octavia,449900,2021,Ojeté,213607,Nafta,147,Automatická
+Hyundai,i30,290000,2022,Ojeté,77877,Benzín,88,Manuální
+Tesla,Model 3,559890,2020,Ojeté,149518,Elektro,,
+BMW,Řada 3,549000,2020,Ojeté,54200,Nafta,120,Automatická
+Citroën,C8,45000,2005,Ojeté,199802,Nafta,94,Manuální
+Hyundai,i30,210000,2017,Ojeté,156000,Benzín,108,Manuální
+Porsche,Cayenne,1499000,2022,Ojeté,30000,Benzín,250,Automatická
+BMW,Řada 7,726000,2016,Ojeté,223450,Nafta,195,Automatická
+Audi,A6 allroad,2095032,2025,Nové,613,Nafta,253,Automatická
+Škoda,Superb,569000,2021,Ojeté,108000,Benzín,140,Automatická
+Kia,Sorento,1489980,2026,Nové,0,Hybridní,132,Automatická
+Škoda,Superb,1189980,2026,Nové,0,Benzín,150,Automatická
+Nissan,X-Trail,89000,2004,Ojeté,254000,Nafta,100,Manuální
+Volkswagen,Touran,15000,2009,Ojeté,262000,CNG + benzín,,
+Suzuki,Swift,349000,2018,Ojeté,119928,Benzín,103,Manuální
+Škoda,Karoq,500000,2019,Ojeté,38374,Benzín,110,Automatická
+Audi,Q7,2179743,2026,Nové,9,Nafta,210,Automatická
+Fiat,500E,420000,2021,Ojeté,45727,Elektro,87,Automatická
+BMW,X3,69000,2004,Ojeté,620000,Nafta,110,Manuální
+Škoda,Octavia,400000,2020,Ojeté,172107,Nafta,110,Automatická
+Volkswagen,Golf,145000,2009,Ojeté,253000,Benzín,155,Manuální
+Volvo,XC40,579000,2020,Ojeté,32475,Benzín,95,Automatická
+Toyota,Auris,72000,2007,Ojeté,257000,Nafta,66,Manuální
+Mazda,6,327000,2013,Ojeté,155721,Benzín,141,Automatická
+Škoda,Superb,299900,2016,Ojeté,221771,Nafta,110,Automatická
+Mazda,CX-5,292000,2012,Ojeté,168196,Benzín,118,Automatická
+Hyundai,i30,380000,2021,Ojeté,79253,Benzín,117,Automatická
+Škoda,Octavia,480000,2021,Ojeté,78973,Benzín,110,Automatická
+Mercedes-Benz,Třídy V,1319000,2021,Ojeté,101393,Nafta,174,Automatická
+Audi,A7,339000,2013,Ojeté,209463,Nafta,150,Automatická
+Hyundai,ix35,252000,2012,Ojeté,136991,Benzín,120,Automatická
+Mazda,CX-5,264000,2012,Ojeté,189187,Benzín,121,Manuální
+Mercedes-Benz,AMG GT,2000000,2019,Ojeté,86000,Benzín,470,Automatická
+Mazda,5,125000,2009,Ojeté,197970,Benzín,85,Manuální
+Land Rover,Defender,1299000,2020,Ojeté,95650,Benzín,294,Automatická
+Peugeot,4008,245000,2012,Ojeté,85886,Nafta,110,Manuální
+Mazda,CX-5,316000,2015,Ojeté,158131,Benzín,118,Manuální
+Nissan,Murano,59000,2006,Ojeté,179000,Benzín,183,Automatická
+Škoda,Superb,630000,2022,Ojeté,75868,Hybridní,160,Automatická
+Škoda,Karoq,568000,2022,Ojeté,99428,Benzín,110,Automatická
+Mazda,3,135000,2015,Ojeté,218000,Benzín,74,Manuální
+Škoda,Octavia,205000,2016,Ojeté,163000,Nafta,,Manuální
+Volvo,XC90,599900,2017,Ojeté,196487,Nafta,177,Automatická
+Volkswagen,Passat Variant,609000,2024,Ojeté,92600,Benzín,110,Automatická
+Jeep,Compass,215000,2012,Ojeté,137412,Nafta,120,Manuální
+Dodge,Challenger,525000,2019,Ojeté,141000,Benzín,227,Automatická
+Mercedes-Benz,CLA,750000,2023,Ojeté,62301,Hybridní,160,Automatická
+Mercedes-Benz,Viano,299000,2011,Ojeté,367202,Nafta,165,Automatická
+Škoda,Octavia,185000,2016,Ojeté,162000,Benzín,81,Manuální
+Lexus,IS 250,250000,2009,Ojeté,214821,Benzín,153,Automatická
+Volkswagen,Touareg,670000,2018,Ojeté,115000,Nafta,,Automatická
+Škoda,Octavia,373000,2021,Ojeté,132025,CNG + benzín,96,Automatická
+Škoda,Kodiaq,1100000,2024,Ojeté,3990,Nafta,142,Automatická
+Škoda,Karoq,383000,2019,Ojeté,138885,Nafta,85,Manuální
+Volkswagen,Tiguan,259000,2011,Ojeté,142000,Nafta,103,Automatická
+Mazda,CX-5,272000,2014,Ojeté,193120,Benzín,121,Manuální
+Škoda,Superb,499900,2019,Ojeté,134309,Nafta,140,Automatická
+Volvo,XC90,70000,2003,Ojeté,461000,Nafta,,Automatická
+Škoda,Fabia,65000,2008,Ojeté,202824,Benzín,77,Manuální
+Toyota,Rav4,108900,2006,Ojeté,325000,Nafta,130,Manuální
+Volkswagen,Passat,100000,2011,Ojeté,416434,Nafta,103,Manuální
+Hyundai,Tucson,290000,2016,Ojeté,157134,Nafta,85,Manuální
+Hyundai,i30,280000,2021,Ojeté,108645,Benzín,88,Manuální
+Tesla,Model Y,910000,2023,Ojeté,41000,Elektro,378,Automatická
+Honda,HR-V,619800,2026,Nové,8,Hybridní,96,Automatická
+Škoda,Fabia,130000,2012,Ojeté,113299,Benzín,63,Manuální
+Honda,CR-V,449800,2018,Ojeté,115730,Benzín,127,Manuální
+Volkswagen,Tiguan,226000,2009,Ojeté,208461,Nafta,125,Manuální
+Dacia,Lodgy,100000,2013,Ojeté,140200,Benzín,61,Manuální
+Ford,Kuga,948375,2026,Nové,15,Benzín,134,Automatická
+Volkswagen,Golf,120000,2010,Ojeté,209425,Benzín,90,Manuální
+Volkswagen,Tiguan,270000,2014,Ojeté,110421,Benzín,90,Manuální
+Škoda,Fabia,80000,2008,Ojeté,173439,Benzín,51,Manuální
+Hyundai,i30,300000,2021,Ojeté,81834,Benzín,117,Manuální
+Fiat,Panda,60000,2008,Ojeté,36079,Benzín,40,Manuální
+Škoda,Kodiaq,745000,2020,Ojeté,103320,Nafta,176,Automatická
+MG,ZS,490000,2025,,19686,Benzín,85,Manuální
+Škoda,Kodiaq,360000,2017,Ojeté,228626,Benzín,110,Manuální
+Toyota,Avensis,50000,2009,Ojeté,299420,Nafta,130,Manuální
+Škoda,Fabia,110000,2017,Ojeté,223860,Benzín,66,Manuální
+Škoda,Octavia,250000,2013,Ojeté,166621,Nafta,110,Automatická
+Škoda,Fabia,210000,2016,Ojeté,104191,Benzín,66,Manuální
+Dodge,Ram,1149000,2019,Ojeté,135000,Benzín,295,Automatická
+Honda,HR-V,619800,2026,Nové,8,Benzín,96,Automatická
+Ford,Kuga,360000,2018,Ojeté,99287,Benzín,110,Manuální
+Kia,Stonic,457000,2025,Nové,1,Benzín,74,Manuální
+Hyundai,i20,170000,2017,Ojeté,124155,Benzín,55,Manuální
+Hyundai,i20,315000,2022,Ojeté,52728,Benzín,74,Manuální
+Škoda,Scala,410000,2024,Ojeté,28621,Benzín,85,Manuální
+Škoda,Octavia,125000,2011,Ojeté,252014,Nafta,125,Automatická
+Hyundai,Tucson,470000,2021,Ojeté,45976,Benzín,110,Manuální
+Škoda,Scala,400000,2024,Ojeté,22192,Benzín,85,Manuální
+Dacia,Duster,270000,2018,Ojeté,28168,Benzín,92,Manuální
+Volkswagen,Golf,290000,2015,Ojeté,188878,Nafta,135,Manuální
+Ford,Puma,480000,2023,Ojeté,60,Benzín,114,Automatická
+Dacia,Duster,260000,2019,Ojeté,39333,Benzín,74,Manuální
+Škoda,Karoq,430000,2021,Ojeté,140726,Benzín,110,Manuální
+Ford,Kuga,300000,2017,Ojeté,108217,Nafta,88,Manuální
+Hyundai,ix20,100000,2015,Ojeté,174398,Nafta,57,Manuální
+Kia,Cee´d,320000,2019,Ojeté,55478,Benzín,103,Manuální
+Kia,Niro EV,430000,2020,Ojeté,105988,Elektro,150,Automatická
+Hyundai,Ioniq 5,859000,2023,Ojeté,22985,Elektro,168,
+Nissan,X-Trail,338800,2017,Ojeté,177000,Nafta,96,Manuální
+Peugeot,406,20000,2002,Ojeté,437000,Nafta,,Manuální
+Škoda,Fabia,520000,2025,,6815,Benzín,85,Automatická
+Honda,HR-V,619700,2026,Nové,7,Hybridní,96,Automatická
+Škoda,Octavia,190000,2011,Ojeté,295000,Nafta,125,Manuální
+Škoda,Octavia,579999,2021,Ojeté,96950,Nafta,110,Automatická
+Honda,HR-V,644800,2026,Nové,11,Hybridní,96,Automatická
+Škoda,Fabia,245000,2021,Ojeté,169400,Benzín,70,Manuální
+Porsche,911,3990000,2021,Ojeté,54123,Benzín,375,Automatická
+Volkswagen,Golf,99000,2006,Ojeté,185000,Benzín,147,Manuální
+Opel,Agila,35000,2006,Ojeté,100116,Benzín,44,Manuální
+Volkswagen,Arteon,409000,2019,Ojeté,187680,Benzín,110,Automatická
+Hyundai,Getz,60000,2008,Ojeté,100660,Nafta,65,Manuální
+Kia,Niro EV,450000,2020,Ojeté,104201,Elektro,150,Automatická
+Land Rover,Range Rover Evoque,1489000,2025,Nové,0,Nafta,120,Automatická
+SWM,G1 PRO,559000,2025,Nové,27,Benzín,98,Manuální
+Škoda,Superb,549999,2020,Ojeté,139229,Nafta,140,Automatická
+SWM,G3F TIGER,479000,2025,Nové,15,Benzín,81,Manuální
+Hyundai,Tucson,709990,2025,Nové,5,Benzín,118,Manuální
+Škoda,Kodiaq,549999,2020,Ojeté,160383,Nafta,110,Automatická
+Ford,Tourneo Custom,1099000,2024,Ojeté,21000,Nafta,110,Manuální
+Hyundai,i30,439000,2024,,7200,Benzín,71,Manuální
+SWM,G1F,549000,2025,Ojeté,3300,Benzín,98,Manuální
+SWM,G5 PRO,569000,2025,Nové,679,Benzín,102,Manuální
+SWM,G5 PRO,579000,2025,Nové,5,Benzín,102,Manuální
+SWM,G1F,579000,2025,Ojeté,30,Benzín,98,Manuální
+SWM,G5 PRO,579000,2025,Nové,19,Benzín,102,Manuální
+Volvo,V60,999000,2024,Ojeté,10930,Hybridní,257,Automatická
+Škoda,Kodiaq,729999,2022,Ojeté,125523,Nafta,110,Automatická
+Hyundai,Kona,899000,2025,,4000,Elektro,150,Automatická
+Hyundai,Santa Fe,1399000,2025,,4000,Hybridní,118,Automatická
+Volkswagen,Passat,399999,2019,Ojeté,145682,Benzín,110,Automatická
+SWM,G1 PRO,559000,2025,Nové,5,Benzín,98,Manuální
+Hyundai,i10,472890,2025,Nové,5,Benzín,,Manuální
+Ford,Focus,299000,2020,Ojeté,59000,Benzín,74,Manuální
+Volvo,S90,1079000,2024,Ojeté,21490,Hybridní,335,Automatická
+Volkswagen,Tiguan Allspace,779999,2022,Ojeté,92060,Benzín,140,Automatická
+Volkswagen,Arteon Shooting Brake,599999,2021,Ojeté,148706,Nafta,110,Automatická
+Škoda,Kodiaq,759999,2022,Ojeté,142784,Nafta,110,Automatická
+Volkswagen,Tiguan,649999,2021,Ojeté,134228,Nafta,110,Manuální
+Škoda,Kodiaq,619999,2022,Ojeté,151126,Nafta,110,Automatická
+Volkswagen,Golf,499999,2022,Ojeté,120849,Benzín,96,Manuální
+Volkswagen,Tiguan,629999,2021,Ojeté,115330,Benzín,110,Automatická
+Škoda,Kodiaq,599999,2020,Ojeté,101548,Benzín,110,Automatická
+Škoda,Superb,649999,2023,Ojeté,134673,Nafta,110,Automatická
+Škoda,Kodiaq,729999,2022,Ojeté,120054,Nafta,110,Automatická
+Land Rover,Discovery,1299000,2022,Ojeté,70000,Nafta,221,Automatická
+Kia,XCee´d,599000,2025,Nové,1,Benzín,110,Automatická
+Škoda,Superb,449999,2020,Ojeté,150296,Nafta,110,Automatická
+Škoda,Superb,499999,2020,Ojeté,152663,Nafta,140,Automatická
+Volkswagen,Tiguan Allspace,749999,2022,Ojeté,135953,Nafta,147,Automatická
+Jaecoo,7,765000,2025,Nové,10,Benzín,108,Automatická
+Škoda,Karoq,649999,2022,Ojeté,98814,Nafta,110,Automatická
+Škoda,Kodiaq,649999,2023,Ojeté,137160,Benzín,110,Automatická
+Jaecoo,7,749000,2025,Nové,4000,Benzín,108,Automatická
+Volkswagen,Tiguan,649999,2022,Ojeté,146871,Nafta,110,Automatická
+Jaecoo,7,659000,2025,Nové,10,Benzín,108,Automatická
+SWM,G1 PRO,759000,2026,Nové,10,Benzín,133,Automatická
+Volkswagen,Tiguan Allspace,749999,2022,Ojeté,147651,Nafta,110,Automatická
+Hyundai,Bayon,449000,2025,,2000,Benzín,74,Manuální
+Škoda,Octavia,589999,2022,Ojeté,96448,Nafta,110,Automatická
+Jaecoo,7,849000,2026,Nové,15,Hybridní,255,Automatická
+Ford,Mondeo,137000,2010,Ojeté,262300,Nafta,120,Manuální
+Jaecoo,7,659000,2025,Nové,10,Benzín,108,Automatická
+Omoda,5,569000,2025,Nové,11,Benzín,108,Automatická
+Škoda,Superb,589999,2023,Ojeté,145464,Nafta,147,Automatická
+Hyundai,Tucson,739000,2025,,10000,Benzín,118,Automatická
+Ford,Tourneo Custom,1399000,2025,Ojeté,18000,Nafta,125,Automatická
+Mercedes-Benz,GLE,799000,2018,Ojeté,142625,Nafta,190,Automatická
+Jaecoo,5,738000,2025,,10,Benzín,108,Automatická
+Toyota,C-HR,449000,2018,Ojeté,120000,Benzín,,Automatická
+Mercedes-Benz,CLA,639000,2022,Ojeté,67600,Hybridní,118,Automatická
+Škoda,Karoq,519999,2020,Ojeté,135610,Nafta,110,Manuální
+Hyundai,i20,469000,2025,,2000,Benzín,74,Manuální
+Hyundai,ix20,199000,2016,Ojeté,68923,Benzín,92,Manuální
+Hyundai,Kona,619000,2025,,2140,Benzín,102,Manuální
+Hyundai,Tucson,899000,2025,,5500,Benzín,118,Automatická
+Honda,ZR-V,779700,2026,Nové,8,Hybridní,135,Automatická
+Mazda,MX-5,97000,1999,Ojeté,129000,Benzín,81,Manuální
+Honda,ZR-V,769700,2026,Nové,8,Hybridní,135,Automatická
+Honda,ZR-V,779700,2026,Nové,11,Benzín,135,Automatická
+Volkswagen,Touran,85000,2008,Ojeté,234000,Nafta,103,Manuální
+Škoda,Superb,120000,2008,Ojeté,240291,Nafta,103,Manuální
+Honda,CR-V,999800,2026,Nové,8,Hybridní,135,Automatická
+Honda,CR-V,1059800,2026,Nové,7,Benzín,135,Automatická
+Honda,CR-V,1039800,2026,Nové,11,Hybridní,135,Automatická
+Opel,Combo,283000,2021,Ojeté,153400,Benzín,81,Manuální
+Opel,Insignia,150000,2016,Ojeté,213000,Nafta,125,Manuální
+Ford,Tourneo Custom,1490000,2026,Nové,10,Nafta,125,Automatická
+Škoda,Fabia,249900,2019,Ojeté,66868,Benzín,70,Manuální
+Hyundai,i30,190000,2013,Ojeté,76000,Benzín,88,Manuální
+Honda,ZR-V,817700,2026,Nové,11,Benzín,135,Automatická
+Honda,CR-V,1007700,2026,Nové,11,Hybridní,135,Automatická
+Honda,ZR-V,799800,2026,Nové,9,Hybridní,135,Automatická
+Honda,ZR-V,839800,2026,Nové,10,Benzín,135,Automatická
+Honda,CR-V,999800,2026,Nové,11,Benzín,135,Automatická
+Volvo,XC60,1199000,2026,Nové,0,Benzín,184,Automatická
+Honda,ZR-V,809700,2026,Nové,8,Benzín,135,Automatická
+Honda,CR-V,1022700,2026,Nové,9,Benzín,135,Automatická
+Honda,CR-V,1117700,2026,Nové,15,Hybridní,135,Automatická
+Škoda,Fabia,319000,2022,Ojeté,56000,Benzín,,Manuální
+Škoda,Octavia,89000,2012,Ojeté,271150,Nafta,77,Manuální
+Dodge,Ram,999000,2019,Ojeté,193000,Benzín,295,Automatická
+Mercedes-Benz,GLE,1399000,2023,Ojeté,60720,Nafta,200,Automatická
+Renault,Captur,349000,2022,Ojeté,52000,LPG + benzín,67,Manuální
+Honda,CR-V,1062600,2026,Nové,11,Hybridní,135,Automatická
+BMW,Řada 3,750000,2023,Ojeté,94000,Hybridní,215,Automatická
+BMW,X5,999000,2019,Ojeté,95000,Nafta,195,Automatická
+Renault,Mégane,99990,2010,Ojeté,41065,Benzín,81,Manuální
+BMW,Řada 5,630000,2019,Ojeté,140000,Nafta,,Automatická
+Mazda,3,159999,2015,Ojeté,340000,Benzín,88,Manuální
+Hyundai,i20,205000,2020,Ojeté,95654,Benzín,55,Manuální
+Ford,Kuga,480000,2021,Ojeté,55500,Benzín,110,Manuální
+Škoda,Octavia,339000,2020,Ojeté,155400,Nafta,85,Manuální
+Škoda,Octavia,296450,2017,Ojeté,176000,Nafta,110,Automatická
+Honda,CR-V,1099900,2026,Nové,8,Hybridní,135,Automatická
+Honda,CR-V,1117700,2026,Nové,11,Benzín,135,Automatická
+Honda,CR-V,1132700,2026,Nové,11,Benzín,135,Automatická
+Škoda,Octavia,418000,2018,Ojeté,92765,Benzín,110,Automatická
+Honda,CR-V,1077700,2026,Nové,12,Benzín,135,Automatická
+Opel,Insignia,479000,2017,Ojeté,91999,Benzín,191,Automatická
+Fiat,Panda,177777,2021,Ojeté,112100,Benzín,51,Manuální
+Nissan,Qashqai,299999,2014,Ojeté,136000,Nafta,96,Automatická
+Jeep,Renegade,349943,2015,Ojeté,90241,Benzín,125,Automatická
+Nissan,Micra,149000,2017,Ojeté,108000,Benzín,59,Manuální
+Honda,Jazz,279972,2015,Ojeté,83760,Benzín,75,Automatická
+Hyundai,ix35,259952,2012,Ojeté,153170,Benzín,122,Automatická
+SsangYong,Tivoli,332233,2018,Ojeté,22120,Benzín,94,Manuální
+Hyundai,Tucson,379973,2016,Ojeté,103980,Benzín,130,Manuální
+Škoda,Rapid,169961,2015,Ojeté,199900,Benzín,77,Manuální
+Škoda,Fabia,129921,2015,Ojeté,138000,Benzín,63,Manuální
+Mercedes-Benz,Třídy C,119000,2005,Ojeté,179990,Benzín,105,Manuální
+Peugeot,5008,119911,2013,Ojeté,157000,Benzín,88,Manuální
+Opel,Astra,149941,2013,Ojeté,89999,Benzín,103,Manuální
+Kia,Rio,168861,2017,Ojeté,149999,Benzín,61,Manuální
+Mercedes-Benz,Třídy C,288882,2015,Ojeté,185000,Nafta,100,Automatická
+Audi,A5,199999,2011,Ojeté,180000,Nafta,125,Manuální
+Ford,Galaxy,159959,2008,Ojeté,139527,Benzín,107,Manuální
+Mitsubishi,Eclipse Cross,559955,2022,Ojeté,66200,Hybridní,138,Automatická
+Ford,Kuga,179971,2012,Ojeté,185000,Nafta,120,Manuální
+Kia,EV3,949000,2025,Nové,1,Elektro,150,Automatická
+BMW,Řada 3,139000,2008,Ojeté,209270,Benzín,105,Manuální
+Volkswagen,Passat Variant,43000,2006,Ojeté,275700,Nafta,103,Manuální
+Hyundai,ix35,299992,2015,Ojeté,97000,Benzín,122,Automatická
+Volvo,XC90,819000,2021,Ojeté,109000,Nafta,173,Automatická
+Hyundai,i30,450000,2024,Ojeté,10273,Benzín,74,Automatická
+Ford,Fiesta,149941,2015,Ojeté,118000,Benzín,59,Manuální
+Peugeot,3008,339000,2019,Ojeté,67000,Benzín,96,Manuální
+Škoda,Octavia,190000,2014,Ojeté,157730,Nafta,77,Manuální
+Hyundai,i30,120000,2013,Ojeté,235879,Benzín,88,Manuální
+Renault,Thalia,34000,2012,Ojeté,210000,Benzín,55,Manuální
+Škoda,Octavia,900000,2024,Ojeté,29119,Benzín,195,Automatická
+Škoda,Karoq,620000,2022,Ojeté,110213,Nafta,110,Automatická
+Dacia,Duster,319913,2019,Ojeté,129500,Nafta,85,Manuální
+BMW,X1,369000,2016,Ojeté,121965,Nafta,110,Manuální
+Opel,Mokka,288882,2017,Ojeté,98000,Benzín,103,Manuální
+Mercedes-Benz,Třídy A,320000,2014,Ojeté,148500,Nafta,100,Automatická
+BMW,Řada 5,279000,2006,Ojeté,241000,Benzín,270,Automatická
+Škoda,Fabia,119000,2011,Ojeté,163000,Benzín,77,Automatická
+Volvo,V60,159951,2010,Ojeté,258000,Nafta,120,Manuální
+Škoda,Karoq,480000,2019,Ojeté,62452,Benzín,110,Manuální
+Hyundai,ix35,299992,2015,Ojeté,105500,Nafta,135,Automatická
+Toyota,Proace City Verso,470000,2021,Ojeté,114300,Nafta,96,Manuální
+Volkswagen,Touareg,769000,2020,Ojeté,122500,Nafta,170,Automatická
+Ford,S-MAX,539000,2022,Ojeté,147499,Hybridní,140,Automatická
+Ford,Focus,279000,2019,Ojeté,83643,Benzín,74,Manuální
+Ford,F-150,2040000,2021,Ojeté,41000,Benzín,,Automatická
+Volkswagen,Golf,589000,2022,Ojeté,121537,Nafta,147,Automatická
+Škoda,Fabia,150000,2015,Ojeté,168229,Benzín,66,Manuální
+Ford,Kuga,330000,2018,Ojeté,134081,Nafta,110,Manuální
+Ford,Fiesta,249900,2018,Ojeté,117202,Benzín,103,Manuální
+Ford,S-MAX,639000,2022,Ojeté,127027,Nafta,140,Automatická
+Audi,A6,109900,2009,Ojeté,229000,Nafta,140,Automatická
+Land Rover,Discovery Sport,1669000,2025,Nové,0,Nafta,150,Automatická
+Ford,Focus,40000,2010,Ojeté,293327,Nafta,80,Manuální
+Dodge,Durango,790000,2020,Ojeté,147000,Benzín,268,Automatická
+Ford,Galaxy,625000,2022,Ojeté,140942,Nafta,110,Automatická
+Mazda,CX-30,435000,2021,Ojeté,119413,Benzín,90,Manuální
+Volkswagen,Touran,529000,2020,Ojeté,134060,Nafta,110,Automatická
+Hyundai,Tucson,520000,2022,Ojeté,30260,Benzín,110,Manuální
+Volkswagen,Golf,146000,2011,Ojeté,143723,Benzín,63,Manuální
+Volkswagen,Golf,230000,2015,Ojeté,92089,Benzín,77,Manuální
+Renault,Mégane,80000,2011,Ojeté,228294,Nafta,96,Manuální
+Land Rover,Range Rover Evoque,1439000,2026,Nové,0,Nafta,120,Automatická
+Smart,Fortwo,129990,2010,Ojeté,111059,Benzín,62,Automatická
+Volkswagen,Golf Plus,80000,2006,Ojeté,227716,Nafta,77,Manuální
+Dacia,Duster,260000,2020,Ojeté,87089,LPG + benzín,74,Manuální
+Volkswagen,Passat,388999,2019,Ojeté,173834,Nafta,140,Automatická
+Audi,A3,289190,2015,Ojeté,172500,Nafta,81,Automatická
+Volkswagen,ID.3,429000,2020,Ojeté,113421,Elektro,150,Automatická
+Škoda,Fabia,85000,2016,Ojeté,334647,Nafta,66,Manuální
+Mercedes-Benz,Třídy C,669990,2016,Ojeté,87510,Nafta,125,Automatická
+Škoda,Octavia,88800,2006,Ojeté,117307,Benzín,75,Manuální
+Volkswagen,Golf,429999,2021,Ojeté,59151,Benzín,96,Manuální
+Volkswagen,Golf,90000,2011,Ojeté,245580,Nafta,77,Manuální
+Hyundai,Tucson,600000,2022,Ojeté,95254,Benzín,132,Automatická
+Dacia,Duster,320000,2019,Ojeté,88339,Benzín,96,Manuální
+Škoda,Octavia,100000,2012,Ojeté,273900,Nafta,77,Manuální
+Škoda,Fabia,270000,2018,Ojeté,80851,Benzín,81,Manuální
+BMW,Řada 3,480000,2020,Ojeté,172500,Nafta,140,Automatická
+BMW,i3,469990,2019,Ojeté,48452,Elektro,135,Automatická
+Alfa Romeo,Spider,129000,1996,Ojeté,112000,Benzín,110,Manuální
+BMW,Řada 5,269999,1992,Ojeté,116749,Benzín,141,Manuální
+Mercedes-Benz,Třídy S,179990,2007,Ojeté,293030,Nafta,173,Automatická
+Škoda,Octavia,349900,2022,Ojeté,148500,Benzín,110,Manuální
+BMW,Řada 5,175000,2006,Ojeté,357000,Nafta,170,Automatická
+Škoda,Octavia,200000,2014,Ojeté,140915,Nafta,77,Manuální
+Mercedes-Benz,Třídy B,78000,2009,Ojeté,234072,Nafta,80,Automatická
+MG,ZS,394000,2024,Ojeté,36334,Benzín,82,Automatická
+Mercedes-Benz,CLA,770000,2022,Ojeté,23089,Benzín,100,Automatická
+MG,ZS,423000,2025,,3522,Benzín,78,Manuální
+BMW,X5,1299000,2020,Ojeté,125000,Nafta,294,Automatická
+Ford,Puma,796900,2026,Nové,17,Elektro,123,Automatická
+MG,ZS,480000,2025,,20207,Benzín,85,Manuální
+Volkswagen,Golf,188000,2013,Ojeté,155920,Benzín,77,Manuální
+Audi,A6,1035000,2023,Ojeté,40221,Nafta,150,Automatická
+Ford,Ranger,285000,2015,Ojeté,400000,Nafta,,Manuální
+Volkswagen,Caddy,388000,2019,Ojeté,178531,Nafta,75,Automatická
+Škoda,Octavia,730000,2023,Ojeté,32950,Nafta,147,Automatická
+Audi,RS3,1390000,2023,Ojeté,23000,Benzín,294,Automatická
+Ford,Focus,155000,2018,Ojeté,111600,Benzín,92,Manuální
+Škoda,Roomster,99000,2010,Ojeté,210414,Benzín,63,Manuální
+Hyundai,i30,140000,2015,Ojeté,222648,Nafta,81,Manuální
+Škoda,Kamiq,369900,2023,Ojeté,69800,Benzín,70,Manuální
+Škoda,Octavia,249000,2019,Ojeté,192882,Benzín,85,Manuální
+Škoda,Fabia,215000,2018,Ojeté,124610,Benzín,66,Manuální
+MG,ZS,400000,2023,Ojeté,12853,Benzín,82,Automatická
+Škoda,Karoq,570000,2024,Ojeté,24460,Benzín,110,Manuální
+Škoda,Octavia,145000,2016,Ojeté,314741,Nafta,81,Automatická
+Dodge,Challenger,645000,2021,Ojeté,111000,Benzín,227,Automatická
+BMW,i3,485089,2019,Ojeté,19500,Elektro,125,Automatická
+Škoda,Karoq,500000,2021,Ojeté,93584,Benzín,110,Manuální
+Hyundai,i30,330000,2021,Ojeté,84024,Benzín,117,Manuální
+Volkswagen,Caddy,214000,2014,Ojeté,133615,Benzín,63,
+BMW,Řada 3,390000,2018,Ojeté,190000,Nafta,140,Automatická
+Volvo,V60,999000,2024,Ojeté,9274,Hybridní,257,Automatická
+Kia,Cee´d,265000,2019,Ojeté,43722,Benzín,73,Manuální
+Volkswagen,Tiguan,180000,2015,Ojeté,303771,Nafta,81,Manuální
+Škoda,Kodiaq,690000,2021,Ojeté,169172,Benzín,140,Automatická
+BMW,i3,415635,2019,Ojeté,69500,Elektro,125,Automatická
+Škoda,Kodiaq,790000,2023,Ojeté,71237,Nafta,110,Automatická
+Volkswagen,Passat,349000,2018,Ojeté,207340,Nafta,110,Manuální
+Mazda,6,519000,2021,Ojeté,118168,Benzín,121,Automatická
+Tesla,Model 3,558415,2021,Ojeté,149900,Elektro,,Automatická
+Dodge,Ram,999999,2019,Ojeté,173000,Benzín,295,Automatická
+Dodge,Ram,1359000,2021,Ojeté,71000,Benzín,295,Automatická
+Škoda,Kodiaq,709999,2021,Ojeté,177000,Nafta,147,Automatická
+Ford,F-150,1059000,2021,Ojeté,116000,Benzín,294,Automatická
+Suzuki,SX4,159000,2008,Ojeté,58500,Benzín,79,Manuální
+Škoda,Octavia,239000,2013,Ojeté,146630,Nafta,77,Automatická
+Škoda,Superb,489000,2020,Ojeté,107500,Hybridní,115,Automatická
+Land Rover,Range Rover,5199000,2026,Nové,0,Benzín,390,Automatická
+Škoda,Octavia,285000,2015,Ojeté,195600,Nafta,110,Manuální
+Škoda,Octavia,279000,2014,Ojeté,152370,Benzín,103,Automatická
+Jeep,Gladiator,1299000,2023,Ojeté,24000,LPG + benzín,210,Automatická
+Suzuki,SX4,179000,2013,Ojeté,172780,Benzín,88,Manuální
+Volkswagen,Passat,359000,2020,Ojeté,151300,Nafta,88,Automatická
+Volvo,XC60,449000,2014,Ojeté,173920,Nafta,158,Automatická
+Fiat,Ducato,449000,2017,Ojeté,217000,Nafta,110,Manuální
+Land Rover,Defender,2789000,2026,Nové,0,Nafta,257,Automatická
+Škoda,Octavia,339000,2017,Ojeté,158800,Nafta,110,Manuální
+BMW,i3,490000,2019,Ojeté,49900,Elektro,135,Automatická
+Dodge,Ram,1179000,2021,Ojeté,117000,Benzín,295,Automatická
+Dodge,Ram,1269000,2020,Ojeté,77000,Benzín,295,Automatická
+Volkswagen,Golf,395065,2020,Ojeté,29900,Elektro,100,Automatická
+BMW,Řada 3,660000,2022,Ojeté,145000,Hybridní,150,Automatická
+Volvo,V90,699000,2018,Ojeté,99530,Nafta,140,Automatická
+Dodge,Ram,969000,2018,Ojeté,99000,Benzín,295,Automatická
+Mercedes-Benz,Třídy C,499000,2019,Ojeté,162000,Benzín,115,Manuální
+Dodge,Charger,1199000,2021,Ojeté,32000,Benzín,362,Automatická
+Toyota,Land Cruiser,259000,2006,Ojeté,341000,Nafta,122,Manuální
+Jeep,Gladiator,1129000,2020,Ojeté,46000,LPG + benzín,210,Automatická
+Dodge,Ram,1199000,2021,Ojeté,92000,Benzín,295,Automatická
+Dodge,Ram,1189000,2022,Ojeté,98000,Benzín,295,Automatická
+Škoda,Superb,249500,2013,Ojeté,310800,Nafta,125,Automatická
+Mercedes-Benz,,999000,2019,Ojeté,125730,Nafta,140,Automatická
+BMW,iX,968000,2022,Ojeté,115500,Elektro,240,Automatická
+Mercedes-Benz,Třídy V,999000,2019,Ojeté,125727,Nafta,140,Automatická
+Toyota,Aygo,180000,2021,Ojeté,65000,Benzín,,Manuální
+Dacia,Sandero,335000,2023,Ojeté,33000,LPG + benzín,67,Manuální
+Hyundai,Tucson,279900,2018,Ojeté,175000,Nafta,85,Manuální
+Škoda,Fabia,80000,2008,Ojeté,159290,Benzín,63,Manuální
+Volkswagen,Golf,170000,2012,Ojeté,127943,Benzín,77,Manuální
+Škoda,Octavia,129000,2010,Ojeté,115000,Nafta,74,Manuální
+Škoda,Fabia,210000,2018,Ojeté,114149,Benzín,70,Manuální
+Audi,Q4 e-tron,573000,2022,Ojeté,92585,Elektro,125,Automatická
+Škoda,Fabia,160000,2017,Ojeté,182817,Benzín,66,Manuální
+Škoda,Octavia,275000,2015,Ojeté,136655,Benzín,110,Manuální
+Ford,Focus,40000,2005,Ojeté,324776,Nafta,66,Manuální
+Mercedes-Benz,Třídy E,949000,2019,Ojeté,54798,Nafta,143,Automatická
+BMW,X2,749000,2021,Ojeté,51000,Nafta,140,Automatická
+Mercedes-Benz,Třídy A,759000,2024,Ojeté,21119,Nafta,110,Automatická
+Volkswagen,Eos,148000,2008,Ojeté,149000,Nafta,103,Automatická
+Hyundai,Tucson,470000,2021,Ojeté,61522,Benzín,110,Manuální
+Škoda,Fabia,220000,2018,Ojeté,141937,Nafta,66,Automatická
+Škoda,Scala,500000,2024,Ojeté,29013,Benzín,85,Manuální
+Volvo,XC40,835000,2026,Ojeté,900,Benzín,120,Automatická
+Škoda,Fabia,270000,2022,Ojeté,98818,Benzín,70,Manuální
+Mercedes-Benz,GLE,1350000,2022,Ojeté,71500,Nafta,200,Automatická
+BMW,Řada 5,1099000,2022,Ojeté,49000,Nafta,210,Automatická
+Volkswagen,Tiguan,399990,2016,Ojeté,129000,Nafta,110,Manuální
+Hyundai,Tucson,350000,2016,Ojeté,97861,Nafta,85,Manuální
+Mazda,CX-5,329990,2016,Ojeté,125327,Benzín,121,Manuální
+Škoda,Octavia,70000,2012,Ojeté,377788,Benzín,118,Automatická
+Porsche,Taycan,1399000,2023,Ojeté,54425,Elektro,280,Automatická
+Toyota,Yaris,179990,2011,Ojeté,119358,Benzín,73,Automatická
+Volkswagen,Golf,200000,2016,Ojeté,190689,Nafta,81,Manuální
+Volkswagen,Golf,129000,2011,Ojeté,158000,Benzín,77,Manuální
+Renault,Trafic,548000,2019,Ojeté,125000,Nafta,89,Manuální
+Mini,Cooper,57000,2005,Ojeté,198381,Benzín,85,Manuální
+BMW,Řada 8,1649000,2021,Ojeté,27480,Benzín,390,Automatická
+Toyota,Yaris,60000,2008,Ojeté,99782,Benzín,51,Manuální
+Škoda,Scala,345000,2022,Ojeté,123824,Benzín,81,Manuální
+Škoda,Octavia,99990,2009,Ojeté,125227,Benzín,55,Manuální
+Ford,Kuga,470000,2023,Ojeté,96126,Benzín,110,Manuální
+Škoda,Fabia,199990,2015,Ojeté,109229,Benzín,66,Manuální
+Ford,Kuga,710900,2026,Nové,14,Benzín,137,Automatická
+Dacia,Duster,280000,2020,Ojeté,78268,LPG + benzín,74,Manuální
+Volvo,S90,698000,2022,Ojeté,112057,Nafta,173,Automatická
+Škoda,Octavia,80000,2006,Ojeté,280218,Nafta,77,Manuální
+BMW,Řada 7,545230,2011,Ojeté,120000,Nafta,228,Automatická
+Škoda,Karoq,480000,2018,Ojeté,118470,Benzín,110,Automatická
+BMW,X6,1578800,2020,Ojeté,78100,Benzín,390,Automatická
+Ford,Focus,30000,2005,Ojeté,222700,Nafta,100,Manuální
+Škoda,Karoq,620000,2023,Ojeté,49748,Benzín,110,Manuální
+Renault,Mégane,160000,2017,Ojeté,192000,Benzín,97,Manuální
+Volkswagen,Passat,139000,2015,Ojeté,495784,Nafta,88,Manuální
+Kia,Cee´d,74800,2007,Ojeté,206406,Benzín,90,Automatická
+Audi,80,179000,1998,Ojeté,237007,Benzín,110,Automatická
+Volvo,S60,979000,2024,Ojeté,20012,Hybridní,335,Automatická
+Hyundai,i30,170000,2014,Ojeté,137741,Benzín,88,Manuální
+Tesla,Model 3,478000,2020,Ojeté,130000,Elektro,239,Automatická
+Volkswagen,Golf,275000,2015,Ojeté,183500,Nafta,110,Automatická
+Ford,Puma,358000,2023,Ojeté,85000,Benzín,92,Manuální
+Škoda,Fabia,269999,2024,Ojeté,168000,Benzín,59,Manuální
+Škoda,Octavia,330000,2014,Ojeté,151309,Nafta,135,Automatická
+Opel,Vivaro,349999,2016,Ojeté,127972,Nafta,92,Manuální
+Volkswagen,Passat,151250,2013,Ojeté,298000,Nafta,103,Manuální
+Hyundai,i30,38990,2011,Ojeté,299236,Nafta,85,Manuální
+Škoda,Octavia,80000,2006,Ojeté,153479,Benzín,85,Manuální
+Mercedes-Benz,GLE,2560000,2025,Ojeté,4000,Hybridní,145,Automatická
+Hyundai,Kona,414000,2020,Ojeté,96300,Elektro,150,Automatická
+Kia,EV4,1344980,2026,Nové,1,Elektro,150,Automatická
+BMW,X5,1100000,2021,Ojeté,102650,Hybridní,290,Automatická
+Land Rover,Range Rover,4299000,2025,,11900,Hybridní,404,Automatická
+Land Rover,Range Rover Sport,3149000,2025,,9900,Hybridní,338,Automatická
+Ford,Tourneo Custom,1169900,2026,Nové,10,Nafta,110,Manuální
+Toyota,Corolla Cross,1079900,2026,Nové,2,Hybridní,131,Automatická
+Mercedes-Benz,GLC,838000,2022,Ojeté,132852,Hybridní,155,Automatická
+Ford,Transit,438000,2022,Ojeté,225546,Nafta,110,Manuální
+Audi,A4 Avant,981310,2024,Ojeté,37900,Nafta,150,Automatická
+BMW,Řada 5,288000,2013,Ojeté,161363,Nafta,135,Automatická
+Toyota,Corolla Cross,819900,2026,Nové,2,Hybridní,103,Automatická
+Toyota,Corolla,799400,2026,Nové,2,Hybridní,103,Automatická
+Toyota,Corolla Cross,882900,2026,Nové,2,Hybridní,103,Automatická
+Toyota,Corolla Cross,837900,2026,Nové,2,Hybridní,103,Automatická
+Toyota,Corolla,851900,2026,Nové,2,Hybridní,144,Automatická
+Toyota,Corolla Cross,789900,2026,Nové,2,Hybridní,103,Automatická
+BMW,Řada 3,698000,2022,Ojeté,95231,Nafta,140,Automatická
+Volkswagen,Passat,19900,2001,Ojeté,371600,Nafta,96,Manuální
+Toyota,Corolla Cross,1067900,2026,Nové,2,Hybridní,131,Automatická
+Porsche,911,3568000,2018,Ojeté,47369,Benzín,368,Automatická
+Toyota,Corolla Cross,963900,2026,Nové,2,Hybridní,131,Automatická
+Hyundai,Bayon,329900,2022,Ojeté,11926,Benzín,74,Manuální
+Toyota,Corolla,793900,2026,Nové,2,Hybridní,103,Automatická
+Toyota,Corolla Cross,888900,2026,Nové,2,Hybridní,103,Automatická
+Toyota,Corolla,793900,2026,Nové,2,Hybridní,103,Automatická
+Hyundai,Tucson,479990,2021,Ojeté,39860,Benzín,110,Manuální
+Škoda,Kodiaq,929990,2024,Ojeté,24909,Nafta,147,Automatická
+Škoda,Kodiaq,929990,2024,Ojeté,27917,Nafta,147,Automatická
+Škoda,Octavia,409990,2020,Ojeté,67066,Nafta,85,Manuální
+Škoda,Octavia,749990,2024,Ojeté,28888,Benzín,110,Manuální
+Kia,XCee´d,680000,2025,,10,Hybridní,104,Automatická
+Cupra,Formentor,799990,2023,Ojeté,46144,Benzín,228,Automatická
+Toyota,C-HR,799990,2024,Ojeté,8307,Hybridní,112,Automatická
+Audi,A7,749990,2018,Ojeté,174484,Nafta,170,Automatická
+Škoda,Karoq,689990,2025,Ojeté,25635,Benzín,110,Automatická
+Škoda,Kamiq,499990,2024,Ojeté,12388,Benzín,85,Manuální
+Hyundai,ix20,229990,2019,Ojeté,55119,Benzín,92,Manuální
+Renault,,249990,2021,Ojeté,85137,Benzín,75,Manuální
+Škoda,Superb,919990,2023,Ojeté,44889,Benzín,206,Automatická
+Škoda,Octavia,729990,2024,Ojeté,13006,Benzín,110,Manuální
+Volkswagen,Arteon Shooting Brake,799990,2022,Ojeté,85486,Nafta,147,Automatická
+Volkswagen,Passat,749990,2019,Ojeté,80906,Benzín,200,Automatická
+Dacia,Sandero,289990,2024,Ojeté,63404,Benzín,67,Automatická
+Hyundai,i30,219990,2019,Ojeté,173345,Benzín,103,Manuální
+Volkswagen,Passat,309990,2018,Ojeté,206392,Nafta,110,Manuální
+Renault,Kadjar,199990,2020,Ojeté,213524,Benzín,117,Manuální
+Škoda,Octavia,940700,2026,Nové,7,Benzín,110,
+Volkswagen,Touareg,739000,2020,Ojeté,213270,Nafta,210,Automatická
+Hyundai,Tucson,879990,2022,Ojeté,37862,Benzín,0,Automatická
+Škoda,Kodiaq,929990,2023,Ojeté,12059,Nafta,110,Automatická
+Škoda,Superb,749990,2023,Ojeté,32682,Nafta,110,Automatická
+Škoda,Kamiq,589300,2026,Nové,9,Benzín,110,Manuální
+Volkswagen,Tiguan,1259900,2026,,6,Benzín,110,Automatická
+Škoda,Superb,749990,2024,Ojeté,50285,Nafta,110,Automatická
+Mercedes-Benz,Třídy A,759000,2024,Ojeté,25371,Nafta,110,Automatická
+Škoda,Octavia,199000,2016,Ojeté,213000,Nafta,110,Manuální
+Jaguar,XF,200000,2011,Ojeté,198482,Nafta,140,Automatická
+Audi,Q7,2359000,2026,Nové,10,Nafta,210,Automatická
+Škoda,Kodiaq,1449900,2025,,10,Benzín,150,Automatická
+Ford,Tourneo Custom,1480193,2026,Nové,0,Nafta,125,Automatická
+Volkswagen,Tiguan Allspace,849990,2021,Ojeté,107539,Nafta,147,Automatická
+Škoda,Kodiaq,1468800,2025,,10,Benzín,195,Automatická
+Škoda,Octavia,1084700,2026,Nové,0,Benzín,195,Automatická
+Volkswagen,Touran,919900,2026,Nové,5,Benzín,110,Automatická
+Hyundai,Tucson,417000,2018,Ojeté,79767,Benzín,130,Automatická
+Hyundai,Kona,605890,2026,Nové,0,Benzín,85,Manuální
+Škoda,Kodiaq,1444900,2026,,10,Nafta,142,Automatická
+Ford,Tourneo Custom,1443893,2026,Nové,0,Hybridní,171,Automatická
+Ford,Tourneo Custom,1455388,2026,Nové,0,Hybridní,171,Automatická
+Ford,Tourneo Custom,1443893,2026,Nové,0,Hybridní,171,Automatická
+Ford,Tourneo Courier,708766,2025,Nové,0,Elektro,100,
+Ford,Tourneo Courier,695480,2025,Nové,0,Elektro,100,Automatická
+Ford,Tourneo Custom,1479725,2026,Nové,0,Nafta,125,Automatická
+Toyota,Corolla,370000,2022,Ojeté,68378,Benzín,92,Automatická
+Ford,Tourneo Courier,533360,2025,Nové,0,Benzín,92,Manuální
+Ford,Tourneo Courier,754400,2025,Nové,0,Elektro,100,Automatická
+Ford,Tourneo Courier,719680,2026,Nové,0,Elektro,100,Automatická
+Ford,Tourneo Connect,899990,2026,Nové,0,Nafta,90,Automatická
+Ford,Tourneo Courier,708766,2025,Nové,0,Elektro,100,Automatická
+Ford,Tourneo Custom,1567313,2026,Nové,0,Nafta,125,Automatická
+Ford,Puma,651993,2026,Nové,0,Elektro,123,Automatická
+Ford,Tourneo Courier,627833,2025,Nové,0,Benzín,92,Automatická
+Ford,Tourneo Connect,877470,2026,Nové,0,Nafta,90,Automatická
+Volkswagen,Caddy,380000,2021,Ojeté,207834,Nafta,55,Manuální
+Ford,Tourneo Custom,1443893,2026,Nové,0,Hybridní,171,Automatická
+Ford,Puma,621226,2026,Nové,0,Elektro,123,Automatická
+Ford,Puma,682621,2025,Nové,0,Elektro,123,Automatická
+Kia,Cee´d,357900,2023,Ojeté,32291,Benzín,117,Manuální
+Ford,Puma,630678,2026,Nové,0,Elektro,123,Automatická
+Hyundai,i30,409900,2024,Ojeté,26268,Benzín,88,Automatická
+Ford,Puma,649788,2026,Nové,0,Elektro,123,Automatická
+Ford,Puma,619900,2025,Ojeté,7950,Elektro,123,Automatická
+Ford,Puma,647583,2026,Nové,0,Elektro,123,Automatická
+Škoda,Yeti,275000,2015,Ojeté,145000,Benzín,81,Automatická
+Hyundai,Bayon,399900,2024,Ojeté,7992,Benzín,73,Manuální
+Ford,Puma,636558,2026,Nové,0,Elektro,123,Automatická
+Hyundai,Kona,529900,2024,Ojeté,13831,Benzín,88,Automatická
+Ford,Puma,688008,2026,Nové,0,Elektro,123,Automatická
+Ford,Puma,605130,2026,Nové,0,Elektro,123,Automatická
+Volkswagen,Touran,210000,2014,Ojeté,149183,Nafta,77,Manuální
+Ford,Puma,647583,2026,Nové,0,Elektro,123,Automatická
+Ford,Puma,638763,2026,Nové,0,Elektro,123,Automatická
+Hyundai,Tucson,489900,2022,Ojeté,92986,Benzín,110,Automatická
+Hyundai,i20,379900,2025,Ojeté,4048,Benzín,57,Manuální
+Kia,XCee´d,455000,2022,Ojeté,24794,Benzín,117,Manuální
+Hyundai,Bayon,399900,2023,Ojeté,36102,Benzín,73,Automatická
+Hyundai,i30,529900,2025,Ojeté,12911,Benzín,103,Manuální
+Hyundai,i30,435900,2021,Ojeté,58166,Benzín,117,Automatická
+Hyundai,Tucson,529900,2022,Ojeté,56415,Benzín,110,Manuální
+Land Rover,Range Rover Sport,2489000,2026,Nové,0,Nafta,183,Automatická
+Hyundai,Santa Fe,1362990,2025,Nové,11,Hybridní,158,Automatická
+Hyundai,i20,398900,2023,Ojeté,15361,Benzín,73,Manuální
+Hyundai,i30,398900,2024,Ojeté,3196,Benzín,70,Manuální
+Hyundai,Bayon,429900,2024,Ojeté,26456,Benzín,73,Automatická
+Hyundai,Kona,529900,2023,Ojeté,7267,Benzín,88,Manuální
+Hyundai,i30,509890,2025,Nové,6,Benzín,74,Manuální
+Hyundai,Bayon,319900,2023,Ojeté,38035,Benzín,73,Manuální
+Hyundai,Tucson,587900,2024,Ojeté,16818,Benzín,117,Manuální
+Hyundai,i30,419900,2024,Ojeté,17981,Benzín,88,Automatická
+Volvo,XC60,929000,2022,Ojeté,88391,Nafta,145,Automatická
+Hyundai,i30,509900,2024,Ojeté,21704,Benzín,103,Manuální
+Hyundai,Tucson,469900,2021,Ojeté,107385,Benzín,110,Manuální
+Hyundai,Tucson,599000,2023,Ojeté,39277,Benzín,110,Automatická
+Hyundai,Tucson,569900,2023,Ojeté,50222,Benzín,110,Automatická
+Hyundai,i30,504900,2025,Ojeté,8857,Benzín,73,Automatická
+Hyundai,i30,569900,2024,Ojeté,26204,Benzín,103,Automatická
+Hyundai,Bayon,347000,2023,Ojeté,22316,Benzín,61,Manuální
+Hyundai,Tucson,629900,2024,Ojeté,21955,Benzín,117,Manuální
+Hyundai,Santa Fe,1299000,2024,Ojeté,30404,Hybridní,117,Automatická
+Hyundai,i30,488900,2024,Ojeté,11118,Benzín,73,Manuální
+Hyundai,i30,439900,2024,Ojeté,12796,Benzín,70,Manuální
+Hyundai,i30,419900,2024,Ojeté,12698,Benzín,70,Manuální
+Hyundai,Kona,639900,2023,Ojeté,24987,Benzín,145,Automatická
+Hyundai,i30,448900,2023,Ojeté,26023,Benzín,117,Manuální
+Hyundai,i30,379000,2022,Ojeté,40423,Benzín,88,Automatická
+Hyundai,i30,349900,2022,Ojeté,58381,Benzín,88,Manuální
+Hyundai,Tucson,509900,2022,Ojeté,45763,Nafta,100,Manuální
+Genesis,GV80,1769322,2024,Ojeté,11677,Benzín,,Automatická
+Hyundai,Bayon,347000,2023,Ojeté,21417,Benzín,61,Manuální
+Ford,Tourneo Custom,1450000,2026,Nové,10,Nafta,125,Automatická
+Hyundai,i30,409900,2023,Ojeté,45053,Benzín,80,Manuální
+Hyundai,i30,349900,2023,Ojeté,36468,Benzín,88,Manuální
+Dacia,Sandero,310000,2022,Ojeté,47285,Benzín,67,Manuální
+Genesis,GV70,1340500,2024,Ojeté,9019,Nafta,,Automatická
+Hyundai,i30,449900,2023,Ojeté,33436,Benzín,117,Manuální
+Hyundai,Tucson,549900,2022,Ojeté,35450,Benzín,110,Automatická
+Opel,Insignia,380000,2021,Ojeté,100266,Nafta,128,Automatická
+Genesis,GV70,1354900,2023,Ojeté,26541,Benzín,224,Automatická
+Hyundai,i30,359000,2021,Ojeté,34914,Benzín,88,Automatická
+Hyundai,Bayon,439900,2024,Ojeté,10883,Benzín,73,Automatická
+Hyundai,Tucson,378900,2018,Ojeté,90777,Benzín,130,Manuální
+Hyundai,Tucson,509900,2021,Ojeté,45424,Nafta,85,Manuální
+Volkswagen,Golf Plus,44900,2006,Ojeté,213000,Benzín,85,Manuální
+Ford,Capri,1134900,2026,Nové,10,Elektro,210,Automatická
+Hyundai,Staria,1139000,2024,Ojeté,17854,Hybridní,117,Automatická
+Hyundai,i30,369900,2023,Ojeté,25439,Benzín,88,Manuální
+Hyundai,Kona,519900,2024,Ojeté,9941,Benzín,88,Automatická
+Hyundai,i30,369900,2023,Ojeté,30612,Benzín,88,Manuální
+Ford,Explorer,1063792,2026,Nové,0,Elektro,210,Automatická
+Škoda,Rapid,140000,2016,Ojeté,220430,Nafta,66,Manuální
+Škoda,Fabia,240000,2020,Ojeté,14719,Benzín,44,Manuální
+Ford,Kuga,707519,2025,Nové,0,Benzín,137,Automatická
+Ford,Kuga,707519,2025,Nové,0,Benzín,137,Automatická
+Ford,Explorer,914286,2025,Nové,0,Elektro,210,Automatická
+Ford,Puma,498799,2025,Nové,0,Hybridní,92,Automatická
+Ford,Focus,594443,2025,Nové,0,Hybridní,114,Automatická
+Ford,Explorer,1009338,2025,Nové,0,Elektro,210,Automatická
+Ford,Focus,519068,2025,,15000,Benzín,114,Automatická
+Mercedes-Benz,GLA,830000,2023,Ojeté,10798,Hybridní,160,Automatická
+Škoda,Fabia,310000,2020,Ojeté,34600,Benzín,70,Manuální
+Ford,Explorer,1137470,2026,Nové,0,Elektro,250,Automatická
+Ford,Ranger,1716500,2025,Nové,0,Benzín,215,Automatická
+Ford,Kuga,663469,2025,Nové,0,Benzín,110,Manuální
+Ford,Explorer,1038323,2025,Nové,0,Elektro,210,Automatická
+Ford,Kuga,663469,2025,Nové,0,Benzín,110,Manuální
+Ford,Explorer,725879,2026,Nové,0,Elektro,125,Automatická
+Ford,Explorer,914285,2025,Nové,0,Elektro,210,Automatická
+Ford,Kuga,759085,2025,Nové,0,Benzín,110,Manuální
+Ford,Explorer,963527,2025,,100,Elektro,210,Automatická
+Ford,Focus,588835,2025,Nové,0,Benzín,114,Automatická
+Ford,Puma,511518,2025,Nové,0,Hybridní,92,Automatická
+Ford,Puma,517008,2025,Nové,0,Benzín,92,Automatická
+Opel,Grandland,509900,2023,Ojeté,30000,Benzín,96,Automatická
+Škoda,Octavia,419900,2023,Ojeté,113000,Nafta,85,Automatická
+Ford,Kuga,751245,2025,Nové,0,Benzín,110,Manuální
+Ford,Puma,498799,2025,Nové,0,Hybridní,92,Automatická
+Ford,Puma,527458,2025,Nové,0,Hybridní,92,Automatická
+Ford,Kuga,739235,2025,Nové,0,Benzín,137,Automatická
+Ford,Ranger,1807014,2025,Nové,0,Benzín,215,Automatická
+Ford,Puma,511518,2025,Nové,0,Hybridní,92,Automatická
+Ford,Puma,511518,2025,Nové,0,Hybridní,92,Automatická
+Ford,Puma,507419,2025,Nové,0,Benzín,92,Automatická
+Kia,EV6,1349980,2025,,9000,Elektro,239,Automatická
+Citroën,C5 X,414900,2023,Ojeté,50000,Benzín,96,Automatická
+Ford,Puma,507419,2025,Nové,0,Hybridní,92,Automatická
+Ford,Puma,489699,2025,Nové,0,Benzín,92,Automatická
+Ford,Kuga,747164,2025,Nové,0,Benzín,137,Automatická
+Ford,Kuga,747164,2025,Nové,0,Benzín,137,Automatická
+Kia,Carnival,1589980,2024,Nové,25,Benzín,213,Automatická
+Kia,Carnival,1539980,2025,Nové,25,Benzín,213,Automatická
+Kia,Carnival,1539980,2025,Nové,25,Benzín,213,Automatická
+Kia,Sportage,739980,2025,,1000,Benzín,118,Automatická
+Kia,XCee´d,544980,2025,,9900,Benzín,103,Manuální
+Kia,XCee´d,594980,2025,,5000,Benzín,103,Manuální
+Kia,Stonic,404980,2025,,10000,Benzín,58,Manuální
+Kia,Sorento,1489980,2025,,5,Nafta,143,Automatická
+Kia,Carnival,1459980,2025,Nové,25,Benzín,213,Automatická
+Kia,Telluride,1749980,2025,Nové,25,Benzín,217,Automatická
+Kia,EV3,959980,2025,,3000,Elektro,150,Automatická
+Kia,Sportage,639980,2025,,9500,Benzín,118,Manuální
+Kia,Stonic,439980,2025,,5500,Benzín,58,Manuální
+Ford,Kuga,784400,2026,Nové,0,Benzín,110,Manuální
+Kia,Picanto,469980,2025,,3000,Benzín,58,Automatická
+Ford,Kuga,784400,2026,Nové,0,Benzín,110,Manuální
+Ford,Kuga,784400,2026,Nové,0,Benzín,110,Manuální
+Kia,Sportage,669980,2024,,18000,Benzín,118,Manuální
+Kia,Carnival,1459980,2025,Nové,25,Benzín,213,Automatická
+Kia,Telluride,1584980,2025,Nové,25,Benzín,217,Automatická
+Ford,Puma,537065,2025,Nové,0,Benzín,92,Automatická
+Ford,Puma,511994,2025,Nové,0,Benzín,92,Automatická
+Ford,Puma,520138,2025,Nové,0,Benzín,92,Automatická
+Volvo,XC90,1499000,2025,Ojeté,20911,Benzín,184,Automatická
+Ford,Kuga,791448,2026,Nové,0,Benzín,110,Manuální
+Ford,Puma,506943,2025,Nové,0,Benzín,92,Automatická
+Ford,Kuga,715448,2026,Nové,0,Benzín,137,Automatická
+Ford,Kuga,784400,2026,Nové,0,Benzín,110,Manuální
+Ford,Puma,524713,2025,Nové,0,Benzín,92,Automatická
+Ford,Puma,511994,2025,Nové,0,Benzín,92,Automatická
+Ford,Puma,527458,2025,Nové,0,Benzín,92,Automatická
+Ford,Puma,524713,2025,Nové,0,Benzín,92,Automatická
+Ford,Puma,537065,2025,Nové,0,Benzín,92,Automatická
+Ford,Puma,524713,2025,Nové,0,Benzín,92,Automatická
+Ford,Puma,524713,2025,Nové,0,Benzín,92,Automatická
+Ford,Puma,524713,2025,Nové,0,Benzín,92,Automatická
+Ford,Kuga,784400,2026,Nové,0,Benzín,110,Manuální
+Land Rover,Defender,2399000,2023,Ojeté,34405,Benzín,386,Automatická
+Ford,Kuga,791448,2026,Nové,0,Benzín,110,Manuální
+Ford,Kuga,791448,2026,Nové,0,Benzín,110,Manuální
+Ford,Kuga,715448,2026,Nové,0,Benzín,137,Automatická
+Ford,Kuga,842067,2026,Nové,0,Hybridní,178,Automatická
+Kia,Sportage,789980,2026,Nové,5,Benzín,110,Automatická
+Kia,K4,614980,2026,Nové,5,Benzín,85,Automatická
+Ford,Kuga,883410,2026,Nové,0,Hybridní,178,Automatická
+Kia,XCee´d,586980,2026,Nové,5,Benzín,110,Automatická
+Kia,XCee´d,626980,2026,Nové,5,Benzín,132,Automatická
+Ford,Puma,506943,2025,Nové,0,Benzín,92,Automatická
+Kia,Sportage,789980,2026,Nové,5,Benzín,110,Automatická
+Kia,Sorento,1554980,2025,Nové,5,Nafta,142,Automatická
+Ford,Kuga,866860,2026,Nové,0,Hybridní,178,Automatická
+Ford,Kuga,866349,2026,Nové,0,Hybridní,178,Automatická
+Land Rover,Range Rover Velar,849000,2021,Ojeté,69468,Nafta,150,Automatická
+Ford,Puma,506943,2025,Nové,0,Benzín,92,Automatická
+Kia,EV5,1359980,2026,Nové,5,Elektro,160,Automatická
+Kia,XCee´d,626980,2026,Nové,5,Benzín,132,Automatická
+Ford,Kuga,866860,2026,Nové,0,Hybridní,178,Automatická
+Kia,XCee´d,626980,2026,Nové,5,Benzín,132,Automatická
+Kia,EV5,1204980,2026,Nové,5,Elektro,160,Automatická
+Kia,EV5,1204980,2026,Nové,5,Elektro,160,Automatická
+Kia,Sportage,789980,2026,Nové,5,Benzín,110,Automatická
+Kia,Sportage,789980,2026,Nové,5,Benzín,110,Automatická
+Kia,K4,564980,2026,Nové,5,Benzín,110,Automatická
+Kia,Sportage,789980,2025,Nové,5,Benzín,110,Automatická
+Kia,PV5,1034980,2025,Nové,5,Elektro,89,Automatická
+Kia,Stonic,479980,2025,Nové,5,Benzín,74,Manuální
+Kia,Sportage,789980,2025,Nové,5,Benzín,110,Automatická
+Kia,PV5,974980,2025,Nové,5,Elektro,89,Automatická
+Kia,Sportage,789980,2026,Nové,5,Benzín,110,Automatická
+Kia,K4,499980,2026,Nové,5,Benzín,85,Manuální
+Kia,PV5,1249980,2025,,5000,Elektro,120,Automatická
+Kia,K4,719980,2026,Nové,5,Benzín,110,Automatická
+Kia,K4,749980,2026,Nové,5,Benzín,132,Automatická
+Kia,Sportage,719980,2025,Nové,5,Benzín,110,Manuální
+Kia,K4,604980,2026,Nové,5,Benzín,110,Automatická
+Kia,Sportage,789980,2026,Nové,5,Benzín,110,Automatická
+Kia,EV6,929980,2025,Nové,5,Elektro,125,Automatická
+Kia,K4,774980,2026,Nové,5,Benzín,110,Automatická
+Kia,Cee´d,584980,2025,Nové,5,Benzín,103,Manuální
+Kia,EV3,864980,2025,Nové,5,Elektro,150,Automatická
+Kia,PV5,959980,2025,Nové,5,Elektro,89,Automatická
+Kia,Sportage,719980,2025,Nové,5,Benzín,110,Manuální
+Kia,Cee´d,619980,2025,Nové,5,Benzín,103,Automatická
+Kia,Stonic,469980,2025,Nové,5,Benzín,74,Manuální
+Kia,Sportage,654980,2025,Nové,5,Benzín,110,Manuální
+Kia,Stonic,459980,2025,Nové,5,Benzín,74,Automatická
+Kia,Sportage,654980,2025,Nové,5,Benzín,110,Manuální
+Kia,Cee´d,634980,2025,Nové,5,Benzín,103,Automatická
+Škoda,Citigo,270000,2020,Ojeté,57212,Elektro,61,Automatická
+Kia,EV3,864980,2025,,5,Elektro,150,Automatická
+Kia,Stonic,567980,2025,Nové,5,Benzín,74,Automatická
+Kia,Sportage,789980,2025,Nové,5,Benzín,110,Automatická
+Kia,Sportage,719980,2025,Nové,5,Benzín,110,Manuální
+Kia,Sportage,654980,2025,Nové,5,Benzín,110,Manuální
+Kia,Sportage,719980,2025,Nové,5,Benzín,110,Manuální
+Kia,Sportage,654980,2025,Nové,5,Benzín,110,Manuální
+Kia,Stonic,462980,2025,Nové,5,Benzín,58,Manuální
+Kia,Stonic,414980,2025,Nové,5,Benzín,74,Manuální
+Kia,Sportage,669980,2025,Nové,5,Benzín,110,Manuální
+Kia,Sportage,789980,2025,Nové,5,Benzín,110,Automatická
+Kia,Cee´d,584980,2025,Nové,5,Benzín,103,Manuální
+Kia,Sportage,669980,2025,Nové,5,Benzín,110,Manuální
+Kia,Cee´d,564980,2025,Nové,5,Benzín,103,Automatická
+Mercedes-Benz,Třídy A,729000,2024,Ojeté,17528,Nafta,110,Automatická
+Kia,EV5,1226980,2025,Nové,5,Elektro,160,Automatická
+Kia,Stonic,419980,2025,Nové,5,Benzín,58,Manuální
+Kia,Cee´d,569980,2025,Nové,7,Benzín,103,Manuální
+Kia,EV5,1029980,2025,Nové,5,Elektro,160,Automatická
+Kia,Cee´d,564980,2025,Nové,5,Benzín,103,Automatická
+Kia,Stonic,442980,2025,Nové,5,Benzín,74,Manuální
+Kia,Cee´d,564980,2025,Nové,5,Benzín,103,Automatická
+BMW,i3,520000,2020,Ojeté,48458,Elektro,135,Automatická
+Kia,Sportage,779980,2025,Nové,5,Benzín,110,Manuální
+Kia,Sportage,779980,2025,Nové,5,Benzín,110,Manuální
+Kia,Cee´d,564980,2025,Nové,5,Benzín,103,Automatická
+Kia,Stonic,517980,2025,Nové,5,Benzín,74,Automatická
+Kia,Cee´d,564980,2025,Nové,5,Benzín,103,Automatická
+Kia,EV4,999980,2025,Nové,5,Elektro,150,Automatická
+Kia,Cee´d,564980,2025,Nové,5,Benzín,103,Automatická
+Kia,Cee´d,624980,2025,Nové,5,Benzín,103,Automatická
+Kia,EV5,1132980,2025,Nové,5,Elektro,160,Automatická
+Kia,EV4,1199980,2025,,5,Elektro,150,Automatická
+Kia,Cee´d,564980,2025,Nové,5,Benzín,103,Automatická
+Kia,Sportage,764980,2025,Nové,5,Benzín,110,Automatická
+Kia,Cee´d,634980,2025,Nové,5,Benzín,103,Automatická
+Ford,Kuga,967500,2026,Nové,15,Hybridní,134,Automatická
+Kia,Sportage,689980,2025,Nové,5,Benzín,110,Manuální
+Kia,Cee´d,559980,2025,Nové,5,Benzín,103,Automatická
+Kia,EV4,879980,2025,Nové,5,Elektro,150,Automatická
+Kia,EV3,1084980,2025,,5000,Elektro,150,Automatická
+Kia,Cee´d,519980,2025,Nové,5,Benzín,103,Manuální
+Kia,Cee´d,519980,2025,Nové,5,Benzín,103,Manuální
+Kia,EV4,1119980,2025,Nové,5,Elektro,150,Automatická
+Kia,Cee´d,519980,2025,Nové,5,Benzín,103,Manuální
+Kia,Sportage,699980,2025,Nové,5,Benzín,110,Manuální
+Kia,Cee´d,519980,2025,Nové,5,Benzín,103,Manuální
+Kia,Sportage,1029980,2025,Nové,5,Benzín,132,Automatická
+Kia,Cee´d,564980,2025,Nové,5,Benzín,103,Automatická
+Land Rover,Range Rover,4499000,2024,,7673,Benzín,390,Automatická
+Kia,Cee´d,519980,2025,Nové,5,Benzín,103,Manuální
+Kia,Cee´d,564980,2025,Nové,5,Benzín,103,Automatická
+Kia,EV4,1079980,2025,Nové,5,Elektro,150,Automatická
+Kia,EV4,989980,2025,Nové,5,Elektro,150,Automatická
+Kia,XCee´d,654980,2025,,3000,Benzín,132,Automatická
+Kia,Stonic,389980,2025,,1000,Benzín,58,Manuální
+Kia,Sportage,819980,2025,Nové,5,Benzín,110,Automatická
+Volkswagen,Golf Plus,114800,2012,Ojeté,208000,Nafta,77,Manuální
+Kia,Sportage,734980,2025,,1000,Benzín,118,Manuální
+Renault,Clio,672390,2026,Nové,5,Hybridní,116,Automatická
+Ford,Kuga,842067,2026,Nové,0,Hybridní,178,Automatická
+Ford,Kuga,842067,2026,Nové,0,Hybridní,178,Automatická
+Kia,Cee´d,564980,2025,Nové,5,Benzín,103,Automatická
+Ford,Kuga,751245,2026,Nové,0,Benzín,110,Manuální
+Kia,Cee´d,559980,2025,Nové,5,Benzín,103,Automatická
+Volvo,XC40,919000,2026,Nové,0,Benzín,120,Automatická
+Škoda,Karoq,629900,2022,Ojeté,89502,Nafta,110,Manuální
+Ford,Kuga,687345,2026,Nové,0,Benzín,110,Manuální
+Ford,Kuga,836316,2026,Nové,0,Hybridní,178,Automatická
+Kia,Niro,714980,2025,Nové,5,Hybridní,95,Automatická
+Kia,Cee´d,564980,2025,Nové,5,Benzín,103,Automatická
+Kia,Sportage,749980,2025,Nové,5,Benzín,110,Manuální
+Ford,Kuga,842067,2026,Nové,0,Hybridní,178,Automatická
+Ford,Kuga,847179,2026,Nové,0,Hybridní,178,Automatická
+Kia,Cee´d,564980,2025,Nové,5,Benzín,103,Automatická
+Ford,Kuga,842067,2026,Nové,0,Hybridní,178,Automatická
+Volvo,XC60,1299000,2025,Ojeté,7167,Benzín,184,Automatická
+Ford,Kuga,671398,2026,Nové,0,Benzín,110,Manuální
+Škoda,Rapid,143000,2017,Ojeté,167176,Benzín,70,Manuální
+Volkswagen,Multivan,499000,2014,Ojeté,321722,Nafta,150,Manuální
+Škoda,Octavia,370000,2019,Ojeté,171585,Nafta,135,Automatická
+Volvo,C40,749000,2023,Ojeté,31001,Elektro,170,Automatická
+Volkswagen,Sharan,79000,1999,Ojeté,295546,Nafta,81,Automatická
+Ford,Kuga,751245,2026,Nové,0,Benzín,110,Manuální
+Dacia,Duster,220000,2021,Ojeté,176000,Benzín,67,Manuální
+Renault,Clio,50000,2012,Ojeté,125746,Benzín,76,Manuální
+Ford,Kuga,655629,2026,Nové,0,Benzín,110,Manuální
+Škoda,Superb,360000,2017,Ojeté,198291,Nafta,110,Automatická
+Ford,Kuga,759085,2026,Nové,0,Benzín,110,Manuální
+Hyundai,i40,70000,2013,Ojeté,300349,Nafta,85,Manuální
+Škoda,Yeti,165000,2013,Ojeté,124000,Benzín,77,Manuální
+Škoda,Octavia,120000,2010,Ojeté,190105,Benzín,90,Manuální
+Ford,Kuga,751245,2026,Nové,0,Benzín,110,Manuální
+Renault,Mégane,230000,2016,Ojeté,75764,Benzín,84,Manuální
+Škoda,Kodiaq,640000,2020,Ojeté,189482,Nafta,176,Automatická
+Ford,Kuga,868682,2026,Nové,0,Hybridní,134,Automatická
+Ford,Kuga,830630,2026,Nové,0,Hybridní,178,Automatická
+Ford,Kuga,830630,2026,Nové,0,Hybridní,178,Automatická
+Volkswagen,Tiguan,300000,2012,Ojeté,123622,Benzín,132,Automatická
+Škoda,Octavia,290000,2019,Ojeté,208994,Nafta,110,Automatická
+Peugeot,207,70000,2007,Ojeté,112960,Nafta,66,Manuální
+Dacia,Duster,240000,2020,Ojeté,100213,LPG + benzín,74,Manuální
+Ford,Focus,100000,2012,Ojeté,176236,Nafta,85,Manuální
+Hyundai,i30,500000,2025,,12890,Benzín,74,Manuální
+Ford,Tourneo Custom,1460000,2026,Nové,10,Nafta,125,Automatická
+Kia,Rio,40000,2010,Ojeté,193412,Benzín,71,Manuální
+Škoda,Enyaq iV,518000,2022,Ojeté,127586,Elektro,132,Automatická
+Kia,e-Soul,430000,2020,Ojeté,44068,Elektro,150,Automatická
+BMW,Řada 5,689700,2017,Ojeté,144000,Nafta,195,Automatická
+Volkswagen,Caravelle,270000,2013,Ojeté,405239,Nafta,103,Manuální
+Hyundai,Tucson,730000,2025,,12656,Benzín,118,Automatická
+Opel,Astra,85000,2015,Ojeté,276130,Nafta,81,Manuální
+BMW,Řada 3,299000,2013,Ojeté,133100,Nafta,135,Manuální
+Peugeot,Traveller,570000,2020,Ojeté,75246,Nafta,110,Manuální
+Volkswagen,Golf,210000,2014,Ojeté,174181,Benzín,103,Manuální
+Mercedes-Benz,Vito,411000,2019,Ojeté,206253,Nafta,100,Manuální
+Opel,Zafira,139900,2012,Ojeté,178881,Benzín,103,Manuální
+Opel,Astra,90000,2010,Ojeté,154482,Benzín,74,Manuální
+Škoda,Fabia,138990,2012,Ojeté,133000,Benzín,63,Manuální
+Chrysler,Grand Voyager,30000,2006,Ojeté,289000,Nafta,110,Automatická
+Škoda,Octavia,271000,2017,Ojeté,199018,Nafta,85,Automatická
+Škoda,Octavia,360000,2021,Ojeté,113415,Nafta,85,Manuální
+Opel,Meriva,39000,2004,Ojeté,223100,Benzín,64,Manuální
+Ford,Tourneo Connect,959000,2025,Nové,10,Nafta,90,Manuální
+Ford,S-MAX,255000,2016,Ojeté,190970,Nafta,110,Manuální
+Hyundai,i30,179900,2015,Ojeté,72613,Benzín,88,Manuální
+Renault,Symbioz,654900,2025,,7000,Benzín,103,Manuální
+Porsche,911,5051727,2026,Nové,0,Benzín,353,Automatická
+Ford,Focus,88990,2010,Ojeté,187000,Benzín,74,Manuální
+Kia,K4,658980,2025,Nové,0,Benzín,110,Automatická
+BMW,Řada 5,289999,2013,Ojeté,195636,Nafta,190,Automatická
+Opel,Combo,517000,2023,Ojeté,56000,Nafta,96,Automatická
+Škoda,Superb,679000,2021,Ojeté,94244,Benzín,140,Automatická
+Škoda,Octavia,445000,2018,Ojeté,121200,Benzín,169,Manuální
+Opel,Insignia,379000,2022,Ojeté,124990,Nafta,128,Automatická
+Škoda,Fabia,73000,2007,Ojeté,170000,Benzín,51,Manuální
+Škoda,Scala,298870,2020,Ojeté,89507,Benzín,110,Manuální
+Škoda,Kodiaq,1150000,2024,Ojeté,33000,Nafta,142,Automatická
+Suzuki,Swift,119000,2014,Ojeté,264000,Benzín,100,Manuální
+Opel,Frontera,489990,2025,Nové,1,Hybridní,81,Automatická
+Seat,Leon,109999,2011,Ojeté,174336,Benzín,77,Manuální
+BMW,Řada 5,900000,2021,Ojeté,151000,Hybridní,220,Automatická
+Mitsubishi,Grandis,670760,2025,Nové,20,Benzín,104,Manuální
+Mitsubishi,Grandis,816760,2025,Nové,1500,Hybridní,104,Automatická
+Mitsubishi,Grandis,809760,2025,,1500,Benzín,104,Automatická
+Mitsubishi,Outlander,1403950,2025,Nové,20,Hybridní,225,Automatická
+Mitsubishi,Grandis,809760,2025,Nové,20,Benzín,104,Automatická
+Mitsubishi,Grandis,736760,2025,Nové,20,Benzín,104,Automatická
+Mitsubishi,Grandis,820760,2025,Nové,20,Hybridní,104,Automatická
+Mitsubishi,Grandis,670760,2025,Nové,20,Benzín,104,Manuální
+Volvo,V60,1329000,2025,Ojeté,16000,Hybridní,335,Automatická
+Mitsubishi,Grandis,756760,2025,Nové,20,Benzín,104,Manuální
+Mitsubishi,Outlander,1339000,2025,,10000,Hybridní,225,Automatická
+Mitsubishi,Grandis,616760,2025,Nové,20,Benzín,104,Manuální
+Mitsubishi,ASX,586790,2025,Nové,20,Benzín,103,Manuální
+Škoda,Superb,39000,2005,Ojeté,295030,Nafta,96,Manuální
+Mitsubishi,ASX,619000,2025,,10000,Benzín,103,Automatická
+Land Rover,Defender,1759000,2025,Nové,0,Nafta,147,Automatická
+Mitsubishi,ASX,659790,2025,Nové,20,Benzín,103,Automatická
+Mitsubishi,Outlander,1418450,2025,Nové,20,Hybridní,225,Automatická
+Mitsubishi,Outlander,1418450,2025,Nové,20,Hybridní,225,Automatická
+Mitsubishi,Colt,465000,2024,,11000,Benzín,67,Manuální
+BMW,X6,249999,2008,Ojeté,300000,Nafta,210,Automatická
+Ford,Transit Custom,429000,2019,Ojeté,191584,Nafta,96,Manuální
+Mitsubishi,Outlander,1597450,2025,Nové,20,Hybridní,225,Automatická
+Mitsubishi,Colt,453961,2024,Nové,20,Benzín,67,Manuální
+Mitsubishi,ASX,617850,2025,Nové,20,Benzín,103,Automatická
+Mitsubishi,ASX,604790,2025,Nové,20,Benzín,103,Manuální
+Ford,Tourneo Custom,1279900,2026,Nové,19,Nafta,110,Manuální
+Porsche,911,5423955,2026,Nové,17,Benzín,353,Automatická
+Ford,Fusion,25000,2003,Ojeté,198111,Benzín,59,Manuální
+Mitsubishi,Colt,432960,2024,Nové,20,Benzín,67,Manuální
+Mitsubishi,Outlander,1442950,2025,Nové,20,Hybridní,225,Automatická
+Mitsubishi,ASX,566850,2025,Nové,20,Benzín,103,Manuální
+Mitsubishi,Outlander,1582950,2025,Nové,20,Hybridní,225,Automatická
+Mitsubishi,Outlander,1320000,2025,Nové,10,Hybridní,225,Automatická
+Alfa Romeo,MiTo,149000,2016,Ojeté,87199,Benzín,57,Manuální
+Mitsubishi,Outlander,1359450,2025,Nové,5,Hybridní,225,Automatická
+Land Rover,Range Rover Evoque,629000,2020,Ojeté,112711,Nafta,110,Automatická
+Hyundai,Tucson,540000,2022,Ojeté,13892,Benzín,110,Manuální
+Land Rover,Discovery,1349000,2023,Ojeté,63601,Nafta,183,Automatická
+Škoda,Karoq,420000,2022,Ojeté,164588,Benzín,110,Manuální
+Volkswagen,Passat,419000,2022,Ojeté,156000,Nafta,110,Automatická
+Ford,C-MAX,55000,2008,Ojeté,200934,Benzín,92,Manuální
+Škoda,Kodiaq,900000,2023,Ojeté,75162,Benzín,180,Automatická
+Suzuki,Vitara,350000,2018,Ojeté,151972,Benzín,103,Manuální
+Nissan,Juke,220000,2017,Ojeté,82850,Benzín,86,Automatická
+Volvo,V60,329000,2016,Ojeté,127736,Nafta,140,Manuální
+Ford,S-MAX,419000,2022,Ojeté,153000,Nafta,110,Manuální
+Ford,Edge,459000,2019,Ojeté,208000,Nafta,140,Manuální
+Mazda,CX-60,930000,2023,Ojeté,51183,Hybridní,241,Automatická
+Ford,S-MAX,149000,2011,Ojeté,260000,Nafta,103,Manuální
+Ford,Kuga,529000,2022,Ojeté,107000,Benzín,165,Automatická
+Ford,Ranger,1878900,2026,Nové,10,Benzín,215,Automatická
+Mercedes-Benz,GLK,299000,2012,Ojeté,147000,Nafta,150,Automatická
+Peugeot,5008,380000,2019,Ojeté,103604,Nafta,96,Manuální
+Ford,Tourneo Custom,329000,2014,Ojeté,272000,Nafta,114,Manuální
+Ford,Kuga,419000,2022,Ojeté,117000,Nafta,110,Manuální
+BMW,X1,450000,2018,Ojeté,75781,Nafta,110,Automatická
+Nissan,Qashqai,320000,2017,Ojeté,46966,Benzín,120,Manuální
+Ford,Tourneo Custom,999000,2025,,24000,Nafta,100,Automatická
+Ford,Mondeo,409000,2022,Ojeté,110000,Nafta,110,Automatická
+Mercedes-Benz,Třídy C,579000,2021,Ojeté,94000,Hybridní,143,Automatická
+Ford,Kuga,469000,2021,Ojeté,144000,Hybridní,165,Automatická
+Volvo,V90,1079000,2024,Ojeté,21657,Hybridní,257,Automatická
+Ford,Kuga,319000,2018,Ojeté,104000,Benzín,110,Manuální
+Ford,Focus,339000,2021,Ojeté,141000,Nafta,88,Automatická
+Ford,Mondeo,509000,2022,Ojeté,124000,Nafta,140,Automatická
+Mercedes-Benz,GLB,799000,2021,Ojeté,87641,Nafta,110,Automatická
+Ford,Kuga,329000,2019,Ojeté,168000,Nafta,110,Manuální
+Mercedes-Benz,Třídy C,189000,2011,Ojeté,173000,Nafta,100,Automatická
+Ford,S-MAX,349000,2019,Ojeté,148000,Nafta,140,Automatická
+Ford,Kuga,449000,2022,Ojeté,120000,Nafta,110,Automatická
+Ford,S-MAX,399000,2020,Ojeté,145000,Nafta,110,Manuální
+Volkswagen,Passat,429000,2022,Ojeté,152000,Nafta,110,Automatická
+Ford,S-MAX,409000,2019,Ojeté,129000,Nafta,110,Manuální
+Ford,Mondeo,349000,2020,Ojeté,164000,Nafta,140,Automatická
+Ford,S-MAX,389000,2021,Ojeté,160000,Nafta,110,Automatická
+Mercedes-Benz,GLC,749000,2021,Ojeté,139000,Hybridní,233,Automatická
+Ford,Galaxy,459000,2020,Ojeté,152000,Nafta,110,Manuální
+Mercedes-Benz,Třídy C,519000,2020,Ojeté,127000,Nafta,233,Automatická
+Ford,S-MAX,529000,2022,Ojeté,144000,Nafta,140,Automatická
+Ford,Mondeo,459000,2020,Ojeté,113000,Nafta,110,Automatická
+Ford,Kuga,289000,2016,Ojeté,172000,Nafta,132,Automatická
+Volkswagen,Taigo,420000,2023,Ojeté,26934,Benzín,70,Manuální
+Ford,Kuga,439000,2020,Ojeté,123000,Nafta,140,Automatická
+Mercedes-Benz,Třídy C,569000,2020,Ojeté,125000,Hybridní,233,Automatická
+Ford,S-MAX,439000,2020,Ojeté,147000,Nafta,110,Automatická
+Ford,Mondeo,349000,2020,Ojeté,168000,Nafta,140,Automatická
+Ford,S-MAX,459000,2021,Ojeté,149000,Nafta,110,Manuální
+Ford,S-MAX,459000,2021,Ojeté,147000,Nafta,110,Manuální
+Ford,S-MAX,449000,2020,Ojeté,136000,Nafta,110,Automatická
+Kia,Sorento,1439000,2025,Nové,1,Nafta,143,Automatická
+Ford,S-MAX,439000,2020,Ojeté,161000,Nafta,140,Automatická
+Škoda,Kodiaq,639000,2023,Ojeté,135924,Nafta,110,Automatická
+Ford,Kuga,479000,2020,Ojeté,130000,Hybridní,165,Automatická
+Ford,Puma,349000,2023,Ojeté,90000,Benzín,92,Manuální
+Ford,Mondeo,389000,2020,Ojeté,157000,Nafta,140,Automatická
+Ford,S-MAX,439000,2020,Ojeté,156000,Nafta,140,Automatická
+Ford,S-MAX,419000,2021,Ojeté,140000,Nafta,140,Automatická
+Volvo,XC40,739000,2023,Ojeté,15812,Benzín,120,Automatická
+Ford,S-MAX,369000,2021,Ojeté,175000,Nafta,140,Automatická
+Ford,Kuga,489000,2021,Ojeté,127000,Hybridní,165,Automatická
+Ford,Ranger,930000,2021,Ojeté,75328,Nafta,157,Automatická
+Renault,Mégane,220000,2018,Ojeté,62953,Benzín,84,Manuální
+Ford,Ranger,1150000,2026,Nové,14,Nafta,151,Automatická
+Toyota,Verso,210000,2016,Ojeté,132003,Nafta,82,Manuální
+Dacia,Sandero,320000,2023,Ojeté,29605,Benzín,67,Manuální
+SsangYong,Korando,249900,2016,Ojeté,85001,Nafta,84,Manuální
+Audi,Q7,2050000,2024,Ojeté,25000,Nafta,210,Automatická
+Mercedes-Benz,Třídy A,470000,2019,Ojeté,58535,Nafta,85,Automatická
+Mazda,3,60000,2010,Ojeté,299236,Benzín,77,Manuální
+Tesla,Model 3,880000,2025,,14743,Elektro,235,Automatická
+Mercedes-Benz,GLE,2299000,2023,Ojeté,44802,Benzín,320,Automatická
+Toyota,Auris,120000,2011,Ojeté,153373,Benzín,97,Manuální
+Volvo,V90,919000,2021,Ojeté,75496,Hybridní,251,Automatická
+Mercedes-Benz,Třídy A,460000,2019,Ojeté,109735,Nafta,85,Automatická
+Škoda,Fabia,124999,2014,Ojeté,132000,Benzín,63,Manuální
+Volkswagen,Passat CC,100000,2009,Ojeté,206494,Benzín,118,Automatická
