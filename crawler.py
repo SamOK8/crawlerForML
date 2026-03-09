@@ -44,12 +44,14 @@ print(f"V historii máme už {len(zpracovane_url)} zpracovaných aut.")
 
 
 
-for cislo_stranky in range(1, 15):
+for cislo_stranky in range(1, 500):
     # https://www.sauto.cz/inzerce/osobni/?palivo=elektro&
     # https://www.sauto.cz/inzerce/osobni/?razeni=od-nejlevnejsich&  prvnich 50 stranek done
-    # https://www.sauto.cz/inzerce/osobni/?razeni=od-nejdrazsich&
-
+    # https://www.sauto.cz/inzerce/osobni/?razeni=od-nejdrazsich& prvnich 50 stranek done
+    # https://www.sauto.cz/inzerce/osobni/bmw/?razeni=od-nejlevnejsich& prvnich 15
     # https://www.sauto.cz/inzerce/osobni/?
+
+    # https://www.sauto.cz/inzerce/osobni/tesla/?palivo=elektro& 28 stranek
 
     url_seznamu = f"https://www.sauto.cz/inzerce/osobni/?strana={cislo_stranky}"
     print(f"--- Načítám seznam: Stránka {cislo_stranky} ---")
