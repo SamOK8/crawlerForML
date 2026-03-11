@@ -44,98 +44,115 @@ print(f"V historii máme už {len(zpracovane_url)} zpracovaných aut.")
 
 
 
-for cislo_stranky in range(1, 500):
-    # https://www.sauto.cz/inzerce/osobni/?palivo=elektro&
-    # https://www.sauto.cz/inzerce/osobni/?razeni=od-nejlevnejsich&  prvnich 50 stranek done
-    # https://www.sauto.cz/inzerce/osobni/?razeni=od-nejdrazsich& prvnich 50 stranek done
-    # https://www.sauto.cz/inzerce/osobni/bmw/?razeni=od-nejlevnejsich& prvnich 15
-    # https://www.sauto.cz/inzerce/osobni/?
+first = True
+for rok_v in range(2000, 2026):
 
-    # https://www.sauto.cz/inzerce/osobni/tesla/?palivo=elektro& 28 stranek
-
-    url_seznamu = f"https://www.sauto.cz/inzerce/osobni/?strana={cislo_stranky}"
-    print(f"--- Načítám seznam: Stránka {cislo_stranky} ---")
-    driver.get(url_seznamu)
-    time.sleep(4)
-
-    car_links_elements = driver.find_elements(By.CSS_SELECTOR, "li.c-item a")
-
-    url_adresy_aut = []
-    for link_el in car_links_elements:
-        url = link_el.get_attribute("href")
-
-        if url and "detail" in url and url not in zpracovane_url:
-            url_adresy_aut.append(url)
-    url_adresy_aut = list(set(url_adresy_aut))
+    for cislo_stranky in range(1, 30):
+        # https://www.sauto.cz/inzerce/osobni/?
+        # https://www.sauto.cz/inzerce/osobni/tesla/?palivo=elektro& 28 stranek
+        # https://www.sauto.cz/inzerce/osobni/?strana={cislo_stranky}
 
 
-    print(f"Našlo se {len(url_adresy_aut)} novych aut")
-    print(url_adresy_aut)
+        # https://www.sauto.cz/inzerce/osobni?znacky-modely=24%7C51%7C5%7C31&vyrobeno-od=1993&vyrobeno-do=2005 ford, bmw, mercedes, hyundai
 
-    for auto in url_adresy_aut:
-        driver.get(auto)
-        time.sleep(1)
+        # https://www.sauto.cz/inzerce/osobni/?vyrobeno-od={rok_v}&vyrobeno-do={rok_v}&strana={cislo_stranky}
+        url_seznamu = f"https://www.sauto.cz/inzerce/osobni/?znacky-modely=2%7C951%7C106%7C70%7C67%7C39%7C78%7C99%7C13&vyrobeno-od={rok_v}&vyrobeno-do={rok_v}&&strana={cislo_stranky}"
+        print(f"--- Načítám seznam: Stránka {cislo_stranky} ---")
+        driver.get(url_seznamu)
 
-        try:
-            nadpis = driver.find_elements(By.CSS_SELECTOR, ".c-item-title__name-prefix a")
-            znacka = nadpis[0].text if len(nadpis) > 0 else None
-            model = nadpis[1].text if len(nadpis) > 1 else None
 
-            rok = ziskej_rok_vyroby()
-            palivo = ziskej_parametr("Palivo:")
-            prevodovka = ziskej_parametr("Převodovka:")
 
-            stav_raw = ziskej_parametr("Stav:")
-            stav = stav_raw.split("Prověřit")[0].strip() if stav_raw else None
+        if first:
+            time.sleep(5)
+            first = False
+        else:
+            time.sleep(0.5)
 
-            cena_element = driver.find_elements(By.CSS_SELECTOR, ".c-a-basic-info__price")
-            cena = cena_element[0].text.replace(" ", "").replace("Kč", "") if cena_element else None
+        car_links_elements = driver.find_elements(By.CSS_SELECTOR, "li.c-item a")
 
-            najeto_raw = ziskej_parametr("Najeto:")
-            if najeto_raw:
-                if "Z" in najeto_raw:
-                    najeto = najeto_raw.replace(" ", "").replace("km", "").split("Z")[0] if najeto_raw else None
-                else:
-                    najeto = najeto_raw.replace(" ", "").replace("km", "") if najeto_raw else None
+        url_adresy_aut = []
+        for link_el in car_links_elements:
+            try:
+                url = link_el.get_attribute("href")
+            except Exception as e:
+                print(f"Chyba při získávání URL: {e}")
+                continue
+            if url and "detail" in url and url not in zpracovane_url:
+                url_adresy_aut.append(url)
+        url_adresy_aut = list(set(url_adresy_aut))
 
-            vykon_raw = ziskej_parametr("Výkon:")
-            vykon = vykon_raw.split("(")[0].replace(" ", "").replace("kW", "") if vykon_raw else None
-            pohon = ziskej_parametr("Pohon:")
 
-            kapacita_baterie_raw = ziskej_parametr("Kapacita akumulátoru:")
-            kapacita_baterie = kapacita_baterie_raw.split(" ")[0] if kapacita_baterie_raw else 0
+        print(f"Našlo se {len(url_adresy_aut)} novych aut")
+        print(url_adresy_aut)
 
-            auto_data = {
-                "znacka": znacka,
-                "model": model,
-                "cena": int(cena) if cena else None,
-                "rok": int(rok) if rok else None,
-                "stav": stav,
-                "najeto": int(najeto) if najeto else None,
-                "vykon": int(vykon) if vykon else None,
-                "palivo": palivo,
-                "kapacita_baterie": int(kapacita_baterie),
-                "prevodovka": prevodovka,
-                "pohon": pohon
-            }
+        if len(url_adresy_aut) == 0:
+            print("Nenalezen žádný nový odkaz, dalsi rok")
+            break
 
-            print(auto_data)
-        except Exception as e:
-            print(f"Chyba při získávání dat pro auto {auto}: {e}")
-            continue
+        for auto in url_adresy_aut:
+            driver.get(auto)
+            time.sleep(1)
 
-        nazev_souboru = "sauto_dataset.csv"
-        soubor_existuje = os.path.isfile(nazev_souboru)
+            try:
+                nadpis = driver.find_elements(By.CSS_SELECTOR, ".c-item-title__name-prefix a")
+                znacka = nadpis[0].text if len(nadpis) > 0 else None
+                model = nadpis[1].text if len(nadpis) > 1 else None
 
-        with open(nazev_souboru, mode="a", encoding="utf-8", newline="") as csv_file:
-            hlavicka = auto_data.keys()
-            writer = csv.DictWriter(csv_file, fieldnames=hlavicka)
+                rok_auta = ziskej_rok_vyroby()
+                palivo = ziskej_parametr("Palivo:")
+                prevodovka = ziskej_parametr("Převodovka:")
 
-            if not soubor_existuje:
-                writer.writeheader()
+                stav_raw = ziskej_parametr("Stav:")
+                stav = stav_raw.split("Prověřit")[0].strip() if stav_raw else None
 
-            writer.writerow(auto_data)
+                cena_element = driver.find_elements(By.CSS_SELECTOR, ".c-a-basic-info__price")
+                cena = cena_element[0].text.replace(" ", "").replace("Kč", "") if cena_element else None
 
-        zpracovane_url.add(auto)
-        with open("zpracovana_auta.json", "w", encoding="utf-8") as f:
-            json.dump(list(zpracovane_url), f, indent=4)
+                najeto_raw = ziskej_parametr("Najeto:")
+                if najeto_raw:
+                    if "Z" in najeto_raw:
+                        najeto = najeto_raw.replace(" ", "").replace("km", "").split("Z")[0] if najeto_raw else None
+                    else:
+                        najeto = najeto_raw.replace(" ", "").replace("km", "") if najeto_raw else None
+
+                vykon_raw = ziskej_parametr("Výkon:")
+                vykon = vykon_raw.split("(")[0].replace(" ", "").replace("kW", "") if vykon_raw else None
+                pohon = ziskej_parametr("Pohon:")
+
+                kapacita_baterie_raw = ziskej_parametr("Kapacita akumulátoru:")
+                kapacita_baterie = kapacita_baterie_raw.split(" ")[0] if kapacita_baterie_raw else 0
+
+                auto_data = {
+                    "znacka": znacka,
+                    "model": model,
+                    "cena": int(cena) if cena else None,
+                    "rok": int(rok_auta) if rok_auta else None,
+                    "stav": stav,
+                    "najeto": int(najeto) if najeto else None,
+                    "vykon": int(vykon) if vykon else None,
+                    "palivo": palivo,
+                    "kapacita_baterie": int(kapacita_baterie),
+                    "prevodovka": prevodovka,
+                    "pohon": pohon
+                }
+
+                print(auto_data)
+            except Exception as e:
+                print(f"Chyba při získávání dat pro auto {auto}: {e}")
+                continue
+
+            nazev_souboru = "sauto_dataset.csv"
+            soubor_existuje = os.path.isfile(nazev_souboru)
+
+            with open(nazev_souboru, mode="a", encoding="utf-8", newline="") as csv_file:
+                hlavicka = auto_data.keys()
+                writer = csv.DictWriter(csv_file, fieldnames=hlavicka)
+
+                if not soubor_existuje:
+                    writer.writeheader()
+
+                writer.writerow(auto_data)
+
+            zpracovane_url.add(auto)
+            with open("zpracovana_auta.json", "w", encoding="utf-8") as f:
+                json.dump(list(zpracovane_url), f, indent=4)

@@ -3,14 +3,14 @@ import pandas as pd
 import numpy as np
 
 
-with open("model_sauto.dat", "rb") as f:
+with open("model_sautoV3.dat", "rb") as f:
     modelML = pickle.load(f)
 
-znacka = 65
-model = 364
+znacka = 73
+model = 479
 rok = 2019
 stav = 1
-najeto = 230000
+najeto = 300000
 vykon = 220
 palivo = 0
 kapacita_baterie = 55
