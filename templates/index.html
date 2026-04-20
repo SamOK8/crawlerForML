@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Firemní Auto Kalkulačka - AI & Daně</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f0f4f8; color: #2c3e50; max-width: 950px; margin: 40px auto; padding: 20px; }
+        .container { background: white; padding: 35px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.08); }
+        h1 { text-align: center; color: #1a252f; border-bottom: 2px solid #ecf0f1; padding-bottom: 15px; margin-bottom: 30px; }
+        .error-msg { background-color: #f8d7da; color: #721c24; padding: 15px; border-radius: 5px; margin-bottom: 20px; text-align: center; font-weight: bold; border: 1px solid #f5c6cb; }
+        form { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+        .form-group { display: flex; flex-direction: column; }
+        label { font-weight: 600; margin-bottom: 6px; font-size: 14px; color: #34495e; }
+        input, select { padding: 12px; font-size: 15px; border: 1px solid #bdc3c7; border-radius: 6px; transition: border-color 0.3s; }
+        input:focus, select:focus { border-color: #3498db; outline: none; }
+        .full-width { grid-column: span 2; }
+        .section-title { grid-column: span 2; margin-top: 25px; border-bottom: 2px solid #3498db; padding-bottom: 8px; color: #2980b9; font-size: 18px; font-weight: bold; text-transform: uppercase; letter-spacing: 1px; }
+        button { grid-column: span 2; background-color: #27ae60; color: white; border: none; padding: 18px; font-size: 18px; font-weight: bold; border-radius: 8px; cursor: pointer; transition: background 0.3s; margin-top: 15px; }
+        button:hover { background-color: #219a52; }
+        .vysledky-box { margin-top: 50px; text-align: center; background-color: #f8f9fa; padding: 30px; border-radius: 10px; border: 1px solid #e9ecef; }
+        .ceny-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 25px; }
+        .cena-item { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); border-left: 5px solid #3498db; }
+        .cena-item.tax { border-left-color: #e74c3c; }
+        .cena-item.profit { grid-column: span 2; background: #ebfbee; border-left-color: #27ae60; border: 2px solid #27ae60; }
+        .cena-item.loss { grid-column: span 2; background: #fdf2f2; border-left-color: #e74c3c; border: 2px solid #e74c3c; }
+        .cena-item span { display: block; font-size: 14px; color: #7f8c8d; text-transform: uppercase; font-weight: bold; margin-bottom: 5px;}
+        .cena-item strong { font-size: 26px; color: #2c3e50; }
+        img { max-width: 100%; height: auto; border-radius: 5px; margin-top: 10px; }
+        .info-text { font-size: 13px; color: #7f8c8d; text-align: left; margin-top: 5px; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>B2B Auto Kalkulačka: Trh vs. Daně</h1>
+
+    {% if error_msg %}
+    <div class="error-msg">{{ error_msg }}</div>
+    {% endif %}
+
+    <form method="POST">
+        <div class="section-title">Parametry vozu (Pro odhad ceny)</div>
+
+        <div class="form-group">
+            <label>Značka:</label>
+            <input type="text" name="znacka" list="znacky_list" value="{{ form_data.get('znacka', '') }}" required placeholder="Např. Škoda">
+            <datalist id="znacky_list">{% for z in mapping['znacka'] %}<option value="{{ z }}">{% endfor %}</datalist>
+        </div>
+        <div class="form-group">
+            <label>Model:</label>
+            <input type="text" name="model" list="modely_list" value="{{ form_data.get('model', '') }}" required placeholder="Např. Octavia">
+            <datalist id="modely_list">{% for m in mapping['model'] %}<option value="{{ m }}">{% endfor %}</datalist>
+        </div>
+
+        <div class="form-group"><label>Rok výroby:</label><input type="number" name="rok_vyroby" value="{{ form_data.get('rok_vyroby', '2019') }}" required></div>
+        <div class="form-group"><label>Najeto aktuálně (km):</label><input type="number" name="najeto" value="{{ form_data.get('najeto', '150000') }}" required></div>
+        <div class="form-group"><label>Výkon (kW):</label><input type="number" name="vykon" value="{{ form_data.get('vykon', '110') }}" required></div>
+        <div class="form-group"><label>Kapacita baterie (kWh):</label><input type="number" step="0.1" name="kapacita_baterie" value="{{ form_data.get('kapacita_baterie', '0') }}" required></div>
+
+        <div class="form-group">
+            <label>Stav:</label>
+            <select name="stav">{% for i in range(mapping['stav']|length) %}<option value="{{ i }}" {% if form_data.get('stav')|string == i|string %}selected{% endif %}>{{ mapping['stav'][i] }}</option>{% endfor %}</select>
+        </div>
+        <div class="form-group">
+            <label>Palivo:</label>
+            <select name="palivo">{% for i in range(mapping['palivo']|length) %}<option value="{{ i }}" {% if form_data.get('palivo')|string == i|string %}selected{% endif %}>{{ mapping['palivo'][i] }}</option>{% endfor %}</select>
+        </div>
+        <div class="form-group">
+            <label>Převodovka:</label>
+            <select name="prevodovka">{% for i in range(mapping['prevodovka']|length) %}<option value="{{ i }}" {% if form_data.get('prevodovka')|string == i|string %}selected{% endif %}>{{ mapping['prevodovka'][i] }}</option>{% endfor %}</select>
+        </div>
+        <div class="form-group">
+            <label>Pohon:</label>
+            <select name="pohon">{% for i in range(mapping['pohon']|length) %}<option value="{{ i }}" {% if form_data.get('pohon')|string == i|string %}selected{% endif %}>{{ mapping['pohon'][i] }}</option>{% endfor %}</select>
+        </div>
+
+        <div class="section-title">Účetnictví a Amortizace</div>
+
+        <div class="form-group full-width">
+            <label>Způsob daňového odpisování:</label>
+            <select name="typ_odpisu">
+                <option value="rovnomerny" {% if form_data.get('typ_odpisu') == 'rovnomerny' %}selected{% endif %}>Rovnoměrný odpis (Běžná auta - 5 let)</option>
+                <option value="zrychleny" {% if form_data.get('typ_odpisu') == 'zrychleny' %}selected{% endif %}>Zrychlený odpis (Běžná auta - 5 let)</option>
+                <option value="mimoradny" {% if form_data.get('typ_odpisu') == 'mimoradny' %}selected{% endif %}>Mimořádný odpis (Pouze BEV Elektromobily - 2 roky)</option>
+            </select>
+            <div class="info-text">Poznámka: Výpočet ignoruje limit 2 mil. Kč pro luxusní vozy.</div>
+        </div>
+
+        <div class="form-group"><label>Průměrný roční nájezd (km):</label><input type="number" name="najezd_rocne" value="{{ form_data.get('najezd_rocne', '25000') }}" required></div>
+        <div class="form-group"><label>Délka kroku (roky):</label><input type="number" name="kroky_roky" value="{{ form_data.get('kroky_roky', '1') }}" required></div>
+        <div class="form-group full-width"><label>Analyzovat horizont (počet kroků):</label><input type="number" name="pocet_kroku" value="{{ form_data.get('pocet_kroku', '5') }}" required></div>
+
+        <button type="submit">Vygenerovat finanční report</button>
+    </form>
+
+    {% if plot_url %}
+    <div class="vysledky-box">
+        <h2 style="margin-top: 0; color: #2c3e50;">Finanční analýza za {{ vysledky.celkem_let }} let</h2>
+        <p style="color: #7f8c8d; margin-bottom: 30px;">Pořizovací hodnota vozu (dnes): <b>{{ "{:,.0f}".format(vysledky.start_cena).replace(',', ' ') }} Kč</b></p>
+
+        <div class="ceny-grid">
+            <div class="cena-item">
+                <span>Reálná hodnota na trhu</span>
+                <strong>{{ "{:,.0f}".format(vysledky.konec_trh).replace(',', ' ') }} Kč</strong>
+                <p class="info-text">Za tolik vůz prodáte podle AI.</p>
+            </div>
+            <div class="cena-item tax">
+                <span>Daňová zůstatková cena</span>
+                <strong>{{ "{:,.0f}".format(vysledky.konec_dan).replace(',', ' ') }} Kč</strong>
+                <p class="info-text">Hodnota vozu pro Finanční úřad.</p>
+            </div>
+
+            {% if vysledky.skryty_zisk > 0 %}
+            <div class="cena-item profit">
+                <span>Skrytý účetní zisk při prodeji</span>
+                <strong>+ {{ "{:,.0f}".format(vysledky.skryty_zisk).replace(',', ' ') }} Kč</strong>
+                <p class="info-text" style="color: #27ae60;">Auto prodáte za mnohem více, než jakou má hodnotu v účetnictví. (Z tohoto zisku ale odvedete daň z příjmu).</p>
+            </div>
+            {% else %}
+            <div class="cena-item loss">
+                <span>Skrytá účetní ztráta při prodeji</span>
+                <strong style="color: #e74c3c;">{{ "{:,.0f}".format(vysledky.skryty_zisk).replace(',', ' ') }} Kč</strong>
+                <p class="info-text" style="color: #e74c3c;">Tržní hodnota auta klesla rychleji, než jste si stihli odečíst z daní.</p>
+            </div>
+            {% endif %}
+        </div>
+
+        <img src="data:image/png;base64, {{ plot_url }}" alt="Graf amortizace B2B">
+    </div>
+    {% endif %}
+
+</div>
+
+</body>
+</html>
