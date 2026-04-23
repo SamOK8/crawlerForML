@@ -28,6 +28,9 @@
         .cena-item strong { font-size: 26px; color: #2c3e50; }
         img { max-width: 100%; height: auto; border-radius: 5px; margin-top: 10px; }
         .info-text { font-size: 13px; color: #7f8c8d; text-align: left; margin-top: 5px; }
+
+        /* CSS třída pro plynulé skrytí baterie */
+        .hidden-group { display: none !important; }
     </style>
 </head>
 <body>
@@ -44,27 +47,32 @@
 
         <div class="form-group">
             <label>Značka:</label>
-            <input type="text" name="znacka" list="znacky_list" value="{{ form_data.get('znacka', '') }}" required placeholder="Např. Škoda">
-            <datalist id="znacky_list">{% for z in mapping['znacka'] %}<option value="{{ z }}">{% endfor %}</datalist>
+            <select name="znacka" id="znacka" required>
+                <option value="">-- Vyberte značku --</option>
+                {% for z in mapping['znacka'] %}
+                <option value="{{ z }}" {% if form_data.get('znacka') == z %}selected{% endif %}>{{ z }}</option>
+                {% endfor %}
+            </select>
         </div>
         <div class="form-group">
             <label>Model:</label>
-            <input type="text" name="model" list="modely_list" value="{{ form_data.get('model', '') }}" required placeholder="Např. Octavia">
-            <datalist id="modely_list">{% for m in mapping['model'] %}<option value="{{ m }}">{% endfor %}</datalist>
+            <select name="model" id="model" required>
+                <option value="">-- Nejprve vyberte značku --</option>
+            </select>
         </div>
 
-        <div class="form-group"><label>Rok výroby:</label><input type="number" name="rok_vyroby" value="{{ form_data.get('rok_vyroby', '2019') }}" required></div>
-        <div class="form-group"><label>Najeto aktuálně (km):</label><input type="number" name="najeto" value="{{ form_data.get('najeto', '150000') }}" required></div>
-        <div class="form-group"><label>Výkon (kW):</label><input type="number" name="vykon" value="{{ form_data.get('vykon', '110') }}" required></div>
-        <div class="form-group"><label>Kapacita baterie (kWh):</label><input type="number" step="0.1" name="kapacita_baterie" value="{{ form_data.get('kapacita_baterie', '0') }}" required></div>
+        <div class="form-group"><label>Rok výroby:</label><input type="number" id="rok_vyroby" name="rok_vyroby" min="2000" max="2026" value="{{ form_data.get('rok_vyroby', '2019') }}" required></div>
+        <div class="form-group"><label>Najeto aktuálně (km):</label><input type="number" id="najeto" name="najeto" min="0" max="1000000" value="{{ form_data.get('najeto', '150000') }}" required></div>
+        <div class="form-group"><label>Výkon (kW):</label><input type="number" name="vykon" min="1" max="1000" value="{{ form_data.get('vykon', '110') }}" required></div>
+        <div class="form-group" id="baterie_group"><label>Kapacita baterie (kWh):</label><input type="number" step="0.1" min="0" max="400" id="kapacita_baterie" name="kapacita_baterie" value="{{ form_data.get('kapacita_baterie', '0') }}" required></div>
 
         <div class="form-group">
             <label>Stav:</label>
-            <select name="stav">{% for i in range(mapping['stav']|length) %}<option value="{{ i }}" {% if form_data.get('stav')|string == i|string %}selected{% endif %}>{{ mapping['stav'][i] }}</option>{% endfor %}</select>
+            <select name="stav" id="stav">{% for i in range(mapping['stav']|length) %}<option value="{{ i }}" {% if form_data.get('stav')|string == i|string %}selected{% endif %}>{{ mapping['stav'][i] }}</option>{% endfor %}</select>
         </div>
         <div class="form-group">
             <label>Palivo:</label>
-            <select name="palivo">{% for i in range(mapping['palivo']|length) %}<option value="{{ i }}" {% if form_data.get('palivo')|string == i|string %}selected{% endif %}>{{ mapping['palivo'][i] }}</option>{% endfor %}</select>
+            <select name="palivo" id="palivo">{% for i in range(mapping['palivo']|length) %}<option value="{{ i }}" {% if form_data.get('palivo')|string == i|string %}selected{% endif %}>{{ mapping['palivo'][i] }}</option>{% endfor %}</select>
         </div>
         <div class="form-group">
             <label>Převodovka:</label>
@@ -87,9 +95,8 @@
             <div class="info-text">Poznámka: Výpočet ignoruje limit 2 mil. Kč pro luxusní vozy.</div>
         </div>
 
-        <div class="form-group"><label>Průměrný roční nájezd (km):</label><input type="number" name="najezd_rocne" value="{{ form_data.get('najezd_rocne', '25000') }}" required></div>
-        <div class="form-group"><label>Délka kroku (roky):</label><input type="number" name="kroky_roky" value="{{ form_data.get('kroky_roky', '1') }}" required></div>
-        <div class="form-group full-width"><label>Analyzovat horizont (počet kroků):</label><input type="number" name="pocet_kroku" value="{{ form_data.get('pocet_kroku', '5') }}" required></div>
+        <div class="form-group"><label>Průměrný roční nájezd (km):</label><input type="number" name="najezd_rocne" min="0" max="300000" value="{{ form_data.get('najezd_rocne', '25000') }}" required></div>
+        <div class="form-group"><label>Plánovaná doba vlastnictví v letech:</label><input type="number" name="pocet_kroku" min="1" max="15" value="{{ form_data.get('pocet_kroku', '5') }}" required></div>
 
         <button type="submit">Vygenerovat finanční report</button>
     </form>
@@ -131,6 +138,111 @@
     {% endif %}
 
 </div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    const rokInput = document.getElementById('rok_vyroby');
+    const najetoInput = document.getElementById('najeto');
+    const stavSelect = document.getElementById('stav');
+
+    const palivoSelect = document.getElementById('palivo');
+    const baterieGroup = document.getElementById('baterie_group');
+    const baterieInput = document.getElementById('kapacita_baterie');
+
+    const znackaSelect = document.getElementById('znacka');
+    const modelSelect = document.getElementById('model');
+
+    // Mapování značka → modely (předáno z backendu)
+    const brandModels = {{ brand_models | tojson }};
+
+    // Uložený výběr z předchozího POST requestu
+    const savedModel = "{{ form_data.get('model', '') }}";
+
+    // 0. Logika pro dynamické filtrování modelů podle značky
+    function updateModels() {
+        const selectedBrand = znackaSelect.value;
+        modelSelect.innerHTML = '';
+
+        if (!selectedBrand) {
+            const defaultOpt = document.createElement('option');
+            defaultOpt.value = '';
+            defaultOpt.textContent = '-- Nejprve vyberte značku --';
+            modelSelect.appendChild(defaultOpt);
+            return;
+        }
+
+        const models = brandModels[selectedBrand] || [];
+
+        const placeholder = document.createElement('option');
+        placeholder.value = '';
+        placeholder.textContent = '-- Vyberte model --';
+        modelSelect.appendChild(placeholder);
+
+        models.forEach(function(m) {
+            const opt = document.createElement('option');
+            opt.value = m;
+            opt.textContent = m;
+            if (m === savedModel) {
+                opt.selected = true;
+            }
+            modelSelect.appendChild(opt);
+        });
+    }
+
+    znackaSelect.addEventListener('change', updateModels);
+
+    // Prvotní naplnění modelů (pokud je značka už vybraná po POST)
+    updateModels();
+
+    // 1. Logika pro dynamickou validaci stavu (Nové vs Ojeté)
+    function checkCondition() {
+        const currentYear = new Date().getFullYear();
+        const rok = parseInt(rokInput.value) || currentYear;
+        const najeto = parseInt(najetoInput.value) || 0;
+
+        let forceOjete = false;
+
+        if (najeto > 5000 || (currentYear - rok) > 5) {
+            forceOjete = true;
+        }
+
+        for (let i = 0; i < stavSelect.options.length; i++) {
+            let optionText = stavSelect.options[i].text.toLowerCase();
+
+            // Pokud najde slovo nové, zakáže ho, pokud jsou splněny podmínky
+            if (optionText.includes('nové') || optionText.includes('nove')) {
+                stavSelect.options[i].disabled = forceOjete;
+            }
+            // Zároveň přepne výběr na Ojeté
+            if (forceOjete && (optionText.includes('ojeté') || optionText.includes('ojete'))) {
+                stavSelect.selectedIndex = i;
+            }
+        }
+    }
+
+    // 2. Logika pro skrývání baterie
+    function checkBattery() {
+        const selectedPalivo = palivoSelect.options[palivoSelect.selectedIndex].text.toLowerCase();
+
+        // Zobrazení jen pro elektro nebo hybrid
+        if (selectedPalivo.includes('elektro') || selectedPalivo.includes('hybrid') || selectedPalivo.includes('phev')) {
+            baterieGroup.classList.remove('hidden-group');
+        } else {
+            baterieGroup.classList.add('hidden-group');
+            baterieInput.value = 0; // Skryté pole nastavíme tvrdě na 0
+        }
+    }
+
+    // Nastavení posluchačů změn (Event Listeners)
+    rokInput.addEventListener('input', checkCondition);
+    najetoInput.addEventListener('input', checkCondition);
+    palivoSelect.addEventListener('change', checkBattery);
+
+    // Prvotní kontrola při načtení stránky
+    checkCondition();
+    checkBattery();
+});
+</script>
 
 </body>
 </html>
